@@ -1,0 +1,22 @@
+﻿  ROLOCTS_con_dominancia_18_03_2018.C
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(402): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(461): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(461): warning C4024: 'select_move': different types for formal and actual parameter 18
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(461): warning C4024: 'select_move': different types for formal and actual parameter 19
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(462): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(462): warning C4024: 'execute_move': different types for formal and actual parameter 10
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(462): warning C4024: 'execute_move': different types for formal and actual parameter 11
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(471): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(471): warning C4024: 'write_output_foo2': different types for formal and actual parameter 7
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(471): warning C4024: 'write_output_foo2': different types for formal and actual parameter 8
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(1664): warning C4028: formal parameter 2 different from declaration
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(1664): warning C4028: formal parameter 6 different from declaration
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(1664): warning C4029: declared formal parameter list different from definition
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(1877): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(1877): warning C4024: 'search': different types for formal and actual parameter 11
+..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C(1877): warning C4024: 'search': different types for formal and actual parameter 12
+  Generating code
+c:\users\fou-f\desktop\rolocts\update_alan_17_03_2018\rolocts_con_dominancia_18_03_2018.c(300): warning C4715: 'find_place': not all control paths return a value
+  All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ROLOCTS_TEST.vcxproj -> C:\Users\fou-f\Desktop\ROLOCTS\ROLOCTS_TEST\x64\Release\ROLOCTS_TEST.exe

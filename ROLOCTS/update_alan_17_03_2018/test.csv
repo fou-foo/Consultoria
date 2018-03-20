@@ -1,0 +1,2450 @@
+﻿Iteration,1.00,ex,0.00,risk,1571.36,lam0.000,1571.36
+Iteration,2.00,ex,0.00,risk,1528.61,lam0.000,1528.61
+Iteration,3.00,ex,0.00,risk,1958.18,lam0.000,1958.18
+Iteration,4.00,ex,0.00,risk,2054.05,lam0.000,2054.05
+Iteration,5.00,ex,0.00,risk,3064.93,lam0.000,3064.93
+Iteration,6.00,ex,0.00,risk,1456.77,lam0.000,1456.77
+Iteration,7.00,ex,0.00,risk,1363.78,lam0.000,1363.78
+Iteration,8.00,ex,0.00,risk,3086.39,lam0.000,3086.39
+Iteration,9.00,ex,0.00,risk,3432.91,lam0.000,3432.91
+Iteration,10.00,ex,0.00,risk,3481.56,lam0.000,3481.56
+Iteration,11.00,ex,0.00,risk,4124.28,lam0.000,4124.28
+Iteration,12.00,ex,0.00,risk,1553.05,lam0.000,1553.05
+Iteration,13.00,ex,0.00,risk,2384.62,lam0.000,2384.62
+Iteration,14.00,ex,0.00,risk,3575.30,lam 0.000,3575.30
+Iteration,15.00,ex,0.00,risk,3767.54,lam0.000,3767.54
+Iteration,16.00,ex,0.00,risk,1525.17,lam0.000,1525.17
+Iteration,17.00,ex,0.00,risk,2088.77,lam0.000,2088.77
+Iteration,18.00,ex,0.00,risk,4414.99,lam0.000,4414.99
+Iteration,19.00,ex,0.00,risk,2251.13,lam0.000,2251.13
+Iteration,20.00,ex,0.00,risk,4907.67,lam0.000,4907.67
+Iteration,21.00,ex,0.00,risk,2276.20,lam0.000,2276.20
+Iteration,22.00,ex,0.00,risk,4343.35,lam 0.000,4343.35
+Iteration,23.00,ex,0.00,risk,4773.96,lam0.000,4773.96
+Iteration,24.00,ex,0.00,risk,3986.01,lam 0.0000,3986.01
+Iteration,25.00,ex,0.00,risk,3986.01,lam0.000,3986.01
+Iteration,26.00,ex,0.00,risk,3986.01,lam0.000,3986.01
+Iteration,27.00,ex,0.00,risk,6017.10,lam0.000,6017.10
+Iteration,28.00,ex,0.00,risk,6017.10,lam0.000,6017.10
+Iteration,29.00,ex,0.00,risk,6017.10,lam0.000,6017.10
+Iteration,30.00,ex,0.00,risk,6017.10,lam 0.000,6017.10
+Iteration,31.00,ex,0.00,risk,4559.43,lam 0.0000,4559.43
+Iteration,32.00,ex,0.00,risk,4559.43,lam0.000,4559.43
+Iteration,33.00,ex,0.00,risk,3634.21,lam 0.0000,3634.21
+Iteration,34.00,ex,0.00,risk,3634.21,lam0.000,3634.21
+Iteration,35.00,ex,0.00,risk,3634.21,lam0.000,3634.21
+Iteration,36.00,ex,0.00,risk,3082.82,lam0.000,3082.82
+Iteration,37.00,ex,0.00,risk,3082.82,lam0.000,3082.82
+Iteration,38.00,ex,0.00,risk,3082.82,lam 0.000,3082.82
+Iteration,39.00,ex,0.00,risk,2003.55,lam 0.000,2003.55
+Iteration,40.00,ex,0.00,risk,1851.91,lam0.000,1851.91
+Iteration,41.00,ex,0.00,risk,3425.57,lam0.000,3425.57
+Iteration,42.00,ex,0.00,risk,4871.62,lam0.000,4871.62
+Iteration,43.00,ex,0.00,risk,2762.47,lam 0.0000,2762.47
+Iteration,44.00,ex,0.00,risk,2762.47,lam 0.0000,2762.47
+Iteration,45.00,ex,0.00,risk,2762.47,lam0.000,2762.47
+Iteration,46.00,ex,0.00,risk,2762.47,lam 0.000,2762.47
+Iteration,47.00,ex,0.00,risk,2762.47,lam 0.000,2762.47
+Iteration,48.00,ex,0.00,risk,2762.47,lam 0.000,2762.47
+Iteration,49.00,ex,0.00,risk,4748.68,lam 0.0000,4748.68
+Iteration,1.00,ex,285.83,risk,1539.93,lam0.020,1825.76
+Iteration,2.00,ex,388.18,risk,1498.04,lam0.020,1886.22
+Iteration,3.00,ex,393.69,risk,1919.02,lam0.020,2312.70
+Iteration,4.00,ex,373.67,risk,2012.97,lam0.020,2386.64
+Iteration,5.00,ex,331.05,risk,3003.63,lam0.020,3334.68
+Iteration,6.00,ex,387.80,risk,1427.63,lam0.020,1815.43
+Iteration,7.00,ex,364.77,risk,1336.51,lam0.020,1701.27
+Iteration,8.00,ex,416.07,risk,3024.66,lam0.020,3440.73
+Iteration,9.00,ex,572.03,risk,1521.99,lam 0.020,2094.03
+Iteration,10.00,ex,662.96,risk,1776.11,lam0.020,2439.08
+Iteration,11.00,ex,750.00,risk,3003.53,lam0.020,3753.52
+Iteration,12.00,ex,658.66,risk,2522.72,lam 0.020,3181.39
+Iteration,13.00,ex,611.34,risk,2966.29,lam0.020,3577.63
+Iteration,14.00,ex,638.92,risk,2014.56,lam 0.0200,2653.49
+Iteration,15.00,ex,486.14,risk,2359.20,lam0.020,2845.34
+Iteration,16.00,ex,741.25,risk,1702.51,lam0.020,2443.77
+Iteration,17.00,ex,549.91,risk,2230.67,lam0.020,2780.58
+Iteration,18.00,ex,758.48,risk,4326.69,lam0.020,5085.17
+Iteration,19.00,ex,373.43,risk,2206.11,lam0.020,2579.54
+Iteration,20.00,ex,744.15,risk,4809.52,lam0.020,5553.67
+Iteration,21.00,ex,723.07,risk,4256.48,lam0.020,4979.55
+Iteration,22.00,ex,830.05,risk,3909.05,lam 0.020,4739.10
+Iteration,23.00,ex,606.12,risk,2356.16,lam 0.0200,2962.28
+Iteration,24.00,ex,606.12,risk,2356.16,lam0.020,2962.29
+Iteration,25.00,ex,598.05,risk,4673.51,lam0.020,5271.56
+Iteration,26.00,ex,598.05,risk,4673.51,lam0.020,5271.56
+Iteration,27.00,ex,598.05,risk,4673.51,lam0.020,5271.56
+Iteration,28.00,ex,598.05,risk,4673.51,lam 0.020,5271.56
+Iteration,29.00,ex,879.54,risk,4468.24,lam 0.0200,5347.78
+Iteration,30.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,31.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,32.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,33.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,34.00,ex,879.54,risk,4468.24,lam 0.020,5347.78
+Iteration,35.00,ex,879.54,risk,4468.24,lam 0.0200,5347.78
+Iteration,36.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,37.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,38.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,39.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,40.00,ex,879.54,risk,4468.24,lam 0.020,5347.78
+Iteration,41.00,ex,879.54,risk,4468.24,lam 0.0200,5347.78
+Iteration,42.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,43.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,44.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,45.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,46.00,ex,879.54,risk,4468.24,lam 0.020,5347.78
+Iteration,47.00,ex,879.54,risk,4468.24,lam 0.0200,5347.78
+Iteration,48.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,49.00,ex,879.54,risk,4468.24,lam0.020,5347.78
+Iteration,1.00,ex,571.65,risk,1508.51,lam0.040,2080.16
+Iteration,2.00,ex,776.36,risk,1467.47,lam0.040,2243.83
+Iteration,3.00,ex,787.38,risk,1879.85,lam0.040,2667.23
+Iteration,4.00,ex,662.10,risk,2942.33,lam0.040,3604.43
+Iteration,5.00,ex,963.31,risk,2660.78,lam0.040,3624.09
+Iteration,6.00,ex,775.60,risk,1398.50,lam0.040,2174.10
+Iteration,7.00,ex,729.53,risk,1309.23,lam0.040,2038.77
+Iteration,8.00,ex,832.15,risk,2962.93,lam0.040,3795.08
+Iteration,9.00,ex,1144.07,risk,1490.93,lam0.040,2635.00
+Iteration,10.00,ex,1298.63,risk,3432.29,lam 0.040,4730.91
+Iteration,11.00,ex,888.22,risk,2491.19,lam0.040,3379.41
+Iteration,12.00,ex,1063.80,risk,3809.56,lam0.040,4873.35
+Iteration,13.00,ex,900.88,risk,3297.28,lam0.040,4198.16
+Iteration,14.00,ex,1081.61,risk,5556.28,lam0.040,6637.89
+Iteration,15.00,ex,1426.61,risk,3649.58,lam 0.040,5076.20
+Iteration,16.00,ex,1236.57,risk,3826.57,lam0.040,5063.14
+Iteration,17.00,ex,1062.52,risk,2122.35,lam 0.0400,3184.87
+Iteration,18.00,ex,1446.13,risk,4169.61,lam0.040,5615.74
+Iteration,19.00,ex,1446.13,risk,4169.61,lam0.040,5615.74
+Iteration,20.00,ex,1325.93,risk,1739.86,lam 0.0400,3065.79
+Iteration,21.00,ex,1325.93,risk,1739.86,lam0.040,3065.79
+Iteration,22.00,ex,1325.93,risk,1739.86,lam 0.040,3065.79
+Iteration,23.00,ex,1325.93,risk,1739.86,lam 0.0400,3065.79
+Iteration,24.00,ex,1325.93,risk,1739.86,lam 0.040,3065.79
+Iteration,25.00,ex,1083.92,risk,4658.85,lam0.040,5742.77
+Iteration,26.00,ex,1563.97,risk,4516.03,lam0.040,6080.00
+Iteration,27.00,ex,1563.97,risk,4516.03,lam0.040,6080.00
+Iteration,28.00,ex,1563.97,risk,4516.03,lam0.040,6080.00
+Iteration,29.00,ex,1563.97,risk,4516.03,lam0.040,6080.00
+Iteration,30.00,ex,1093.84,risk,1687.05,lam0.040,2780.89
+Iteration,31.00,ex,1048.15,risk,1809.79,lam0.040,2857.94
+Iteration,32.00,ex,1223.30,risk,2691.86,lam0.040,3915.15
+Iteration,33.00,ex,1518.07,risk,3012.88,lam0.040,4530.95
+Iteration,34.00,ex,1646.65,risk,3381.94,lam0.040,5028.59
+Iteration,35.00,ex,1646.65,risk,3381.94,lam0.040,5028.59
+Iteration,36.00,ex,1646.65,risk,3381.94,lam0.040,5028.59
+Iteration,37.00,ex,1646.65,risk,3381.94,lam0.040,5028.59
+Iteration,38.00,ex,1646.65,risk,3381.94,lam 0.040,5028.59
+Iteration,39.00,ex,1205.25,risk,1925.68,lam 0.0400,3130.94
+Iteration,40.00,ex,1205.25,risk,1925.68,lam0.040,3130.94
+Iteration,41.00,ex,1205.25,risk,1925.68,lam0.040,3130.94
+Iteration,42.00,ex,1205.25,risk,1925.68,lam0.040,3130.94
+Iteration,43.00,ex,1205.25,risk,1925.68,lam0.040,3130.94
+Iteration,44.00,ex,1205.25,risk,1925.68,lam0.040,3130.94
+Iteration,45.00,ex,1205.25,risk,1925.68,lam0.040,3130.94
+Iteration,46.00,ex,1205.25,risk,1925.68,lam 0.0400,3130.94
+Iteration,47.00,ex,1205.25,risk,1925.68,lam 0.040,3130.94
+Iteration,48.00,ex,1442.49,risk,2707.16,lam0.040,4149.65
+Iteration,49.00,ex,1442.49,risk,2707.16,lam 0.0400,4149.65
+Iteration,1.00,ex,857.48,risk,1477.08,lam0.060,2334.56
+Iteration,2.00,ex,1164.54,risk,1436.89,lam0.060,2601.44
+Iteration,3.00,ex,1181.07,risk,1840.69,lam0.060,3021.75
+Iteration,4.00,ex,993.15,risk,2881.03,lam0.060,3874.19
+Iteration,5.00,ex,1444.96,risk,2605.35,lam0.060,4050.31
+Iteration,6.00,ex,1163.40,risk,1369.36,lam0.060,2532.77
+Iteration,7.00,ex,1208.32,risk,3054.79,lam0.060,4263.11
+Iteration,8.00,ex,1716.10,risk,1459.87,lam0.060,3175.97
+Iteration,9.00,ex,1947.94,risk,3360.78,lam 0.060,5308.72
+Iteration,10.00,ex,1332.33,risk,2439.29,lam 0.0600,3771.62
+Iteration,11.00,ex,1975.99,risk,2419.76,lam0.060,4395.75
+Iteration,12.00,ex,1975.99,risk,2419.76,lam 0.060,4395.75
+Iteration,13.00,ex,2117.58,risk,1767.27,lam 0.060,3884.85
+Iteration,14.00,ex,1854.86,risk,3746.85,lam0.060,5601.71
+Iteration,15.00,ex,1594.06,risk,1740.80,lam 0.0600,3334.86
+Iteration,16.00,ex,1594.06,risk,1740.80,lam 0.0600,3334.86
+Iteration,17.00,ex,1594.06,risk,1740.80,lam0.060,3334.86
+Iteration,18.00,ex,997.32,risk,2288.39,lam0.060,3285.70
+Iteration,19.00,ex,997.32,risk,2288.39,lam0.060,3285.70
+Iteration,20.00,ex,997.32,risk,2288.39,lam 0.060,3285.70
+Iteration,21.00,ex,997.32,risk,2288.39,lam 0.060,3285.70
+Iteration,22.00,ex,1631.30,risk,2596.72,lam0.060,4228.01
+Iteration,23.00,ex,1606.94,risk,2404.71,lam 0.0600,4011.64
+Iteration,24.00,ex,1162.05,risk,2606.42,lam 0.060,3768.48
+Iteration,25.00,ex,2275.08,risk,2495.96,lam 0.0600,4771.04
+Iteration,26.00,ex,2275.08,risk,2495.96,lam0.060,4771.04
+Iteration,27.00,ex,1595.69,risk,3730.19,lam0.060,5325.89
+Iteration,28.00,ex,1351.33,risk,3228.58,lam0.060,4579.91
+Iteration,29.00,ex,1345.89,risk,2126.58,lam0.060,3472.47
+Iteration,30.00,ex,1622.41,risk,5440.53,lam0.060,7062.94
+Iteration,31.00,ex,2121.40,risk,5656.07,lam0.060,7777.47
+Iteration,32.00,ex,1345.61,risk,2772.98,lam0.060,4118.59
+Iteration,33.00,ex,1345.61,risk,2772.98,lam0.060,4118.59
+Iteration,34.00,ex,1345.61,risk,2772.98,lam0.060,4118.59
+Iteration,35.00,ex,1345.61,risk,2772.98,lam0.060,4118.59
+Iteration,36.00,ex,1345.61,risk,2772.98,lam0.060,4118.59
+Iteration,37.00,ex,1345.61,risk,2772.98,lam0.060,4118.59
+Iteration,38.00,ex,1345.61,risk,2772.98,lam0.060,4118.59
+Iteration,39.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,40.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,41.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,42.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,43.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,44.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,45.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,46.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,47.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,48.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,49.00,ex,2375.88,risk,2334.83,lam0.060,4710.72
+Iteration,1.00,ex,1143.30,risk,1445.65,lam0.080,2588.95
+Iteration,2.00,ex,1552.73,risk,1406.32,lam0.080,2959.05
+Iteration,3.00,ex,1574.75,risk,1801.53,lam0.080,3376.28
+Iteration,4.00,ex,1324.21,risk,2819.73,lam0.080,4143.94
+Iteration,5.00,ex,1926.61,risk,2549.92,lam0.080,4476.53
+Iteration,6.00,ex,1551.21,risk,1340.23,lam0.080,2891.43
+Iteration,7.00,ex,1611.09,risk,2989.80,lam0.080,4600.89
+Iteration,8.00,ex,2288.14,risk,1428.81,lam0.080,3716.94
+Iteration,9.00,ex,2597.25,risk,3289.27,lam 0.080,5886.53
+Iteration,10.00,ex,1776.44,risk,2387.39,lam 0.0800,4163.83
+Iteration,11.00,ex,2634.66,risk,2368.27,lam0.080,5002.93
+Iteration,12.00,ex,2634.66,risk,2368.27,lam 0.080,5002.93
+Iteration,13.00,ex,2823.44,risk,1729.67,lam 0.080,4553.10
+Iteration,14.00,ex,2473.14,risk,3667.13,lam0.080,6140.27
+Iteration,15.00,ex,2125.42,risk,1703.76,lam 0.0800,3829.18
+Iteration,16.00,ex,2125.42,risk,1703.76,lam 0.0800,3829.18
+Iteration,17.00,ex,2125.42,risk,1703.76,lam0.080,3829.18
+Iteration,18.00,ex,1329.75,risk,2239.70,lam0.080,3569.45
+Iteration,19.00,ex,1329.75,risk,2239.70,lam0.080,3569.45
+Iteration,20.00,ex,1329.75,risk,2239.70,lam 0.080,3569.45
+Iteration,21.00,ex,1329.75,risk,2239.70,lam 0.080,3569.45
+Iteration,22.00,ex,2175.06,risk,2541.47,lam0.080,4716.53
+Iteration,23.00,ex,2142.58,risk,2353.54,lam 0.0800,4496.12
+Iteration,24.00,ex,1549.40,risk,2550.97,lam 0.080,4100.37
+Iteration,25.00,ex,3033.44,risk,2442.86,lam 0.0800,5476.29
+Iteration,26.00,ex,3033.44,risk,2442.86,lam0.080,5476.29
+Iteration,27.00,ex,2127.59,risk,3650.83,lam0.080,5778.42
+Iteration,28.00,ex,1801.77,risk,3159.89,lam0.080,4961.66
+Iteration,29.00,ex,1794.52,risk,2081.33,lam0.080,3875.86
+Iteration,30.00,ex,2163.21,risk,5324.77,lam0.080,7487.98
+Iteration,31.00,ex,2828.53,risk,5535.73,lam0.080,8364.26
+Iteration,32.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,33.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,34.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,35.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,36.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,37.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,38.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,39.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,40.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,41.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,42.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,43.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,44.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,45.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,46.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,47.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,48.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,49.00,ex,1930.05,risk,3260.42,lam0.080,5190.47
+Iteration,1.00,ex,1429.13,risk,1414.22,lam0.100,2843.35
+Iteration,2.00,ex,1940.91,risk,1375.75,lam0.100,3316.66
+Iteration,3.00,ex,1968.44,risk,1762.36,lam0.100,3730.80
+Iteration,4.00,ex,1655.26,risk,2758.44,lam0.100,4413.69
+Iteration,5.00,ex,2408.26,risk,2494.49,lam0.100,4902.75
+Iteration,6.00,ex,1939.01,risk,1311.09,lam0.100,3250.10
+Iteration,7.00,ex,2013.86,risk,2924.80,lam0.100,4938.66
+Iteration,8.00,ex,2860.17,risk,1397.75,lam0.100,4257.92
+Iteration,9.00,ex,3246.56,risk,3217.77,lam 0.100,6464.33
+Iteration,10.00,ex,2220.55,risk,2335.49,lam0.100,4556.04
+Iteration,11.00,ex,1936.75,risk,2495.51,lam 0.1000,4432.27
+Iteration,12.00,ex,1936.75,risk,2495.51,lam 0.100,4432.27
+Iteration,13.00,ex,3293.32,risk,2316.79,lam 0.100,5610.11
+Iteration,14.00,ex,3091.43,risk,3587.41,lam0.100,6678.84
+Iteration,15.00,ex,2656.77,risk,1666.72,lam 0.1000,4323.49
+Iteration,16.00,ex,2656.77,risk,1666.72,lam 0.1000,4323.49
+Iteration,17.00,ex,2656.77,risk,1666.72,lam0.100,4323.49
+Iteration,18.00,ex,1662.19,risk,2191.01,lam0.100,3853.20
+Iteration,19.00,ex,1662.19,risk,2191.01,lam0.100,3853.20
+Iteration,20.00,ex,1662.19,risk,2191.01,lam 0.100,3853.20
+Iteration,21.00,ex,1662.19,risk,2191.01,lam 0.100,3853.20
+Iteration,22.00,ex,2718.83,risk,2486.22,lam0.100,5205.05
+Iteration,23.00,ex,2678.22,risk,2302.38,lam 0.1000,4980.60
+Iteration,24.00,ex,2842.53,risk,3019.13,lam 0.100,5861.67
+Iteration,25.00,ex,2842.53,risk,3019.13,lam 0.1000,5861.67
+Iteration,26.00,ex,2842.53,risk,3019.13,lam0.100,5861.67
+Iteration,27.00,ex,2659.49,risk,3571.46,lam0.100,6230.95
+Iteration,28.00,ex,2252.21,risk,3091.20,lam0.100,5343.41
+Iteration,29.00,ex,2243.15,risk,2036.09,lam0.100,4279.24
+Iteration,30.00,ex,2704.02,risk,5209.02,lam0.100,7913.03
+Iteration,31.00,ex,3535.66,risk,5415.39,lam0.100,8951.05
+Iteration,32.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,33.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,34.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,35.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,36.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,37.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,38.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,39.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,40.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,41.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,42.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,43.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,44.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,45.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,46.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,47.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,48.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,49.00,ex,2412.56,risk,3189.54,lam0.100,5602.11
+Iteration,1.00,ex,1714.95,risk,1382.80,lam0.120,3097.75
+Iteration,2.00,ex,2329.09,risk,1345.18,lam0.120,3674.26
+Iteration,3.00,ex,2362.13,risk,1723.20,lam0.120,4085.33
+Iteration,4.00,ex,1986.31,risk,2697.14,lam0.120,4683.44
+Iteration,5.00,ex,2889.92,risk,2439.05,lam0.120,5328.97
+Iteration,6.00,ex,2326.81,risk,1281.96,lam0.120,3608.76
+Iteration,7.00,ex,2416.64,risk,2859.81,lam0.120,5276.44
+Iteration,8.00,ex,3432.20,risk,1366.69,lam0.120,4798.89
+Iteration,9.00,ex,3895.88,risk,3146.26,lam 0.120,7042.14
+Iteration,10.00,ex,2664.66,risk,2283.59,lam0.120,4948.25
+Iteration,11.00,ex,2324.11,risk,2440.06,lam 0.1200,4764.16
+Iteration,12.00,ex,2324.11,risk,2440.06,lam 0.120,4764.16
+Iteration,13.00,ex,3951.99,risk,2265.30,lam 0.120,6217.29
+Iteration,14.00,ex,3709.71,risk,3507.69,lam0.120,7217.40
+Iteration,15.00,ex,3188.13,risk,1629.68,lam 0.1200,4817.81
+Iteration,16.00,ex,3188.13,risk,1629.68,lam 0.1200,4817.81
+Iteration,17.00,ex,3188.13,risk,1629.68,lam0.120,4817.81
+Iteration,18.00,ex,1994.63,risk,2142.32,lam0.120,4136.95
+Iteration,19.00,ex,1994.63,risk,2142.32,lam0.120,4136.95
+Iteration,20.00,ex,1994.63,risk,2142.32,lam 0.120,4136.95
+Iteration,21.00,ex,1994.63,risk,2142.32,lam 0.120,4136.95
+Iteration,22.00,ex,3262.59,risk,2430.97,lam0.120,5693.56
+Iteration,23.00,ex,3213.87,risk,2251.21,lam 0.1200,5465.08
+Iteration,24.00,ex,3411.04,risk,2952.04,lam 0.120,6363.08
+Iteration,25.00,ex,3411.04,risk,2952.04,lam 0.1200,6363.08
+Iteration,26.00,ex,3411.04,risk,2952.04,lam0.120,6363.08
+Iteration,27.00,ex,3411.04,risk,2952.04,lam 0.1200,6363.08
+Iteration,28.00,ex,3411.04,risk,2952.04,lam 0.120,6363.08
+Iteration,29.00,ex,3411.04,risk,2952.04,lam0.120,6363.08
+Iteration,30.00,ex,3191.38,risk,3492.10,lam0.120,6683.48
+Iteration,31.00,ex,2702.65,risk,3022.50,lam0.120,5725.16
+Iteration,32.00,ex,3244.82,risk,5093.26,lam0.120,8338.08
+Iteration,33.00,ex,4094.85,risk,3858.24,lam0.120,7953.09
+Iteration,34.00,ex,4242.80,risk,5295.05,lam0.120,9537.84
+Iteration,35.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,36.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,37.00,ex,2895.08,risk,3118.67,lam 0.1200,6013.74
+Iteration,38.00,ex,2895.08,risk,3118.67,lam 0.120,6013.74
+Iteration,39.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,40.00,ex,2895.08,risk,3118.67,lam 0.1200,6013.74
+Iteration,41.00,ex,2895.08,risk,3118.67,lam 0.120,6013.74
+Iteration,42.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,43.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,44.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,45.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,46.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,47.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,48.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,49.00,ex,2895.08,risk,3118.67,lam0.120,6013.74
+Iteration,1.00,ex,2000.78,risk,1351.37,lam0.140,3352.15
+Iteration,2.00,ex,2717.27,risk,1314.61,lam0.140,4031.87
+Iteration,3.00,ex,2755.82,risk,1684.03,lam0.140,4439.85
+Iteration,4.00,ex,2317.36,risk,2635.84,lam0.140,4953.20
+Iteration,5.00,ex,3371.57,risk,2383.62,lam0.140,5755.19
+Iteration,6.00,ex,2714.61,risk,1252.82,lam0.140,3967.43
+Iteration,7.00,ex,2819.41,risk,2794.81,lam0.140,5614.22
+Iteration,8.00,ex,4004.24,risk,1335.63,lam0.140,5339.86
+Iteration,9.00,ex,4545.19,risk,3074.76,lam0.140,7619.95
+Iteration,10.00,ex,2327.07,risk,2093.63,lam0.140,4420.70
+Iteration,11.00,ex,3110.55,risk,2321.48,lam0.140,5432.03
+Iteration,12.00,ex,4449.78,risk,2664.24,lam 0.140,7114.03
+Iteration,13.00,ex,3108.77,risk,2231.69,lam0.140,5340.46
+Iteration,14.00,ex,2711.46,risk,2384.60,lam 0.1400,5096.06
+Iteration,15.00,ex,2711.46,risk,2384.60,lam0.140,5096.06
+Iteration,16.00,ex,3603.31,risk,3163.54,lam0.140,6766.84
+Iteration,17.00,ex,3603.31,risk,3163.54,lam0.140,6766.84
+Iteration,18.00,ex,3603.31,risk,3163.54,lam 0.140,6766.84
+Iteration,19.00,ex,5001.19,risk,1723.05,lam 0.140,6724.25
+Iteration,20.00,ex,4328.00,risk,3427.97,lam0.140,7755.97
+Iteration,21.00,ex,3719.48,risk,1592.64,lam 0.1400,5312.13
+Iteration,22.00,ex,3719.48,risk,1592.64,lam 0.1400,5312.13
+Iteration,23.00,ex,3719.48,risk,1592.64,lam0.140,5312.13
+Iteration,24.00,ex,3719.48,risk,1592.64,lam0.140,5312.13
+Iteration,25.00,ex,3719.48,risk,1592.64,lam0.140,5312.13
+Iteration,26.00,ex,3719.48,risk,1592.64,lam 0.140,5312.13
+Iteration,27.00,ex,3719.48,risk,1592.64,lam 0.140,5312.13
+Iteration,28.00,ex,5076.91,risk,2409.65,lam0.140,7486.56
+Iteration,29.00,ex,3749.51,risk,2200.05,lam 0.1400,5949.56
+Iteration,30.00,ex,3749.51,risk,2200.05,lam 0.140,5949.56
+Iteration,31.00,ex,3749.51,risk,2200.05,lam 0.1400,5949.56
+Iteration,32.00,ex,3749.51,risk,2200.05,lam0.140,5949.56
+Iteration,33.00,ex,3749.51,risk,2200.05,lam 0.1400,5949.56
+Iteration,34.00,ex,3749.51,risk,2200.05,lam0.140,5949.56
+Iteration,35.00,ex,3749.51,risk,2200.05,lam0.140,5949.56
+Iteration,36.00,ex,3749.51,risk,2200.05,lam0.140,5949.56
+Iteration,37.00,ex,3749.51,risk,2200.05,lam 0.140,5949.56
+Iteration,38.00,ex,3749.51,risk,2200.05,lam 0.140,5949.56
+Iteration,39.00,ex,3749.51,risk,2200.05,lam0.140,5949.56
+Iteration,40.00,ex,5136.21,risk,2967.98,lam 0.1400,8104.19
+Iteration,41.00,ex,5136.21,risk,2967.98,lam 0.140,8104.19
+Iteration,42.00,ex,5136.21,risk,2967.98,lam 0.1400,8104.19
+Iteration,43.00,ex,5136.21,risk,2967.98,lam0.140,8104.19
+Iteration,44.00,ex,5136.21,risk,2967.98,lam 0.1400,8104.19
+Iteration,45.00,ex,5136.21,risk,2967.98,lam0.140,8104.19
+Iteration,46.00,ex,5136.21,risk,2967.98,lam0.140,8104.19
+Iteration,47.00,ex,5136.21,risk,2967.98,lam0.140,8104.19
+Iteration,48.00,ex,5136.21,risk,2967.98,lam 0.140,8104.19
+Iteration,49.00,ex,5136.21,risk,2967.98,lam 0.140,8104.19
+Iteration,1.00,ex,2286.61,risk,1319.94,lam0.160,3606.55
+Iteration,2.00,ex,3105.45,risk,1284.03,lam0.160,4389.48
+Iteration,3.00,ex,4001.59,risk,2003.08,lam0.160,6004.66
+Iteration,4.00,ex,4655.41,risk,2501.46,lam0.160,7156.87
+Iteration,5.00,ex,3112.36,risk,2883.65,lam0.160,5996.00
+Iteration,6.00,ex,3719.98,risk,2458.54,lam0.160,6178.53
+Iteration,7.00,ex,5085.47,risk,2602.28,lam 0.160,7687.75
+Iteration,8.00,ex,3514.36,risk,1389.68,lam0.160,4904.04
+Iteration,9.00,ex,3637.31,risk,2964.15,lam 0.1600,6601.46
+Iteration,10.00,ex,3637.31,risk,2964.15,lam0.160,6601.46
+Iteration,11.00,ex,5465.73,risk,2460.06,lam0.160,7925.79
+Iteration,12.00,ex,2648.41,risk,2574.54,lam 0.160,5222.95
+Iteration,13.00,ex,3094.57,risk,3123.54,lam0.160,6218.11
+Iteration,14.00,ex,3762.06,risk,4345.32,lam0.160,8107.38
+Iteration,15.00,ex,5815.42,risk,3246.97,lam 0.1600,9062.39
+Iteration,16.00,ex,5815.42,risk,3246.97,lam0.160,9062.39
+Iteration,17.00,ex,5269.32,risk,2162.34,lam0.160,7431.65
+Iteration,18.00,ex,5269.32,risk,2162.34,lam 0.160,7431.65
+Iteration,19.00,ex,5869.95,risk,2898.96,lam0.160,8768.91
+Iteration,20.00,ex,3757.56,risk,6101.40,lam0.160,9858.95
+Iteration,21.00,ex,5704.31,risk,2233.61,lam0.160,7937.93
+Iteration,22.00,ex,3546.83,risk,1471.67,lam0.160,5018.49
+Iteration,23.00,ex,5706.46,risk,3193.39,lam0.160,8899.84
+Iteration,24.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,25.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,26.00,ex,4255.18,risk,3333.36,lam 0.1600,7588.54
+Iteration,27.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,28.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,29.00,ex,4255.18,risk,3333.36,lam 0.160,7588.54
+Iteration,30.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,31.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,32.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,33.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,34.00,ex,4255.18,risk,3333.36,lam0.160,7588.54
+Iteration,35.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,36.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,37.00,ex,6174.37,risk,4889.03,lam 0.1600,11063.40
+Iteration,38.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,39.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,40.00,ex,6174.37,risk,4889.03,lam 0.160,11063.40
+Iteration,41.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,42.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,43.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,44.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,45.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,46.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,47.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,48.00,ex,6174.37,risk,4889.03,lam 0.1600,11063.40
+Iteration,49.00,ex,6174.37,risk,4889.03,lam0.160,11063.40
+Iteration,1.00,ex,2572.43,risk,1288.52,lam0.180,3860.95
+Iteration,2.00,ex,3493.63,risk,1253.46,lam0.180,4747.09
+Iteration,3.00,ex,4501.79,risk,1955.38,lam0.180,6457.17
+Iteration,4.00,ex,5237.34,risk,2441.90,lam0.180,7679.24
+Iteration,5.00,ex,3501.40,risk,2814.99,lam0.180,6316.39
+Iteration,6.00,ex,4184.98,risk,2400.01,lam0.180,6584.99
+Iteration,7.00,ex,5721.15,risk,2540.32,lam 0.180,8261.47
+Iteration,8.00,ex,3953.66,risk,1356.59,lam0.180,5310.24
+Iteration,9.00,ex,4091.97,risk,2893.58,lam 0.1800,6985.55
+Iteration,10.00,ex,4091.97,risk,2893.58,lam0.180,6985.55
+Iteration,11.00,ex,6148.95,risk,2401.49,lam0.180,8550.44
+Iteration,12.00,ex,2979.46,risk,2513.24,lam 0.180,5492.70
+Iteration,13.00,ex,3481.39,risk,3049.17,lam0.180,6530.56
+Iteration,14.00,ex,4232.32,risk,4241.86,lam0.180,8474.18
+Iteration,15.00,ex,6542.35,risk,3169.66,lam 0.1800,9712.01
+Iteration,16.00,ex,6542.35,risk,3169.66,lam0.180,9712.01
+Iteration,17.00,ex,5927.98,risk,2110.85,lam0.180,8038.83
+Iteration,18.00,ex,5927.98,risk,2110.85,lam 0.180,8038.83
+Iteration,19.00,ex,6603.70,risk,2829.94,lam0.180,9433.63
+Iteration,20.00,ex,4227.25,risk,5956.13,lam0.180,10183.38
+Iteration,21.00,ex,6417.35,risk,2180.43,lam0.180,8597.78
+Iteration,22.00,ex,6417.35,risk,2180.43,lam 0.1800,8597.78
+Iteration,23.00,ex,6417.35,risk,2180.43,lam0.180,8597.78
+Iteration,24.00,ex,6417.35,risk,2180.43,lam0.180,8597.78
+Iteration,25.00,ex,6417.35,risk,2180.43,lam 0.180,8597.78
+Iteration,26.00,ex,6417.35,risk,2180.43,lam0.180,8597.78
+Iteration,27.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,28.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,29.00,ex,6419.76,risk,3117.35,lam 0.1800,9537.11
+Iteration,30.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,31.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,32.00,ex,6419.76,risk,3117.35,lam 0.180,9537.12
+Iteration,33.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,34.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,35.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,36.00,ex,6419.76,risk,3117.35,lam 0.1800,9537.11
+Iteration,37.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,38.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,39.00,ex,6419.76,risk,3117.35,lam 0.180,9537.12
+Iteration,40.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,41.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,42.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,43.00,ex,6419.76,risk,3117.35,lam 0.1800,9537.11
+Iteration,44.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,45.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,46.00,ex,6419.76,risk,3117.35,lam 0.180,9537.12
+Iteration,47.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,48.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,49.00,ex,6419.76,risk,3117.35,lam0.180,9537.12
+Iteration,1.00,ex,2858.26,risk,1257.09,lam0.200,4115.34
+Iteration,2.00,ex,3881.81,risk,1222.89,lam0.200,5104.70
+Iteration,3.00,ex,5001.98,risk,1907.69,lam0.200,6909.68
+Iteration,4.00,ex,5819.26,risk,2382.35,lam0.200,8201.61
+Iteration,5.00,ex,3890.45,risk,2746.33,lam0.200,6636.78
+Iteration,6.00,ex,4649.98,risk,2341.47,lam0.200,6991.45
+Iteration,7.00,ex,6356.83,risk,2478.37,lam 0.200,8835.20
+Iteration,8.00,ex,4546.63,risk,2823.00,lam0.200,7369.64
+Iteration,9.00,ex,4754.75,risk,1431.34,lam 0.2000,6186.09
+Iteration,10.00,ex,3878.01,risk,1165.41,lam0.200,5043.43
+Iteration,11.00,ex,3868.25,risk,1968.51,lam0.200,5836.76
+Iteration,12.00,ex,6231.63,risk,2518.15,lam0.200,8749.78
+Iteration,13.00,ex,3955.90,risk,1939.87,lam0.200,5895.77
+Iteration,14.00,ex,4341.97,risk,3345.52,lam0.200,7687.49
+Iteration,15.00,ex,4647.96,risk,2399.90,lam0.200,7047.86
+Iteration,16.00,ex,4078.18,risk,1680.04,lam0.200,5758.21
+Iteration,17.00,ex,5980.54,risk,3815.11,lam0.200,9795.65
+Iteration,18.00,ex,6832.16,risk,2342.91,lam0.200,9175.08
+Iteration,19.00,ex,6832.16,risk,2342.91,lam 0.200,9175.08
+Iteration,20.00,ex,6548.57,risk,2709.56,lam0.200,9258.14
+Iteration,21.00,ex,4702.58,risk,4138.40,lam0.200,8840.98
+Iteration,22.00,ex,4504.42,risk,2747.73,lam0.200,7252.15
+Iteration,23.00,ex,5148.94,risk,1220.13,lam0.200,6369.07
+Iteration,24.00,ex,7130.39,risk,2127.25,lam0.200,9257.64
+Iteration,25.00,ex,6705.20,risk,2306.06,lam0.200,9011.26
+Iteration,26.00,ex,7133.07,risk,3041.32,lam0.200,10174.39
+Iteration,27.00,ex,7441.47,risk,3926.14,lam0.200,11367.60
+Iteration,28.00,ex,7441.47,risk,3926.14,lam0.200,11367.60
+Iteration,29.00,ex,7441.47,risk,3926.14,lam0.200,11367.60
+Iteration,30.00,ex,7878.17,risk,2244.89,lam0.200,10123.06
+Iteration,31.00,ex,7878.17,risk,2244.89,lam0.200,10123.06
+Iteration,32.00,ex,7878.17,risk,2244.89,lam 0.2000,10123.06
+Iteration,33.00,ex,7878.17,risk,2244.89,lam0.200,10123.06
+Iteration,34.00,ex,6586.65,risk,2059.37,lam0.200,8646.01
+Iteration,35.00,ex,6586.65,risk,2059.37,lam 0.200,8646.01
+Iteration,36.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,37.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,38.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,39.00,ex,7252.73,risk,2241.53,lam 0.2000,9494.26
+Iteration,40.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,41.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,42.00,ex,7252.73,risk,2241.53,lam 0.200,9494.26
+Iteration,43.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,44.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,45.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,46.00,ex,7252.73,risk,2241.53,lam 0.2000,9494.26
+Iteration,47.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,48.00,ex,7252.73,risk,2241.53,lam0.200,9494.26
+Iteration,49.00,ex,7252.73,risk,2241.53,lam 0.200,9494.26
+Iteration,1.00,ex,3144.08,risk,1225.66,lam0.220,4369.74
+Iteration,2.00,ex,4269.99,risk,1192.32,lam0.220,5462.31
+Iteration,3.00,ex,5502.18,risk,1860.00,lam0.220,7362.18
+Iteration,4.00,ex,6401.19,risk,2322.79,lam0.220,8723.98
+Iteration,5.00,ex,4279.49,risk,2677.67,lam0.220,6957.16
+Iteration,6.00,ex,5114.98,risk,2282.93,lam0.220,7397.91
+Iteration,7.00,ex,6992.52,risk,2416.41,lam 0.220,9408.92
+Iteration,8.00,ex,5001.29,risk,2752.43,lam0.220,7753.72
+Iteration,9.00,ex,5230.22,risk,1395.56,lam 0.2200,6625.78
+Iteration,10.00,ex,4265.81,risk,1136.28,lam0.220,5402.09
+Iteration,11.00,ex,4255.07,risk,1919.30,lam0.220,6174.37
+Iteration,12.00,ex,6854.79,risk,2455.20,lam0.220,9309.99
+Iteration,13.00,ex,4351.49,risk,1891.38,lam0.220,6242.87
+Iteration,14.00,ex,4776.17,risk,3261.88,lam0.220,8038.05
+Iteration,15.00,ex,5112.75,risk,2339.91,lam0.220,7452.66
+Iteration,16.00,ex,4486.00,risk,1638.04,lam0.220,6124.03
+Iteration,17.00,ex,6578.59,risk,3719.73,lam0.220,10298.32
+Iteration,18.00,ex,7515.38,risk,2284.34,lam0.220,9799.72
+Iteration,19.00,ex,7515.38,risk,2284.34,lam 0.220,9799.72
+Iteration,20.00,ex,7203.43,risk,2641.82,lam0.220,9845.26
+Iteration,21.00,ex,5172.83,risk,4034.94,lam0.220,9207.77
+Iteration,22.00,ex,4954.87,risk,2679.04,lam0.220,7633.90
+Iteration,23.00,ex,5663.83,risk,1189.63,lam0.220,6853.46
+Iteration,24.00,ex,7843.43,risk,2074.07,lam0.220,9917.50
+Iteration,25.00,ex,7375.72,risk,2248.41,lam0.220,9624.13
+Iteration,26.00,ex,7846.38,risk,2965.29,lam0.220,10811.66
+Iteration,27.00,ex,4933.91,risk,2300.99,lam 0.2200,7234.89
+Iteration,28.00,ex,4933.91,risk,2300.99,lam0.220,7234.89
+Iteration,29.00,ex,4933.91,risk,2300.99,lam0.220,7234.89
+Iteration,30.00,ex,4933.91,risk,2300.99,lam 0.220,7234.89
+Iteration,31.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,32.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,33.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,34.00,ex,7978.00,risk,2185.49,lam 0.2200,10163.50
+Iteration,35.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,36.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,37.00,ex,7978.00,risk,2185.49,lam 0.220,10163.50
+Iteration,38.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,39.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,40.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,41.00,ex,7978.00,risk,2185.49,lam 0.2200,10163.50
+Iteration,42.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,43.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,44.00,ex,7978.00,risk,2185.49,lam 0.220,10163.50
+Iteration,45.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,46.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,47.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,48.00,ex,7978.00,risk,2185.49,lam 0.2200,10163.50
+Iteration,49.00,ex,7978.00,risk,2185.49,lam0.220,10163.50
+Iteration,1.00,ex,3429.91,risk,1194.23,lam0.240,4624.14
+Iteration,2.00,ex,4658.17,risk,1161.74,lam0.240,5819.92
+Iteration,3.00,ex,6002.38,risk,1812.31,lam0.240,7814.69
+Iteration,4.00,ex,6983.11,risk,2263.23,lam0.240,9246.34
+Iteration,5.00,ex,4668.54,risk,2609.01,lam0.240,7277.55
+Iteration,6.00,ex,5579.98,risk,2224.40,lam0.240,7804.37
+Iteration,7.00,ex,7628.20,risk,2354.45,lam 0.240,9982.65
+Iteration,8.00,ex,5455.96,risk,2681.85,lam0.240,8137.81
+Iteration,9.00,ex,5705.70,risk,1359.78,lam 0.2400,7065.47
+Iteration,10.00,ex,4653.62,risk,1107.14,lam0.240,5760.76
+Iteration,11.00,ex,4641.90,risk,1870.08,lam0.240,6511.98
+Iteration,12.00,ex,7477.96,risk,2392.24,lam0.240,9870.20
+Iteration,13.00,ex,4747.08,risk,1842.88,lam0.240,6589.96
+Iteration,14.00,ex,5210.36,risk,3178.25,lam0.240,8388.61
+Iteration,15.00,ex,5577.55,risk,2279.91,lam0.240,7857.46
+Iteration,16.00,ex,4893.81,risk,1596.04,lam0.240,6489.85
+Iteration,17.00,ex,7176.64,risk,3624.36,lam0.240,10801.00
+Iteration,18.00,ex,8198.60,risk,2225.77,lam0.240,10424.37
+Iteration,19.00,ex,8198.60,risk,2225.77,lam 0.240,10424.37
+Iteration,20.00,ex,7858.29,risk,2574.08,lam0.240,10432.37
+Iteration,21.00,ex,5643.09,risk,3931.48,lam0.240,9574.57
+Iteration,22.00,ex,5405.31,risk,2610.34,lam0.240,8015.65
+Iteration,23.00,ex,6178.73,risk,1159.13,lam0.240,7337.85
+Iteration,24.00,ex,8556.47,risk,2020.89,lam0.240,10577.36
+Iteration,25.00,ex,8046.24,risk,2190.76,lam0.240,10237.00
+Iteration,26.00,ex,8559.69,risk,2889.25,lam0.240,11448.94
+Iteration,27.00,ex,5382.44,risk,2241.99,lam 0.2400,7624.43
+Iteration,28.00,ex,5382.44,risk,2241.99,lam0.240,7624.43
+Iteration,29.00,ex,5382.44,risk,2241.99,lam0.240,7624.43
+Iteration,30.00,ex,5382.44,risk,2241.99,lam 0.240,7624.43
+Iteration,31.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,32.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,33.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,34.00,ex,8703.27,risk,2129.46,lam 0.2400,10832.73
+Iteration,35.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,36.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,37.00,ex,8703.27,risk,2129.46,lam 0.240,10832.73
+Iteration,38.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,39.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,40.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,41.00,ex,8703.27,risk,2129.46,lam 0.2400,10832.73
+Iteration,42.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,43.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,44.00,ex,8703.27,risk,2129.46,lam 0.240,10832.73
+Iteration,45.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,46.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,47.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,48.00,ex,8703.27,risk,2129.46,lam 0.2400,10832.73
+Iteration,49.00,ex,8703.27,risk,2129.46,lam0.240,10832.73
+Iteration,1.00,ex,3715.73,risk,1162.81,lam0.260,4878.54
+Iteration,2.00,ex,5046.36,risk,1131.17,lam0.260,6177.53
+Iteration,3.00,ex,6502.58,risk,1764.62,lam0.260,8267.19
+Iteration,4.00,ex,7565.04,risk,2203.67,lam0.260,9768.71
+Iteration,5.00,ex,5057.58,risk,2540.35,lam0.260,7597.94
+Iteration,6.00,ex,6044.97,risk,2165.86,lam0.260,8210.83
+Iteration,7.00,ex,8263.88,risk,2292.49,lam 0.260,10556.37
+Iteration,8.00,ex,5910.62,risk,2611.28,lam0.260,8521.90
+Iteration,9.00,ex,6181.17,risk,1323.99,lam 0.2600,7505.17
+Iteration,10.00,ex,5041.42,risk,1078.01,lam0.260,6119.42
+Iteration,11.00,ex,5028.72,risk,1820.87,lam0.260,6849.59
+Iteration,12.00,ex,8101.12,risk,2329.29,lam0.260,10430.41
+Iteration,13.00,ex,5142.67,risk,1794.38,lam0.260,6937.05
+Iteration,14.00,ex,5301.63,risk,1554.03,lam0.260,6855.66
+Iteration,15.00,ex,7774.70,risk,3528.98,lam0.260,11303.67
+Iteration,16.00,ex,8881.81,risk,2167.20,lam0.260,11049.01
+Iteration,17.00,ex,8881.81,risk,2167.20,lam 0.260,11049.01
+Iteration,18.00,ex,8513.15,risk,2506.35,lam0.260,11019.49
+Iteration,19.00,ex,6113.35,risk,3828.02,lam0.260,9941.37
+Iteration,20.00,ex,5855.75,risk,2541.65,lam0.260,8397.40
+Iteration,21.00,ex,6002.94,risk,2151.11,lam0.260,8154.05
+Iteration,22.00,ex,6002.94,risk,2151.11,lam 0.2600,8154.05
+Iteration,23.00,ex,6002.94,risk,2151.11,lam0.260,8154.05
+Iteration,24.00,ex,8562.64,risk,1904.91,lam0.260,10467.55
+Iteration,25.00,ex,8562.64,risk,1904.91,lam 0.260,10467.55
+Iteration,26.00,ex,9428.55,risk,2073.42,lam0.260,11501.97
+Iteration,27.00,ex,9399.86,risk,3214.08,lam0.260,12613.93
+Iteration,28.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,29.00,ex,9269.51,risk,1967.71,lam 0.2600,11237.21
+Iteration,30.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,31.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,32.00,ex,9269.51,risk,1967.71,lam 0.260,11237.22
+Iteration,33.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,34.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,35.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,36.00,ex,9269.51,risk,1967.71,lam 0.2600,11237.21
+Iteration,37.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,38.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,39.00,ex,9269.51,risk,1967.71,lam 0.260,11237.22
+Iteration,40.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,41.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,42.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,43.00,ex,9269.51,risk,1967.71,lam 0.2600,11237.21
+Iteration,44.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,45.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,46.00,ex,9269.51,risk,1967.71,lam 0.260,11237.22
+Iteration,47.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,48.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,49.00,ex,9269.51,risk,1967.71,lam0.260,11237.22
+Iteration,1.00,ex,4001.56,risk,1131.38,lam0.280,5132.94
+Iteration,2.00,ex,5434.54,risk,1100.60,lam0.280,6535.14
+Iteration,3.00,ex,7002.78,risk,1716.92,lam0.280,8719.70
+Iteration,4.00,ex,8146.97,risk,2144.11,lam0.280,10291.08
+Iteration,5.00,ex,5446.63,risk,2471.70,lam0.280,7918.32
+Iteration,6.00,ex,6509.97,risk,2107.32,lam0.280,8617.29
+Iteration,7.00,ex,8899.57,risk,2230.53,lam 0.280,11130.10
+Iteration,8.00,ex,6365.28,risk,2540.70,lam0.280,8905.99
+Iteration,9.00,ex,6656.65,risk,1288.21,lam 0.2800,7944.86
+Iteration,10.00,ex,5429.22,risk,1048.87,lam0.280,6478.09
+Iteration,11.00,ex,5415.55,risk,1771.66,lam0.280,7187.21
+Iteration,12.00,ex,8724.28,risk,2266.33,lam0.280,10990.62
+Iteration,13.00,ex,5538.26,risk,1745.89,lam0.280,7284.14
+Iteration,14.00,ex,5709.45,risk,1512.03,lam0.280,7221.48
+Iteration,15.00,ex,8372.75,risk,3433.60,lam0.280,11806.35
+Iteration,16.00,ex,9565.03,risk,2108.62,lam0.280,11673.65
+Iteration,17.00,ex,9565.03,risk,2108.62,lam 0.280,11673.65
+Iteration,18.00,ex,9168.00,risk,2438.61,lam0.280,11606.61
+Iteration,19.00,ex,6583.61,risk,3724.56,lam0.280,10308.17
+Iteration,20.00,ex,6306.19,risk,2472.96,lam0.280,8779.15
+Iteration,21.00,ex,6464.70,risk,2092.98,lam0.280,8557.68
+Iteration,22.00,ex,6464.70,risk,2092.98,lam 0.2800,8557.68
+Iteration,23.00,ex,6464.70,risk,2092.98,lam0.280,8557.68
+Iteration,24.00,ex,9221.30,risk,1853.43,lam0.280,11074.73
+Iteration,25.00,ex,9221.30,risk,1853.43,lam 0.280,11074.73
+Iteration,26.00,ex,10153.82,risk,2017.38,lam0.280,12171.20
+Iteration,27.00,ex,10122.92,risk,3127.21,lam0.280,13250.13
+Iteration,28.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,29.00,ex,9982.55,risk,1914.52,lam 0.2800,11897.07
+Iteration,30.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,31.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,32.00,ex,9982.55,risk,1914.53,lam 0.280,11897.07
+Iteration,33.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,34.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,35.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,36.00,ex,9982.55,risk,1914.52,lam 0.2800,11897.07
+Iteration,37.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,38.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,39.00,ex,9982.55,risk,1914.53,lam 0.280,11897.07
+Iteration,40.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,41.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,42.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,43.00,ex,9982.55,risk,1914.52,lam 0.2800,11897.07
+Iteration,44.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,45.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,46.00,ex,9982.55,risk,1914.53,lam 0.280,11897.07
+Iteration,47.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,48.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,49.00,ex,9982.55,risk,1914.53,lam0.280,11897.07
+Iteration,1.00,ex,4287.39,risk,1099.95,lam0.300,5387.34
+Iteration,2.00,ex,5822.72,risk,1070.03,lam0.300,6892.75
+Iteration,3.00,ex,7502.98,risk,1669.23,lam0.300,9172.21
+Iteration,4.00,ex,8728.89,risk,2084.55,lam0.300,10813.45
+Iteration,5.00,ex,5835.67,risk,2403.04,lam0.300,8238.71
+Iteration,6.00,ex,6974.97,risk,2048.79,lam0.300,9023.76
+Iteration,7.00,ex,9535.25,risk,2168.57,lam 0.300,11703.82
+Iteration,8.00,ex,6819.95,risk,2470.13,lam0.300,9290.07
+Iteration,9.00,ex,7132.12,risk,1252.43,lam 0.3000,8384.55
+Iteration,10.00,ex,5817.02,risk,1019.74,lam0.300,6836.76
+Iteration,11.00,ex,5802.37,risk,1722.45,lam0.300,7524.82
+Iteration,12.00,ex,6117.27,risk,1470.03,lam0.300,7587.30
+Iteration,13.00,ex,8359.19,risk,2757.90,lam0.300,11117.09
+Iteration,14.00,ex,8527.60,risk,2348.22,lam0.300,10875.81
+Iteration,15.00,ex,10436.41,risk,2266.31,lam0.300,12702.72
+Iteration,16.00,ex,10248.25,risk,2050.05,lam0.300,12298.30
+Iteration,17.00,ex,10248.25,risk,2050.05,lam 0.300,12298.30
+Iteration,18.00,ex,9822.86,risk,2370.87,lam0.300,12193.73
+Iteration,19.00,ex,7053.87,risk,3621.10,lam0.300,10674.96
+Iteration,20.00,ex,6639.92,risk,1816.64,lam0.300,8456.56
+Iteration,21.00,ex,6926.47,risk,2034.84,lam0.300,8961.30
+Iteration,22.00,ex,6926.47,risk,2034.84,lam 0.3000,8961.30
+Iteration,23.00,ex,6926.47,risk,2034.84,lam0.300,8961.30
+Iteration,24.00,ex,9879.97,risk,1801.95,lam0.300,11681.91
+Iteration,25.00,ex,9879.97,risk,1801.95,lam 0.300,11681.91
+Iteration,26.00,ex,10879.09,risk,1961.34,lam0.300,12840.43
+Iteration,27.00,ex,10845.99,risk,3040.34,lam0.300,13886.33
+Iteration,28.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,29.00,ex,10695.59,risk,1861.34,3     lam 0.3000,12556.93
+Iteration,30.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,31.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,32.00,ex,10695.59,risk,1861.34,lam 0.300,12556.93
+Iteration,33.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,34.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,35.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,36.00,ex,10695.59,risk,1861.34,3     lam 0.3000,12556.93
+Iteration,37.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,38.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,39.00,ex,10695.59,risk,1861.34,lam 0.300,12556.93
+Iteration,40.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,41.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,42.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,43.00,ex,10695.59,risk,1861.34,3     lam 0.3000,12556.93
+Iteration,44.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,45.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,46.00,ex,10695.59,risk,1861.34,lam 0.300,12556.93
+Iteration,47.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,48.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,49.00,ex,10695.59,risk,1861.34,lam0.300,12556.93
+Iteration,1.00,ex,4573.21,risk,1068.52,lam0.320,5641.74
+Iteration,2.00,ex,6210.90,risk,1039.46,lam0.320,7250.35
+Iteration,3.00,ex,8003.18,risk,1621.54,lam0.320,9624.71
+Iteration,4.00,ex,9310.82,risk,2024.99,lam0.320,11335.81
+Iteration,5.00,ex,6224.72,risk,2334.38,lam0.320,8559.10
+Iteration,6.00,ex,7439.97,risk,1990.25,lam0.320,9430.22
+Iteration,7.00,ex,10170.93,risk,2106.61,lam 0.320,12277.54
+Iteration,8.00,ex,7274.61,risk,2399.55,lam0.320,9674.16
+Iteration,9.00,ex,7607.60,risk,1216.64,lam 0.3200,8824.24
+Iteration,10.00,ex,6204.82,risk,990.60,lam0.320,7195.42
+Iteration,11.00,ex,6189.20,risk,1673.23,lam0.320,7862.43
+Iteration,12.00,ex,6525.08,risk,1428.03,lam0.320,7953.11
+Iteration,13.00,ex,8916.47,risk,2679.10,lam0.320,11595.57
+Iteration,14.00,ex,9096.10,risk,2281.12,lam0.320,11377.23
+Iteration,15.00,ex,11132.17,risk,2201.56,lam0.320,13333.73
+Iteration,16.00,ex,10931.46,risk,1991.48,lam0.320,12922.94
+Iteration,17.00,ex,10931.46,risk,1991.48,lam 0.320,12922.94
+Iteration,18.00,ex,10477.72,risk,2303.13,lam0.320,12780.85
+Iteration,19.00,ex,7524.12,risk,3517.64,lam0.320,11041.76
+Iteration,20.00,ex,7082.59,risk,1764.74,lam0.320,8847.32
+Iteration,21.00,ex,7388.23,risk,1976.70,lam0.320,9364.93
+Iteration,22.00,ex,7388.23,risk,1976.70,lam 0.3200,9364.93
+Iteration,23.00,ex,7388.23,risk,1976.70,lam0.320,9364.93
+Iteration,24.00,ex,10538.63,risk,1750.46,lam0.320,12289.09
+Iteration,25.00,ex,10538.63,risk,1750.46,lam 0.320,12289.09
+Iteration,26.00,ex,11604.37,risk,1905.30,lam0.320,13509.67
+Iteration,27.00,ex,11569.06,risk,2953.48,lam0.320,14522.53
+Iteration,28.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,29.00,ex,11408.63,risk,1808.16,0     lam 0.3200,13216.79
+Iteration,30.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,31.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,32.00,ex,11408.63,risk,1808.16,lam 0.320,13216.79
+Iteration,33.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,34.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,35.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,36.00,ex,11408.63,risk,1808.16,0     lam 0.3200,13216.79
+Iteration,37.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,38.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,39.00,ex,11408.63,risk,1808.16,lam 0.320,13216.79
+Iteration,40.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,41.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,42.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,43.00,ex,11408.63,risk,1808.16,0     lam 0.3200,13216.79
+Iteration,44.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,45.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,46.00,ex,11408.63,risk,1808.16,lam 0.320,13216.79
+Iteration,47.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,48.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,49.00,ex,11408.63,risk,1808.16,lam0.320,13216.79
+Iteration,1.00,ex,4859.04,risk,1037.10,lam0.340,5896.13
+Iteration,2.00,ex,6599.08,risk,1008.88,lam0.340,7607.96
+Iteration,3.00,ex,8503.37,risk,1573.85,lam0.340,10077.22
+Iteration,4.00,ex,9892.75,risk,1965.44,lam0.340,11858.18
+Iteration,5.00,ex,6613.76,risk,2265.72,lam0.340,8879.48
+Iteration,6.00,ex,7904.96,risk,1931.71,lam0.340,9836.68
+Iteration,7.00,ex,10806.62,risk,2044.65,lam 0.340,12851.27
+Iteration,8.00,ex,7729.27,risk,2328.98,lam0.340,10058.25
+Iteration,9.00,ex,8083.07,risk,1180.86,lam 0.3400,9263.93
+Iteration,10.00,ex,6592.62,risk,961.47,lam0.340,7554.09
+Iteration,11.00,ex,6576.02,risk,1624.02,lam0.340,8200.04
+Iteration,12.00,ex,6932.90,risk,1386.03,lam0.340,8318.93
+Iteration,13.00,ex,9473.75,risk,2600.31,lam0.340,12074.05
+Iteration,14.00,ex,9664.61,risk,2214.03,lam0.340,11878.64
+Iteration,15.00,ex,11827.94,risk,2136.80,lam0.340,13964.74
+Iteration,16.00,ex,11614.68,risk,1932.90,lam0.340,13547.58
+Iteration,17.00,ex,11614.68,risk,1932.90,lam 0.340,13547.58
+Iteration,18.00,ex,11132.58,risk,2235.39,lam0.340,13367.97
+Iteration,19.00,ex,7994.38,risk,3414.18,lam0.340,11408.56
+Iteration,20.00,ex,7525.25,risk,1712.83,lam0.340,9238.08
+Iteration,21.00,ex,7849.99,risk,1918.56,lam0.340,9768.55
+Iteration,22.00,ex,7849.99,risk,1918.56,lam 0.3400,9768.55
+Iteration,23.00,ex,7849.99,risk,1918.56,lam0.340,9768.55
+Iteration,24.00,ex,11197.30,risk,1698.98,lam0.340,12896.27
+Iteration,25.00,ex,11197.30,risk,1698.98,lam 0.340,12896.27
+Iteration,26.00,ex,12329.64,risk,1849.26,lam0.340,14178.90
+Iteration,27.00,ex,12292.12,risk,2866.61,lam0.340,15158.73
+Iteration,28.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,29.00,ex,12121.67,risk,1754.98,8     lam 0.3400,13876.65
+Iteration,30.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,31.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,32.00,ex,12121.67,risk,1754.98,lam 0.340,13876.65
+Iteration,33.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,34.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,35.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,36.00,ex,12121.67,risk,1754.98,8     lam 0.3400,13876.65
+Iteration,37.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,38.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,39.00,ex,12121.67,risk,1754.98,lam 0.340,13876.65
+Iteration,40.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,41.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,42.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,43.00,ex,12121.67,risk,1754.98,8     lam 0.3400,13876.65
+Iteration,44.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,45.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,46.00,ex,12121.67,risk,1754.98,lam 0.340,13876.65
+Iteration,47.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,48.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,49.00,ex,12121.67,risk,1754.98,lam0.340,13876.65
+Iteration,1.00,ex,5144.86,risk,1005.67,lam0.360,6150.53
+Iteration,2.00,ex,6987.26,risk,978.31,lam0.360,7965.57
+Iteration,3.00,ex,9003.57,risk,1526.15,lam0.360,10529.73
+Iteration,4.00,ex,10474.67,risk,1905.88,lam0.360,12380.55
+Iteration,5.00,ex,7002.81,risk,2197.06,lam0.360,9199.87
+Iteration,6.00,ex,8369.96,risk,1873.18,lam0.360,10243.14
+Iteration,7.00,ex,11442.30,risk,1982.69,lam 0.360,13424.99
+Iteration,8.00,ex,8183.94,risk,2258.40,lam0.360,10442.34
+Iteration,9.00,ex,8558.55,risk,1145.07,lam 0.3600,9703.62
+Iteration,10.00,ex,6980.42,risk,932.33,lam0.360,7912.75
+Iteration,11.00,ex,6962.85,risk,1574.81,lam0.360,8537.66
+Iteration,12.00,ex,7340.72,risk,1344.03,lam0.360,8684.75
+Iteration,13.00,ex,10031.02,risk,2521.51,lam0.360,12552.53
+Iteration,14.00,ex,10233.12,risk,2146.94,lam0.360,12380.06
+Iteration,15.00,ex,12523.70,risk,2072.05,lam0.360,14595.75
+Iteration,16.00,ex,12297.90,risk,1874.33,lam0.360,14172.23
+Iteration,17.00,ex,12297.90,risk,1874.33,lam 0.360,14172.23
+Iteration,18.00,ex,11787.43,risk,2167.65,lam0.360,13955.08
+Iteration,19.00,ex,8464.64,risk,3310.72,lam0.360,11775.36
+Iteration,20.00,ex,7967.91,risk,1660.93,lam0.360,9628.84
+Iteration,21.00,ex,8311.76,risk,1860.42,lam0.360,10172.18
+Iteration,22.00,ex,8311.76,risk,1860.42,lam 0.3600,10172.18
+Iteration,23.00,ex,8311.76,risk,1860.42,lam0.360,10172.18
+Iteration,24.00,ex,11855.96,risk,1647.49,lam0.360,13503.45
+Iteration,25.00,ex,11855.96,risk,1647.49,lam 0.360,13503.45
+Iteration,26.00,ex,13054.91,risk,1793.23,lam0.360,14848.14
+Iteration,27.00,ex,13015.19,risk,2779.74,lam0.360,15794.93
+Iteration,28.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,29.00,ex,12834.71,risk,1701.80,6     lam 0.3600,14536.50
+Iteration,30.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,31.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,32.00,ex,12834.71,risk,1701.80,lam 0.360,14536.51
+Iteration,33.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,34.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,35.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,36.00,ex,12834.71,risk,1701.80,6     lam 0.3600,14536.50
+Iteration,37.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,38.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,39.00,ex,12834.71,risk,1701.80,lam 0.360,14536.51
+Iteration,40.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,41.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,42.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,43.00,ex,12834.71,risk,1701.80,6     lam 0.3600,14536.50
+Iteration,44.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,45.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,46.00,ex,12834.71,risk,1701.80,lam 0.360,14536.51
+Iteration,47.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,48.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,49.00,ex,12834.71,risk,1701.80,lam0.360,14536.51
+Iteration,1.00,ex,5430.69,risk,974.24,lam0.380,6404.93
+Iteration,2.00,ex,7375.44,risk,947.74,lam0.380,8323.18
+Iteration,3.00,ex,9503.77,risk,1478.46,lam0.380,10982.23
+Iteration,4.00,ex,11056.60,risk,1846.32,lam0.380,12902.92
+Iteration,5.00,ex,7391.85,risk,2128.40,lam0.380,9520.25
+Iteration,6.00,ex,8834.96,risk,1814.64,lam0.380,10649.60
+Iteration,7.00,ex,12077.98,risk,1920.73,lam 0.380,13998.72
+Iteration,8.00,ex,8638.60,risk,2187.83,lam0.380,10826.43
+Iteration,9.00,ex,9034.02,risk,1109.29,lam 0.3800,10143.31
+Iteration,10.00,ex,7368.22,risk,903.20,lam0.380,8271.42
+Iteration,11.00,ex,7349.67,risk,1525.59,lam0.380,8875.27
+Iteration,12.00,ex,7748.54,risk,1302.03,lam0.380,9050.57
+Iteration,13.00,ex,10588.30,risk,2442.71,lam0.380,13031.02
+Iteration,14.00,ex,10801.62,risk,2079.85,lam0.380,12881.47
+Iteration,15.00,ex,13219.46,risk,2007.30,lam0.380,15226.76
+Iteration,16.00,ex,12981.11,risk,1815.76,lam0.380,14796.87
+Iteration,17.00,ex,12981.11,risk,1815.76,lam 0.380,14796.87
+Iteration,18.00,ex,12442.29,risk,2099.91,lam0.380,14542.20
+Iteration,19.00,ex,8934.90,risk,3207.26,lam0.380,12142.15
+Iteration,20.00,ex,8410.57,risk,1609.02,lam0.380,10019.59
+Iteration,21.00,ex,8773.52,risk,1802.28,lam0.380,10575.81
+Iteration,22.00,ex,8773.52,risk,1802.28,lam 0.3800,10575.81
+Iteration,23.00,ex,8773.52,risk,1802.28,lam0.380,10575.81
+Iteration,24.00,ex,12514.63,risk,1596.01,lam0.380,14110.63
+Iteration,25.00,ex,12514.63,risk,1596.01,lam 0.380,14110.63
+Iteration,26.00,ex,13780.18,risk,1737.19,lam0.380,15517.37
+Iteration,27.00,ex,13738.25,risk,2692.87,lam0.380,16431.13
+Iteration,28.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,29.00,ex,13547.75,risk,1648.62,3     lam 0.3800,15196.36
+Iteration,30.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,31.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,32.00,ex,13547.75,risk,1648.62,lam 0.380,15196.36
+Iteration,33.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,34.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,35.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,36.00,ex,13547.75,risk,1648.62,3     lam 0.3800,15196.36
+Iteration,37.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,38.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,39.00,ex,13547.75,risk,1648.62,lam 0.380,15196.36
+Iteration,40.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,41.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,42.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,43.00,ex,13547.75,risk,1648.62,3     lam 0.3800,15196.36
+Iteration,44.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,45.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,46.00,ex,13547.75,risk,1648.62,lam 0.380,15196.36
+Iteration,47.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,48.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,49.00,ex,13547.75,risk,1648.62,lam0.380,15196.36
+Iteration,1.00,ex,5716.51,risk,942.82,lam0.400,6659.33
+Iteration,2.00,ex,7763.62,risk,917.17,lam0.400,8680.79
+Iteration,3.00,ex,10003.97,risk,1430.77,lam0.400,11434.74
+Iteration,4.00,ex,11638.52,risk,1786.76,lam0.400,13425.28
+Iteration,5.00,ex,7780.90,risk,2059.75,lam0.400,9840.64
+Iteration,6.00,ex,9299.96,risk,1756.10,lam0.400,11056.06
+Iteration,7.00,ex,12713.67,risk,1858.77,lam 0.400,14572.44
+Iteration,8.00,ex,9093.26,risk,2117.25,lam0.400,11210.51
+Iteration,9.00,ex,8867.07,risk,1051.19,lam 0.4000,9918.26
+Iteration,10.00,ex,8867.07,risk,1051.19,lam0.400,9918.26
+Iteration,11.00,ex,13664.33,risk,1757.19,lam0.400,15421.51
+Iteration,12.00,ex,6621.02,risk,1838.96,lam0.400,8459.98
+Iteration,13.00,ex,7911.80,risk,1454.91,lam0.400,9366.70
+Iteration,14.00,ex,7295.33,risk,818.27,lam0.400,8113.60
+Iteration,15.00,ex,7174.75,risk,1571.52,lam 0.400,8746.27
+Iteration,16.00,ex,11521.73,risk,2364.06,lam0.400,13885.79
+Iteration,17.00,ex,13097.15,risk,2032.17,5     lam 0.4000,15129.32
+Iteration,18.00,ex,13097.15,risk,2032.17,lam0.400,15129.32
+Iteration,19.00,ex,13173.29,risk,1544.53,lam0.400,14717.81
+Iteration,20.00,ex,13410.40,risk,1729.55,lam 0.400,15139.95
+Iteration,21.00,ex,9650.25,risk,2126.36,lam0.400,11776.62
+Iteration,22.00,ex,9393.89,risk,4358.14,lam0.400,13752.03
+Iteration,23.00,ex,9405.15,risk,3103.80,lam0.400,12508.95
+Iteration,24.00,ex,9405.15,risk,3103.80,lam 0.4000,12508.95
+Iteration,25.00,ex,9405.15,risk,3103.80,lam0.400,12508.95
+Iteration,26.00,ex,9405.15,risk,3103.80,lam0.400,12508.95
+Iteration,27.00,ex,9405.15,risk,3103.80,lam 0.400,12508.95
+Iteration,28.00,ex,14505.46,risk,1681.15,lam0.400,16186.61
+Iteration,29.00,ex,14266.14,risk,2280.99,lam0.400,16547.13
+Iteration,30.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,31.00,ex,14260.78,risk,1595.44,1     lam 0.4000,15856.22
+Iteration,32.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,33.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,34.00,ex,14260.78,risk,1595.44,lam 0.400,15856.22
+Iteration,35.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,36.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,37.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,38.00,ex,14260.78,risk,1595.44,1     lam 0.4000,15856.22
+Iteration,39.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,40.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,41.00,ex,14260.78,risk,1595.44,lam 0.400,15856.22
+Iteration,42.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,43.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,44.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,45.00,ex,14260.78,risk,1595.44,1     lam 0.4000,15856.22
+Iteration,46.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,47.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,48.00,ex,14260.78,risk,1595.44,lam 0.400,15856.22
+Iteration,49.00,ex,14260.78,risk,1595.44,lam0.400,15856.22
+Iteration,1.00,ex,6002.34,risk,911.39,lam0.420,6913.73
+Iteration,2.00,ex,8151.81,risk,886.59,lam0.420,9038.40
+Iteration,3.00,ex,10504.17,risk,1383.08,lam0.420,11887.24
+Iteration,4.00,ex,12220.45,risk,1727.20,lam0.420,13947.65
+Iteration,5.00,ex,8169.94,risk,1991.09,lam0.420,10161.03
+Iteration,6.00,ex,9764.96,risk,1697.57,lam0.420,11462.52
+Iteration,7.00,ex,13349.35,risk,1796.82,lam 0.420,15146.17
+Iteration,8.00,ex,9547.92,risk,2046.68,lam0.420,11594.60
+Iteration,9.00,ex,9310.42,risk,1016.15,lam 0.4200,10326.57
+Iteration,10.00,ex,9310.42,risk,1016.15,lam0.420,10326.57
+Iteration,11.00,ex,14347.54,risk,1698.61,lam0.420,16046.16
+Iteration,12.00,ex,6952.07,risk,1777.66,lam0.420,8729.73
+Iteration,13.00,ex,8307.39,risk,1406.41,lam0.420,9713.80
+Iteration,14.00,ex,7660.09,risk,791.00,lam0.420,8451.09
+Iteration,15.00,ex,7533.49,risk,1519.14,lam 0.420,9052.63
+Iteration,16.00,ex,12097.82,risk,2285.26,lam0.420,14383.08
+Iteration,17.00,ex,13752.01,risk,1964.43,5     lam 0.4200,15716.44
+Iteration,18.00,ex,13752.01,risk,1964.43,lam0.420,15716.44
+Iteration,19.00,ex,13831.95,risk,1493.04,lam0.420,15325.00
+Iteration,20.00,ex,14080.92,risk,1671.90,lam 0.420,15752.81
+Iteration,21.00,ex,10132.77,risk,2055.48,lam0.420,12188.25
+Iteration,22.00,ex,10132.77,risk,2055.48,2     lam 0.4200,12188.25
+Iteration,23.00,ex,10132.77,risk,2055.48,lam 0.420,12188.25
+Iteration,24.00,ex,9419.27,risk,1710.99,lam 0.4200,11130.26
+Iteration,25.00,ex,9419.27,risk,1710.99,lam0.420,11130.26
+Iteration,26.00,ex,9419.27,risk,1710.99,lam 0.420,11130.26
+Iteration,27.00,ex,9419.27,risk,1710.99,lam0.420,11130.26
+Iteration,28.00,ex,15146.15,risk,1635.58,6     lam 0.4200,16781.73
+Iteration,29.00,ex,15146.15,risk,1635.58,lam 0.420,16781.73
+Iteration,30.00,ex,15146.15,risk,1635.58,lam0.420,16781.73
+Iteration,31.00,ex,9875.41,risk,3000.34,lam0.420,12875.75
+Iteration,32.00,ex,15230.73,risk,1625.11,lam0.420,16855.84
+Iteration,33.00,ex,15230.73,risk,1625.11,0     lam 0.4200,16855.84
+Iteration,34.00,ex,15230.73,risk,1625.11,lam0.420,16855.84
+Iteration,35.00,ex,15230.73,risk,1625.11,lam0.420,16855.84
+Iteration,36.00,ex,15230.73,risk,1625.11,lam 0.420,16855.84
+Iteration,37.00,ex,15230.73,risk,1625.11,lam0.420,16855.84
+Iteration,38.00,ex,9863.59,risk,4212.87,lam0.420,14076.46
+Iteration,39.00,ex,9863.59,risk,4212.87,lam 0.4200,14076.46
+Iteration,40.00,ex,9863.59,risk,4212.87,lam0.420,14076.46
+Iteration,41.00,ex,9863.59,risk,4212.87,lam0.420,14076.46
+Iteration,42.00,ex,9863.59,risk,4212.87,lam 0.420,14076.46
+Iteration,43.00,ex,9863.59,risk,4212.87,lam0.420,14076.46
+Iteration,44.00,ex,9863.59,risk,4212.87,lam 0.4200,14076.46
+Iteration,45.00,ex,9863.59,risk,4212.87,lam 0.420,14076.46
+Iteration,46.00,ex,9863.59,risk,4212.87,lam 0.4200,14076.46
+Iteration,47.00,ex,9863.59,risk,4212.87,lam0.420,14076.46
+Iteration,48.00,ex,9863.59,risk,4212.87,lam 0.420,14076.46
+Iteration,49.00,ex,9863.59,risk,4212.87,lam0.420,14076.46
+Iteration,1.00,ex,6288.17,risk,879.96,lam0.440,7168.13
+Iteration,2.00,ex,8539.99,risk,856.02,lam0.440,9396.01
+Iteration,3.00,ex,11004.37,risk,1335.38,lam0.440,12339.75
+Iteration,4.00,ex,12802.38,risk,1667.64,lam0.440,14470.02
+Iteration,5.00,ex,8558.99,risk,1922.43,lam0.440,10481.42
+Iteration,6.00,ex,10229.95,risk,1639.03,lam0.440,11868.98
+Iteration,7.00,ex,13985.03,risk,1734.86,lam 0.440,15719.89
+Iteration,8.00,ex,10002.59,risk,1976.10,lam0.440,11978.69
+Iteration,9.00,ex,9753.78,risk,981.11,lam 0.4400,10734.89
+Iteration,10.00,ex,9753.78,risk,981.11,lam0.440,10734.89
+Iteration,11.00,ex,15030.76,risk,1640.04,lam0.440,16670.80
+Iteration,12.00,ex,7283.13,risk,1716.36,lam0.440,8999.49
+Iteration,13.00,ex,8702.98,risk,1357.91,lam0.440,10060.89
+Iteration,14.00,ex,8024.86,risk,763.72,lam0.440,8788.58
+Iteration,15.00,ex,7892.23,risk,1466.75,lam 0.440,9358.98
+Iteration,16.00,ex,12673.90,risk,2206.46,lam0.440,14880.36
+Iteration,17.00,ex,14406.86,risk,1896.69,4     lam 0.4400,16303.56
+Iteration,18.00,ex,14406.86,risk,1896.69,lam0.440,16303.56
+Iteration,19.00,ex,14490.62,risk,1441.56,lam0.440,15932.17
+Iteration,20.00,ex,14751.44,risk,1614.25,lam 0.440,16365.68
+Iteration,21.00,ex,10615.28,risk,1984.61,lam0.440,12599.88
+Iteration,22.00,ex,10615.28,risk,1984.61,4     lam 0.4400,12599.88
+Iteration,23.00,ex,10615.28,risk,1984.61,lam 0.440,12599.88
+Iteration,24.00,ex,9867.81,risk,1651.99,lam 0.4400,11519.80
+Iteration,25.00,ex,9867.81,risk,1651.99,lam0.440,11519.80
+Iteration,26.00,ex,9867.81,risk,1651.99,lam 0.440,11519.80
+Iteration,27.00,ex,9867.81,risk,1651.99,lam0.440,11519.80
+Iteration,28.00,ex,15867.40,risk,1579.18,4     lam 0.4400,17446.58
+Iteration,29.00,ex,15867.40,risk,1579.18,lam 0.440,17446.58
+Iteration,30.00,ex,15867.40,risk,1579.18,lam0.440,17446.58
+Iteration,31.00,ex,10345.67,risk,2896.88,lam0.440,13242.55
+Iteration,32.00,ex,15956.00,risk,1569.07,lam0.440,17525.08
+Iteration,33.00,ex,15956.00,risk,1569.07,7     lam 0.4400,17525.07
+Iteration,34.00,ex,15956.00,risk,1569.07,lam0.440,17525.08
+Iteration,35.00,ex,15956.00,risk,1569.07,lam0.440,17525.08
+Iteration,36.00,ex,15956.00,risk,1569.07,lam 0.440,17525.08
+Iteration,37.00,ex,15956.00,risk,1569.07,lam0.440,17525.08
+Iteration,38.00,ex,10333.28,risk,4067.60,lam0.440,14400.88
+Iteration,39.00,ex,10333.28,risk,4067.60,4     lam 0.4400,14400.88
+Iteration,40.00,ex,10333.28,risk,4067.60,lam0.440,14400.88
+Iteration,41.00,ex,10333.28,risk,4067.60,lam0.440,14400.88
+Iteration,42.00,ex,10333.28,risk,4067.60,lam 0.440,14400.88
+Iteration,43.00,ex,10333.28,risk,4067.60,lam0.440,14400.88
+Iteration,44.00,ex,10333.28,risk,4067.60,4     lam 0.4400,14400.88
+Iteration,45.00,ex,10333.28,risk,4067.60,lam 0.440,14400.88
+Iteration,46.00,ex,10333.28,risk,4067.60,4     lam 0.4400,14400.88
+Iteration,47.00,ex,10333.28,risk,4067.60,lam0.440,14400.88
+Iteration,48.00,ex,10333.28,risk,4067.60,lam 0.440,14400.88
+Iteration,49.00,ex,10333.28,risk,4067.60,lam0.440,14400.88
+Iteration,1.00,ex,6573.99,risk,848.53,lam0.460,7422.53
+Iteration,2.00,ex,8928.17,risk,825.45,lam0.460,9753.62
+Iteration,3.00,ex,11504.56,risk,1287.69,lam0.460,12792.26
+Iteration,4.00,ex,13384.30,risk,1608.08,lam0.460,14992.39
+Iteration,5.00,ex,8948.03,risk,1853.77,lam0.460,10801.80
+Iteration,6.00,ex,10694.95,risk,1580.49,lam0.460,12275.44
+Iteration,7.00,ex,14620.72,risk,1672.90,lam 0.460,16293.61
+Iteration,8.00,ex,10457.25,risk,1905.53,lam0.460,12362.78
+Iteration,9.00,ex,10197.13,risk,946.07,lam 0.4600,11143.20
+Iteration,10.00,ex,10197.13,risk,946.07,lam0.460,11143.20
+Iteration,11.00,ex,15713.98,risk,1581.47,lam 0.460,17295.44
+Iteration,12.00,ex,10316.35,risk,1592.99,6     lam 0.4600,11909.34
+Iteration,13.00,ex,10316.35,risk,1592.99,lam 0.460,11909.34
+Iteration,14.00,ex,14518.54,risk,1049.73,lam0.460,15568.27
+Iteration,15.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,16.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,17.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,18.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,19.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,20.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,21.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,22.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,23.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,24.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,25.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,26.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,27.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,28.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,29.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,30.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,31.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,32.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,33.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,34.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,35.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,36.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,37.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,38.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,39.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,40.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,41.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,42.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,43.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,44.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,45.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,46.00,ex,14777.75,risk,2093.86,lam0.460,16871.60
+Iteration,47.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,48.00,ex,14777.75,risk,2093.86,1     lam 0.4600,16871.60
+Iteration,49.00,ex,14777.75,risk,2093.86,lam 0.460,16871.60
+Iteration,1.00,ex,6859.82,risk,817.11,lam0.480,7676.92
+Iteration,2.00,ex,9316.35,risk,794.88,lam0.480,10111.23
+Iteration,3.00,ex,12004.76,risk,1240.00,lam0.480,13244.76
+Iteration,4.00,ex,13966.23,risk,1548.52,lam0.480,15514.75
+Iteration,5.00,ex,9337.07,risk,1785.11,lam0.480,11122.19
+Iteration,6.00,ex,11159.95,risk,1521.96,lam0.480,12681.91
+Iteration,7.00,ex,15256.40,risk,1610.94,lam 0.480,16867.34
+Iteration,8.00,ex,10911.91,risk,1834.95,lam0.480,12746.87
+Iteration,9.00,ex,10640.48,risk,911.03,lam 0.4800,11551.51
+Iteration,10.00,ex,10640.48,risk,911.03,lam0.480,11551.51
+Iteration,11.00,ex,16397.19,risk,1522.89,lam 0.480,17920.09
+Iteration,12.00,ex,10764.88,risk,1533.99,9     lam 0.4800,12298.87
+Iteration,13.00,ex,10764.88,risk,1533.99,lam 0.480,12298.87
+Iteration,14.00,ex,15149.78,risk,1010.85,lam0.480,16160.63
+Iteration,15.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,16.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,17.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,18.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,19.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,20.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,21.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,22.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,23.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,24.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,25.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,26.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,27.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,28.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,29.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,30.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,31.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,32.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,33.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,34.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,35.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,36.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,37.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,38.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,39.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,40.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,41.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,42.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,43.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,44.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,45.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,46.00,ex,15420.26,risk,2016.31,lam0.480,17436.56
+Iteration,47.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,48.00,ex,15420.26,risk,2016.31,0     lam 0.4800,17436.56
+Iteration,49.00,ex,15420.26,risk,2016.31,lam 0.480,17436.56
+Iteration,1.00,ex,7145.64,risk,785.68,lam0.500,7931.32
+Iteration,2.00,ex,9704.53,risk,764.31,lam0.500,10468.84
+Iteration,3.00,ex,12504.96,risk,1192.31,lam0.500,13697.27
+Iteration,4.00,ex,14548.16,risk,1488.97,lam0.500,16037.12
+Iteration,5.00,ex,9726.12,risk,1716.46,lam0.500,11442.57
+Iteration,6.00,ex,11624.95,risk,1463.42,lam0.500,13088.37
+Iteration,7.00,ex,15892.08,risk,1548.98,lam 0.500,17441.06
+Iteration,8.00,ex,11366.58,risk,1764.38,lam0.500,13130.95
+Iteration,9.00,ex,11083.84,risk,875.99,lam 0.5000,11959.83
+Iteration,10.00,ex,11083.84,risk,875.99,lam0.500,11959.83
+Iteration,11.00,ex,17080.41,risk,1464.32,lam 0.500,18544.73
+Iteration,12.00,ex,11213.42,risk,1474.99,3     lam 0.5000,12688.41
+Iteration,13.00,ex,11213.42,risk,1474.99,lam 0.500,12688.41
+Iteration,14.00,ex,15781.02,risk,971.97,lam0.500,16753.00
+Iteration,15.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,16.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,17.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,18.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,19.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,20.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,21.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,22.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,23.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,24.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,25.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,26.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,27.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,28.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,29.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,30.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,31.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,32.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,33.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,34.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,35.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,36.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,37.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,38.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,39.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,40.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,41.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,42.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,43.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,44.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,45.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,46.00,ex,16062.77,risk,1938.76,lam0.500,18001.52
+Iteration,47.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,48.00,ex,16062.77,risk,1938.75,8     lam 0.5000,18001.52
+Iteration,49.00,ex,16062.77,risk,1938.76,lam 0.500,18001.52
+Iteration,1.00,ex,7431.47,risk,754.25,lam0.520,8185.72
+Iteration,2.00,ex,10092.71,risk,733.73,lam0.520,10826.44
+Iteration,3.00,ex,13005.16,risk,1144.62,lam0.520,14149.77
+Iteration,4.00,ex,15130.08,risk,1429.41,lam0.520,16559.49
+Iteration,5.00,ex,10115.16,risk,1647.80,lam0.520,11762.96
+Iteration,6.00,ex,12089.95,risk,1404.88,lam0.520,13494.83
+Iteration,7.00,ex,16527.77,risk,1487.02,lam 0.520,18014.79
+Iteration,8.00,ex,11821.24,risk,1693.80,lam0.520,13515.04
+Iteration,9.00,ex,11527.19,risk,840.95,lam 0.5200,12368.14
+Iteration,10.00,ex,11527.19,risk,840.95,lam0.520,12368.14
+Iteration,11.00,ex,17763.63,risk,1405.75,lam 0.520,19169.37
+Iteration,12.00,ex,11661.96,risk,1415.99,6     lam 0.5200,13077.95
+Iteration,13.00,ex,11661.96,risk,1415.99,lam 0.520,13077.95
+Iteration,14.00,ex,16412.26,risk,933.10,lam0.520,17345.36
+Iteration,15.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,16.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,17.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,18.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,19.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,20.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,21.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,22.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,23.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,24.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,25.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,26.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,27.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,28.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,29.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,30.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,31.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,32.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,33.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,34.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,35.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,36.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,37.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,38.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,39.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,40.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,41.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,42.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,43.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,44.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,45.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,46.00,ex,16705.28,risk,1861.21,lam0.520,18566.48
+Iteration,47.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,48.00,ex,16705.28,risk,1861.20,6     lam 0.5200,18566.48
+Iteration,49.00,ex,16705.28,risk,1861.21,lam 0.520,18566.48
+Iteration,1.00,ex,7717.29,risk,722.83,lam0.540,8440.12
+Iteration,2.00,ex,10480.89,risk,703.16,lam0.540,11184.05
+Iteration,3.00,ex,13505.36,risk,1096.92,lam0.540,14602.28
+Iteration,4.00,ex,15712.01,risk,1369.85,lam0.540,17081.86
+Iteration,5.00,ex,10504.21,risk,1579.14,lam0.540,12083.35
+Iteration,6.00,ex,12554.94,risk,1346.35,lam0.540,13901.29
+Iteration,7.00,ex,17163.45,risk,1425.06,lam 0.540,18588.51
+Iteration,8.00,ex,12275.90,risk,1623.23,lam0.540,13899.13
+Iteration,9.00,ex,11970.54,risk,805.91,lam 0.5400,12776.46
+Iteration,10.00,ex,11970.54,risk,805.91,lam0.540,12776.46
+Iteration,11.00,ex,18446.84,risk,1347.18,lam 0.540,19794.02
+Iteration,12.00,ex,12110.49,risk,1356.99,0     lam 0.5400,13467.49
+Iteration,13.00,ex,12110.49,risk,1356.99,lam 0.540,13467.49
+Iteration,14.00,ex,17043.50,risk,894.22,lam0.540,17937.72
+Iteration,15.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,16.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,17.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,18.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,19.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,20.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,21.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,22.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,23.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,24.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,25.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,26.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,27.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,28.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,29.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,30.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,31.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,32.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,33.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,34.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,35.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,36.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,37.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,38.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,39.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,40.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,41.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,42.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,43.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,44.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,45.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,46.00,ex,17347.79,risk,1783.65,lam0.540,19131.44
+Iteration,47.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,48.00,ex,17347.79,risk,1783.65,4     lam 0.5400,19131.44
+Iteration,49.00,ex,17347.79,risk,1783.65,lam 0.540,19131.44
+Iteration,1.00,ex,8003.12,risk,691.40,lam0.560,8694.52
+Iteration,2.00,ex,10869.07,risk,672.59,lam0.560,11541.66
+Iteration,3.00,ex,14005.56,risk,1049.23,lam0.560,15054.79
+Iteration,4.00,ex,16293.93,risk,1310.29,lam0.560,17604.22
+Iteration,5.00,ex,10893.25,risk,1510.48,lam0.560,12403.73
+Iteration,6.00,ex,13019.94,risk,1287.81,lam0.560,14307.75
+Iteration,7.00,ex,17799.13,risk,1363.10,lam 0.560,19162.23
+Iteration,8.00,ex,12730.57,risk,1552.65,lam0.560,14283.22
+Iteration,9.00,ex,12413.90,risk,770.87,lam 0.5600,13184.77
+Iteration,10.00,ex,12413.90,risk,770.87,lam0.560,13184.77
+Iteration,11.00,ex,19130.06,risk,1288.60,lam 0.560,20418.66
+Iteration,12.00,ex,12559.03,risk,1297.99,3     lam 0.5600,13857.02
+Iteration,13.00,ex,12559.03,risk,1297.99,lam 0.560,13857.02
+Iteration,14.00,ex,17674.74,risk,855.34,lam0.560,18530.08
+Iteration,15.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,16.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,17.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,18.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,19.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,20.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,21.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,22.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,23.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,24.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,25.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,26.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,27.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,28.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,29.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,30.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,31.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,32.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,33.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,34.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,35.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,36.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,37.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,38.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,39.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,40.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,41.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,42.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,43.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,44.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,45.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,46.00,ex,17990.30,risk,1706.10,lam0.560,19696.41
+Iteration,47.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,48.00,ex,17990.30,risk,1706.10,2     lam 0.5600,19696.41
+Iteration,49.00,ex,17990.30,risk,1706.10,lam 0.560,19696.41
+Iteration,1.00,ex,8288.95,risk,659.97,lam0.580,8948.92
+Iteration,2.00,ex,11257.26,risk,642.02,lam0.580,11899.27
+Iteration,3.00,ex,14505.75,risk,1001.54,lam0.580,15507.29
+Iteration,4.00,ex,16875.86,risk,1250.73,lam0.580,18126.59
+Iteration,5.00,ex,11282.30,risk,1441.82,lam0.580,12724.12
+Iteration,6.00,ex,13484.94,risk,1229.27,lam0.580,14714.21
+Iteration,7.00,ex,18434.82,risk,1301.14,lam 0.580,19735.96
+Iteration,8.00,ex,13185.23,risk,1482.08,lam0.580,14667.31
+Iteration,9.00,ex,12857.25,risk,735.83,lam 0.5800,13593.08
+Iteration,10.00,ex,12857.25,risk,735.83,lam0.580,13593.08
+Iteration,11.00,ex,19813.28,risk,1230.03,lam 0.580,21043.31
+Iteration,12.00,ex,13007.57,risk,1238.99,7     lam 0.5800,14246.56
+Iteration,13.00,ex,13007.57,risk,1238.99,lam 0.580,14246.56
+Iteration,14.00,ex,18305.99,risk,816.46,lam0.580,19122.44
+Iteration,15.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,16.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,17.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,18.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,19.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,20.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,21.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,22.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,23.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,24.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,25.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,26.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,27.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,28.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,29.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,30.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,31.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,32.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,33.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,34.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,35.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,36.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,37.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,38.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,39.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,40.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,41.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,42.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,43.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,44.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,45.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,46.00,ex,18632.81,risk,1628.55,lam0.580,20261.37
+Iteration,47.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,48.00,ex,18632.81,risk,1628.55,0     lam 0.5800,20261.37
+Iteration,49.00,ex,18632.81,risk,1628.55,lam 0.580,20261.37
+Iteration,1.00,ex,8574.77,risk,628.54,lam0.600,9203.32
+Iteration,2.00,ex,11645.44,risk,611.44,lam0.600,12256.88
+Iteration,3.00,ex,15005.95,risk,953.85,lam0.600,15959.80
+Iteration,4.00,ex,17457.79,risk,1191.17,lam0.600,18648.96
+Iteration,5.00,ex,11671.34,risk,1373.16,lam0.600,13044.51
+Iteration,6.00,ex,13949.94,risk,1170.74,lam0.600,15120.67
+Iteration,7.00,ex,19070.50,risk,1239.18,lam 0.600,20309.68
+Iteration,8.00,ex,13639.89,risk,1411.50,lam0.600,15051.39
+Iteration,9.00,ex,13300.60,risk,700.79,lam 0.6000,14001.40
+Iteration,10.00,ex,13300.60,risk,700.79,lam0.600,14001.40
+Iteration,11.00,ex,20496.49,risk,1171.46,lam 0.600,21667.95
+Iteration,12.00,ex,13456.10,risk,1179.99,0     lam 0.6000,14636.10
+Iteration,13.00,ex,13456.10,risk,1179.99,lam 0.600,14636.10
+Iteration,14.00,ex,18937.23,risk,777.58,lam0.600,19714.81
+Iteration,15.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,16.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,17.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,18.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,19.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,20.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,21.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,22.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,23.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,24.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,25.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,26.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,27.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,28.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,29.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,30.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,31.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,32.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,33.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,34.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,35.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,36.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,37.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,38.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,39.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,40.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,41.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,42.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,43.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,44.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,45.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,46.00,ex,19275.32,risk,1551.00,lam0.600,20826.33
+Iteration,47.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,48.00,ex,19275.32,risk,1551.00,8     lam 0.6000,20826.33
+Iteration,49.00,ex,19275.32,risk,1551.00,lam 0.600,20826.33
+Iteration,1.00,ex,8860.60,risk,597.12,lam0.620,9457.71
+Iteration,2.00,ex,12033.62,risk,580.87,lam0.620,12614.49
+Iteration,3.00,ex,15506.15,risk,906.15,lam0.620,16412.31
+Iteration,4.00,ex,18039.71,risk,1131.61,lam0.620,19171.33
+Iteration,5.00,ex,12060.39,risk,1304.51,lam0.620,13364.89
+Iteration,6.00,ex,14414.94,risk,1112.20,lam0.620,15527.13
+Iteration,7.00,ex,19706.18,risk,1177.22,lam 0.620,20883.41
+Iteration,8.00,ex,14094.56,risk,1340.93,lam0.620,15435.48
+Iteration,9.00,ex,13743.96,risk,665.75,lam 0.6200,14409.71
+Iteration,10.00,ex,13743.96,risk,665.75,lam0.620,14409.71
+Iteration,11.00,ex,21179.71,risk,1112.88,lam 0.620,22292.59
+Iteration,12.00,ex,13904.64,risk,1120.99,4     lam 0.6200,15025.63
+Iteration,13.00,ex,13904.64,risk,1120.99,lam 0.620,15025.63
+Iteration,14.00,ex,19568.47,risk,738.70,lam0.620,20307.17
+Iteration,15.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,16.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,17.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,18.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,19.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,20.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,21.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,22.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,23.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,24.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,25.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,26.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,27.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,28.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,29.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,30.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,31.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,32.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,33.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,34.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,35.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,36.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,37.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,38.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,39.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,40.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,41.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,42.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,43.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,44.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,45.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,46.00,ex,19917.83,risk,1473.45,lam0.620,21391.29
+Iteration,47.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,48.00,ex,19917.83,risk,1473.45,6     lam 0.6200,21391.29
+Iteration,49.00,ex,19917.83,risk,1473.45,lam 0.620,21391.29
+Iteration,1.00,ex,9146.42,risk,565.69,lam0.640,9712.11
+Iteration,2.00,ex,12421.80,risk,550.30,lam0.640,12972.10
+Iteration,3.00,ex,16006.35,risk,858.46,lam0.640,16864.81
+Iteration,4.00,ex,18621.64,risk,1072.06,lam0.640,19693.69
+Iteration,5.00,ex,12449.43,risk,1235.85,lam0.640,13685.28
+Iteration,6.00,ex,14879.93,risk,1053.66,lam0.640,15933.60
+Iteration,7.00,ex,20341.87,risk,1115.26,lam 0.640,21457.13
+Iteration,8.00,ex,14549.22,risk,1270.35,lam0.640,15819.57
+Iteration,9.00,ex,14187.31,risk,630.71,lam 0.6400,14818.02
+Iteration,10.00,ex,14187.31,risk,630.72,lam0.640,14818.02
+Iteration,11.00,ex,21862.93,risk,1054.31,lam 0.640,22917.24
+Iteration,12.00,ex,14353.18,risk,1061.99,7     lam 0.6400,15415.17
+Iteration,13.00,ex,14353.18,risk,1061.99,lam 0.640,15415.17
+Iteration,14.00,ex,20199.71,risk,699.82,lam0.640,20899.53
+Iteration,15.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,16.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,17.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,18.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,19.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,20.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,21.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,22.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,23.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,24.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,25.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,26.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,27.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,28.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,29.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,30.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,31.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,32.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,33.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,34.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,35.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,36.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,37.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,38.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,39.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,40.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,41.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,42.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,43.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,44.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,45.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,46.00,ex,20560.34,risk,1395.90,lam0.640,21956.25
+Iteration,47.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,48.00,ex,20560.34,risk,1395.90,4     lam 0.6400,21956.25
+Iteration,49.00,ex,20560.34,risk,1395.90,lam 0.640,21956.25
+Iteration,1.00,ex,9432.25,risk,534.26,lam0.660,9966.51
+Iteration,2.00,ex,12809.98,risk,519.73,lam0.660,13329.71
+Iteration,3.00,ex,16506.55,risk,810.77,lam0.660,17317.32
+Iteration,4.00,ex,19203.56,risk,1012.50,lam0.660,20216.06
+Iteration,5.00,ex,12838.48,risk,1167.19,lam0.660,14005.67
+Iteration,6.00,ex,15344.93,risk,995.13,lam0.660,16340.06
+Iteration,7.00,ex,20977.55,risk,1053.31,lam 0.660,22030.86
+Iteration,8.00,ex,15003.88,risk,1199.78,lam0.660,16203.66
+Iteration,9.00,ex,14630.66,risk,595.67,lam 0.6600,15226.34
+Iteration,10.00,ex,14630.66,risk,595.68,lam0.660,15226.34
+Iteration,11.00,ex,22546.14,risk,995.74,lam 0.660,23541.88
+Iteration,12.00,ex,14801.71,risk,1002.99,1     lam 0.6600,15804.71
+Iteration,13.00,ex,14801.71,risk,1002.99,lam 0.660,15804.71
+Iteration,14.00,ex,20830.95,risk,660.94,lam0.660,21491.89
+Iteration,15.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,16.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,17.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,18.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,19.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,20.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,21.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,22.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,23.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,24.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,25.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,26.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,27.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,28.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,29.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,30.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,31.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,32.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,33.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,34.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,35.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,36.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,37.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,38.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,39.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,40.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,41.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,42.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,43.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,44.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,45.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,46.00,ex,21202.86,risk,1318.35,lam0.660,22521.21
+Iteration,47.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,48.00,ex,21202.86,risk,1318.35,2     lam 0.6600,22521.21
+Iteration,49.00,ex,21202.86,risk,1318.35,lam 0.660,22521.21
+Iteration,1.00,ex,9718.07,risk,502.84,lam0.680,10220.91
+Iteration,2.00,ex,13198.16,risk,489.16,lam0.680,13687.32
+Iteration,3.00,ex,17006.75,risk,763.08,lam0.680,17769.82
+Iteration,4.00,ex,19785.49,risk,952.94,lam0.680,20738.43
+Iteration,5.00,ex,13227.52,risk,1098.53,lam0.680,14326.05
+Iteration,6.00,ex,15809.93,risk,936.59,lam0.680,16746.52
+Iteration,7.00,ex,21613.23,risk,991.35,lam 0.680,22604.58
+Iteration,8.00,ex,15458.54,risk,1129.20,lam0.680,16587.75
+Iteration,9.00,ex,15074.02,risk,560.64,lam 0.6800,15634.65
+Iteration,10.00,ex,15074.02,risk,560.64,lam0.680,15634.65
+Iteration,11.00,ex,23229.36,risk,937.17,lam 0.680,24166.52
+Iteration,12.00,ex,15250.25,risk,943.99,lam 0.6800,16194.25
+Iteration,13.00,ex,15250.25,risk,943.99,lam 0.680,16194.25
+Iteration,14.00,ex,21462.19,risk,622.06,lam0.680,22084.25
+Iteration,15.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,16.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,17.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,18.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,19.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,20.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,21.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,22.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,23.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,24.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,25.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,26.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,27.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,28.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,29.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,30.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,31.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,32.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,33.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,34.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,35.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,36.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,37.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,38.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,39.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,40.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,41.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,42.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,43.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,44.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,45.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,46.00,ex,21845.37,risk,1240.80,lam0.680,23086.17
+Iteration,47.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,48.00,ex,21845.37,risk,1240.80,0     lam 0.6800,23086.17
+Iteration,49.00,ex,21845.37,risk,1240.80,lam 0.680,23086.17
+Iteration,1.00,ex,10003.90,risk,471.41,lam0.700,10475.31
+Iteration,2.00,ex,13586.34,risk,458.58,lam0.700,14044.93
+Iteration,3.00,ex,17506.94,risk,715.38,lam0.700,18222.33
+Iteration,4.00,ex,20367.42,risk,893.38,lam0.700,21260.80
+Iteration,5.00,ex,13616.57,risk,1029.87,lam0.700,14646.44
+Iteration,6.00,ex,16274.93,risk,878.05,lam0.700,17152.98
+Iteration,7.00,ex,22248.92,risk,929.39,lam 0.700,23178.30
+Iteration,8.00,ex,15913.21,risk,1058.63,lam0.700,16971.83
+Iteration,9.00,ex,15517.37,risk,525.60,lam 0.7000,16042.96
+Iteration,10.00,ex,15517.37,risk,525.60,lam0.700,16042.96
+Iteration,11.00,ex,23912.57,risk,878.59,lam 0.700,24791.17
+Iteration,12.00,ex,15698.79,risk,884.99,lam 0.7000,16583.78
+Iteration,13.00,ex,15698.79,risk,885.00,lam 0.700,16583.78
+Iteration,14.00,ex,22093.43,risk,583.19,lam0.700,22676.62
+Iteration,15.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,16.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,17.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,18.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,19.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,20.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,21.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,22.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,23.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,24.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,25.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,26.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,27.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,28.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,29.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,30.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,31.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,32.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,33.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,34.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,35.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,36.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,37.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,38.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,39.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,40.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,41.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,42.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,43.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,44.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,45.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,46.00,ex,22487.88,risk,1163.25,lam0.700,23651.13
+Iteration,47.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,48.00,ex,22487.88,risk,1163.25,9     lam 0.7000,23651.13
+Iteration,49.00,ex,22487.88,risk,1163.25,lam 0.700,23651.13
+Iteration,1.00,ex,10289.73,risk,439.98,lam0.720,10729.71
+Iteration,2.00,ex,13974.52,risk,428.01,lam0.720,14402.53
+Iteration,3.00,ex,18007.14,risk,667.69,lam0.720,18674.84
+Iteration,4.00,ex,20949.34,risk,833.82,lam0.720,21783.16
+Iteration,5.00,ex,14005.61,risk,961.22,lam0.720,14966.83
+Iteration,6.00,ex,16739.92,risk,819.52,lam0.720,17559.44
+Iteration,7.00,ex,22884.60,risk,867.43,lam 0.720,23752.03
+Iteration,8.00,ex,16367.87,risk,988.05,lam0.720,17355.92
+Iteration,9.00,ex,15960.72,risk,490.56,lam 0.7200,16451.28
+Iteration,10.00,ex,15960.72,risk,490.56,lam0.720,16451.28
+Iteration,11.00,ex,24595.79,risk,820.02,lam 0.720,25415.81
+Iteration,12.00,ex,16147.33,risk,826.00,lam 0.7200,16973.32
+Iteration,13.00,ex,16147.33,risk,826.00,lam 0.720,16973.32
+Iteration,14.00,ex,22724.67,risk,544.31,lam0.720,23268.98
+Iteration,15.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,16.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,17.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,18.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,19.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,20.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,21.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,22.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,23.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,24.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,25.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,26.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,27.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,28.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,29.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,30.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,31.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,32.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,33.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,34.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,35.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,36.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,37.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,38.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,39.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,40.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,41.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,42.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,43.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,44.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,45.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,46.00,ex,23130.39,risk,1085.70,lam0.720,24216.09
+Iteration,47.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,48.00,ex,23130.39,risk,1085.70,7     lam 0.7200,24216.09
+Iteration,49.00,ex,23130.39,risk,1085.70,lam 0.720,24216.09
+Iteration,1.00,ex,10575.55,risk,408.55,lam0.740,10984.10
+Iteration,2.00,ex,14362.70,risk,397.44,lam0.740,14760.14
+Iteration,3.00,ex,18507.34,risk,620.00,lam0.740,19127.34
+Iteration,4.00,ex,21531.27,risk,774.26,lam0.740,22305.53
+Iteration,5.00,ex,14394.66,risk,892.56,lam0.740,15287.21
+Iteration,6.00,ex,17204.92,risk,760.98,lam0.740,17965.90
+Iteration,7.00,ex,23520.28,risk,805.47,lam 0.740,24325.75
+Iteration,8.00,ex,16822.53,risk,917.48,lam0.740,17740.01
+Iteration,9.00,ex,16404.08,risk,455.52,lam 0.7400,16859.59
+Iteration,10.00,ex,16404.08,risk,455.52,lam0.740,16859.59
+Iteration,11.00,ex,25279.01,risk,761.45,lam 0.740,26040.45
+Iteration,12.00,ex,16595.86,risk,767.00,lam 0.7400,17362.86
+Iteration,13.00,ex,16595.86,risk,767.00,lam 0.740,17362.86
+Iteration,14.00,ex,23355.91,risk,505.43,lam0.740,23861.34
+Iteration,15.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,16.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,17.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,18.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,19.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,20.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,21.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,22.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,23.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,24.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,25.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,26.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,27.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,28.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,29.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,30.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,31.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,32.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,33.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,34.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,35.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,36.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,37.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,38.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,39.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,40.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,41.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,42.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,43.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,44.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,45.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,46.00,ex,23772.90,risk,1008.15,lam0.740,24781.05
+Iteration,47.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,48.00,ex,23772.90,risk,1008.15,5     lam 0.7400,24781.05
+Iteration,49.00,ex,23772.90,risk,1008.15,lam 0.740,24781.05
+Iteration,1.00,ex,10861.38,risk,377.13,lam0.760,11238.50
+Iteration,2.00,ex,14750.89,risk,366.87,lam0.760,15117.75
+Iteration,3.00,ex,19007.54,risk,572.31,lam0.760,19579.85
+Iteration,4.00,ex,22113.20,risk,714.70,lam0.760,22827.90
+Iteration,5.00,ex,14783.70,risk,823.90,lam0.760,15607.60
+Iteration,6.00,ex,17669.92,risk,702.44,lam0.760,18372.36
+Iteration,7.00,ex,24155.97,risk,743.51,lam 0.760,24899.48
+Iteration,8.00,ex,17277.20,risk,846.90,lam0.760,18124.10
+Iteration,9.00,ex,16847.43,risk,420.48,lam 0.7600,17267.91
+Iteration,10.00,ex,16847.43,risk,420.48,lam0.760,17267.91
+Iteration,11.00,ex,25962.22,risk,702.87,lam 0.760,26665.10
+Iteration,12.00,ex,17044.40,risk,708.00,lam 0.7600,17752.39
+Iteration,13.00,ex,17044.40,risk,708.00,lam 0.760,17752.39
+Iteration,14.00,ex,23987.15,risk,466.55,lam0.760,24453.70
+Iteration,15.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,16.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,17.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,18.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,19.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,20.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,21.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,22.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,23.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,24.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,25.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,26.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,27.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,28.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,29.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,30.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,31.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,32.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,33.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,34.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,35.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,36.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,37.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,38.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,39.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,40.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,41.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,42.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,43.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,44.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,45.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,46.00,ex,24415.41,risk,930.60,lam0.760,25346.01
+Iteration,47.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,48.00,ex,24415.41,risk,930.60,lam 0.7600,25346.01
+Iteration,49.00,ex,24415.41,risk,930.60,lam 0.760,25346.01
+Iteration,1.00,ex,11147.20,risk,345.70,lam0.780,11492.90
+Iteration,2.00,ex,15139.07,risk,336.29,lam0.780,15475.36
+Iteration,3.00,ex,19507.74,risk,524.62,lam0.780,20032.35
+Iteration,4.00,ex,22695.12,risk,655.15,lam0.780,23350.27
+Iteration,5.00,ex,15172.75,risk,755.24,lam0.780,15927.99
+Iteration,6.00,ex,18134.92,risk,643.90,lam0.780,18778.82
+Iteration,7.00,ex,24791.65,risk,681.55,lam 0.780,25473.20
+Iteration,8.00,ex,17731.86,risk,776.33,lam0.780,18508.19
+Iteration,9.00,ex,17290.78,risk,385.44,lam 0.7800,17676.22
+Iteration,10.00,ex,17290.78,risk,385.44,lam0.780,17676.22
+Iteration,11.00,ex,26645.44,risk,644.30,lam 0.780,27289.74
+Iteration,12.00,ex,17492.94,risk,649.00,lam 0.7800,18141.93
+Iteration,13.00,ex,17492.94,risk,649.00,lam 0.780,18141.93
+Iteration,14.00,ex,24618.39,risk,427.67,lam0.780,25046.06
+Iteration,15.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,16.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,17.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,18.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,19.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,20.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,21.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,22.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,23.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,24.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,25.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,26.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,27.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,28.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,29.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,30.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,31.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,32.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,33.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,34.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,35.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,36.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,37.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,38.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,39.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,40.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,41.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,42.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,43.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,44.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,45.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,46.00,ex,25057.92,risk,853.05,lam0.780,25910.97
+Iteration,47.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,48.00,ex,25057.92,risk,853.05,lam 0.7800,25910.97
+Iteration,49.00,ex,25057.92,risk,853.05,lam 0.780,25910.97
+Iteration,1.00,ex,11433.03,risk,314.27,lam0.800,11747.30
+Iteration,2.00,ex,15527.25,risk,305.72,lam0.800,15832.97
+Iteration,3.00,ex,20007.94,risk,476.92,lam0.800,20484.86
+Iteration,4.00,ex,23277.05,risk,595.59,lam0.800,23872.63
+Iteration,5.00,ex,15561.79,risk,686.58,lam0.800,16248.37
+Iteration,6.00,ex,18599.92,risk,585.37,lam0.800,19185.28
+Iteration,7.00,ex,25427.33,risk,619.59,lam 0.800,26046.92
+Iteration,8.00,ex,18186.52,risk,705.75,lam0.800,18892.27
+Iteration,9.00,ex,17734.14,risk,350.40,lam 0.8000,18084.53
+Iteration,10.00,ex,17734.14,risk,350.40,lam0.800,18084.53
+Iteration,11.00,ex,27328.66,risk,585.73,lam 0.800,27914.38
+Iteration,12.00,ex,17941.47,risk,590.00,lam 0.8000,18531.47
+Iteration,13.00,ex,17941.47,risk,590.00,lam 0.800,18531.47
+Iteration,14.00,ex,25249.63,risk,388.79,lam0.800,25638.42
+Iteration,15.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,16.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,17.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,18.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,19.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,20.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,21.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,22.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,23.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,24.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,25.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,26.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,27.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,28.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,29.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,30.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,31.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,32.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,33.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,34.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,35.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,36.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,37.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,38.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,39.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,40.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,41.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,42.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,43.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,44.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,45.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,46.00,ex,25700.43,risk,775.50,lam0.800,26475.93
+Iteration,47.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,48.00,ex,25700.43,risk,775.50,lam 0.8000,26475.93
+Iteration,49.00,ex,25700.43,risk,775.50,lam 0.800,26475.93
+Iteration,1.00,ex,11718.85,risk,282.85,lam0.820,12001.70
+Iteration,2.00,ex,15915.43,risk,275.15,lam0.820,16190.58
+Iteration,3.00,ex,20508.14,risk,429.23,lam0.820,20937.37
+Iteration,4.00,ex,23858.97,risk,536.03,lam0.820,24395.00
+Iteration,5.00,ex,15950.84,risk,617.92,lam0.820,16568.76
+Iteration,6.00,ex,19064.91,risk,526.83,lam0.820,19591.75
+Iteration,7.00,ex,26063.02,risk,557.63,lam 0.820,26620.65
+Iteration,8.00,ex,18641.19,risk,635.18,lam0.820,19276.36
+Iteration,9.00,ex,18177.49,risk,315.36,lam 0.8200,18492.85
+Iteration,10.00,ex,18177.49,risk,315.36,lam0.820,18492.85
+Iteration,11.00,ex,28011.87,risk,527.16,lam 0.820,28539.03
+Iteration,12.00,ex,18390.01,risk,531.00,lam 0.8200,18921.00
+Iteration,13.00,ex,18390.01,risk,531.00,lam 0.820,18921.01
+Iteration,14.00,ex,25880.88,risk,349.91,lam0.820,26230.79
+Iteration,15.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,16.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,17.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,18.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,19.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,20.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,21.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,22.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,23.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,24.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,25.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,26.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,27.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,28.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,29.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,30.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,31.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,32.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,33.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,34.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,35.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,36.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,37.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,38.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,39.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,40.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,41.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,42.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,43.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,44.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,45.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,46.00,ex,26342.94,risk,697.95,lam0.820,27040.89
+Iteration,47.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,48.00,ex,26342.94,risk,697.95,lam 0.8200,27040.89
+Iteration,49.00,ex,26342.94,risk,697.95,lam 0.820,27040.89
+Iteration,1.00,ex,12004.68,risk,251.42,lam0.840,12256.10
+Iteration,2.00,ex,16303.61,risk,244.58,lam0.840,16548.19
+Iteration,3.00,ex,21008.33,risk,381.54,lam0.840,21389.87
+Iteration,4.00,ex,24440.90,risk,476.47,lam0.840,24917.37
+Iteration,5.00,ex,16339.88,risk,549.27,lam0.840,16889.15
+Iteration,6.00,ex,19529.91,risk,468.29,lam0.840,19998.21
+Iteration,7.00,ex,26698.70,risk,495.67,lam 0.840,27194.37
+Iteration,8.00,ex,19095.85,risk,564.60,lam0.840,19660.45
+Iteration,9.00,ex,18620.84,risk,280.32,lam 0.8400,18901.16
+Iteration,10.00,ex,18620.84,risk,280.32,lam0.840,18901.16
+Iteration,11.00,ex,28695.09,risk,468.58,lam 0.840,29163.67
+Iteration,12.00,ex,18838.55,risk,472.00,lam 0.8400,19310.54
+Iteration,13.00,ex,18838.55,risk,472.00,lam 0.840,19310.54
+Iteration,14.00,ex,26512.12,risk,311.03,lam0.840,26823.15
+Iteration,15.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,16.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,17.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,18.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,19.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,20.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,21.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,22.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,23.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,24.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,25.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,26.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,27.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,28.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,29.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,30.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,31.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,32.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,33.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,34.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,35.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,36.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,37.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,38.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,39.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,40.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,41.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,42.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,43.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,44.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,45.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,46.00,ex,26985.45,risk,620.40,lam0.840,27605.85
+Iteration,47.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,48.00,ex,26985.45,risk,620.40,lam 0.8400,27605.85
+Iteration,49.00,ex,26985.45,risk,620.40,lam 0.840,27605.85
+Iteration,1.00,ex,12290.51,risk,219.99,lam0.860,12510.50
+Iteration,2.00,ex,16691.79,risk,214.01,lam0.860,16905.80
+Iteration,3.00,ex,21508.53,risk,333.85,lam0.860,21842.38
+Iteration,4.00,ex,25022.83,risk,416.91,lam0.860,25439.74
+Iteration,5.00,ex,16728.93,risk,480.61,lam0.860,17209.53
+Iteration,6.00,ex,19994.91,risk,409.76,lam0.860,20404.67
+Iteration,7.00,ex,27334.38,risk,433.71,lam 0.860,27768.10
+Iteration,8.00,ex,19550.51,risk,494.03,lam0.860,20044.54
+Iteration,9.00,ex,19064.20,risk,245.28,lam 0.8600,19309.47
+Iteration,10.00,ex,19064.20,risk,245.28,lam0.860,19309.47
+Iteration,11.00,ex,29378.31,risk,410.01,lam 0.860,29788.32
+Iteration,12.00,ex,19287.08,risk,413.00,lam 0.8600,19700.08
+Iteration,13.00,ex,19287.08,risk,413.00,lam 0.860,19700.08
+Iteration,14.00,ex,27143.36,risk,272.15,lam0.860,27415.51
+Iteration,15.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,16.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,17.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,18.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,19.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,20.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,21.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,22.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,23.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,24.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,25.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,26.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,27.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,28.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,29.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,30.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,31.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,32.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,33.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,34.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,35.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,36.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,37.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,38.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,39.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,40.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,41.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,42.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,43.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,44.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,45.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,46.00,ex,27627.96,risk,542.85,lam0.860,28170.81
+Iteration,47.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,48.00,ex,27627.96,risk,542.85,lam 0.8600,28170.81
+Iteration,49.00,ex,27627.96,risk,542.85,lam 0.860,28170.81
+Iteration,1.00,ex,12576.33,risk,188.56,lam0.880,12764.89
+Iteration,2.00,ex,17079.97,risk,183.43,lam0.880,17263.41
+Iteration,3.00,ex,22008.73,risk,286.15,lam0.880,22294.88
+Iteration,4.00,ex,25604.75,risk,357.35,lam0.880,25962.10
+Iteration,5.00,ex,17117.97,risk,411.95,lam0.880,17529.92
+Iteration,6.00,ex,20459.91,risk,351.22,lam0.880,20811.13
+Iteration,7.00,ex,27970.07,risk,371.76,lam 0.880,28341.82
+Iteration,8.00,ex,20005.18,risk,423.45,lam0.880,20428.63
+Iteration,9.00,ex,19507.55,risk,210.24,lam 0.8800,19717.79
+Iteration,10.00,ex,19507.55,risk,210.24,lam0.880,19717.79
+Iteration,11.00,ex,30061.52,risk,351.44,lam 0.880,30412.96
+Iteration,12.00,ex,19735.62,risk,354.00,lam 0.8800,20089.62
+Iteration,13.00,ex,19735.62,risk,354.00,lam 0.880,20089.62
+Iteration,14.00,ex,27774.60,risk,233.27,lam0.880,28007.87
+Iteration,15.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,16.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,17.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,18.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,19.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,20.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,21.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,22.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,23.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,24.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,25.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,26.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,27.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,28.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,29.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,30.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,31.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,32.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,33.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,34.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,35.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,36.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,37.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,38.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,39.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,40.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,41.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,42.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,43.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,44.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,45.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,46.00,ex,28270.47,risk,465.30,lam0.880,28735.77
+Iteration,47.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,48.00,ex,28270.47,risk,465.30,lam 0.8800,28735.77
+Iteration,49.00,ex,28270.47,risk,465.30,lam 0.880,28735.77
+Iteration,1.00,ex,12862.16,risk,157.14,lam0.900,13019.29
+Iteration,2.00,ex,17468.15,risk,152.86,lam0.900,17621.02
+Iteration,3.00,ex,22508.93,risk,238.46,lam0.900,22747.39
+Iteration,4.00,ex,26186.68,risk,297.79,lam0.900,26484.47
+Iteration,5.00,ex,17507.01,risk,343.29,lam0.900,17850.31
+Iteration,6.00,ex,20924.91,risk,292.68,lam0.900,21217.59
+Iteration,7.00,ex,28605.75,risk,309.80,lam 0.900,28915.55
+Iteration,8.00,ex,20459.84,risk,352.88,lam0.900,20812.71
+Iteration,9.00,ex,19950.90,risk,175.20,lam 0.9000,20126.10
+Iteration,10.00,ex,19950.90,risk,175.20,lam0.900,20126.10
+Iteration,11.00,ex,30744.74,risk,292.86,lam 0.900,31037.60
+Iteration,12.00,ex,20184.16,risk,295.00,lam 0.9000,20479.15
+Iteration,13.00,ex,20184.16,risk,295.00,lam 0.900,20479.15
+Iteration,14.00,ex,28405.84,risk,194.40,lam0.900,28600.23
+Iteration,15.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,16.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,17.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,18.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,19.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,20.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,21.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,22.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,23.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,24.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,25.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,26.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,27.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,28.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,29.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,30.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,31.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,32.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,33.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,34.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,35.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,36.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,37.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,38.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,39.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,40.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,41.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,42.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,43.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,44.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,45.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,46.00,ex,28912.98,risk,387.75,lam0.900,29300.73
+Iteration,47.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,48.00,ex,28912.98,risk,387.75,lam 0.9000,29300.73
+Iteration,49.00,ex,28912.98,risk,387.75,lam 0.900,29300.73
+Iteration,1.00,ex,13147.98,risk,125.71,lam0.920,13273.69
+Iteration,2.00,ex,17856.34,risk,122.29,lam0.920,17978.62
+Iteration,3.00,ex,23009.13,risk,190.77,lam0.920,23199.90
+Iteration,4.00,ex,26768.61,risk,238.24,lam0.920,27006.84
+Iteration,5.00,ex,17896.06,risk,274.63,lam0.920,18170.69
+Iteration,6.00,ex,21389.90,risk,234.15,lam0.920,21624.05
+Iteration,7.00,ex,29241.43,risk,247.84,lam 0.920,29489.27
+Iteration,8.00,ex,20914.50,risk,282.30,lam 0.9200,21196.80
+Iteration,9.00,ex,20914.50,risk,282.30,lam0.920,21196.80
+Iteration,10.00,ex,20914.50,risk,282.30,lam0.920,21196.80
+Iteration,11.00,ex,31427.96,risk,234.29,lam0.920,31662.25
+Iteration,12.00,ex,15228.35,risk,245.19,lam0.920,15473.55
+Iteration,13.00,ex,18197.13,risk,193.99,lam0.920,18391.12
+Iteration,14.00,ex,21278.59,risk,278.53,lam0.920,21557.11
+Iteration,15.00,ex,16501.93,risk,209.54,lam0.920,16711.46
+Iteration,16.00,ex,21380.60,risk,239.99,lam0.920,21620.59
+Iteration,17.00,ex,21650.90,risk,165.48,lam0.920,21816.38
+Iteration,18.00,ex,20637.02,risk,180.99,lam0.920,20818.01
+Iteration,19.00,ex,19973.06,risk,334.55,lam0.920,20307.61
+Iteration,20.00,ex,29635.87,risk,219.04,lam0.920,29854.92
+Iteration,21.00,ex,20397.03,risk,255.33,lam0.920,20652.36
+Iteration,22.00,ex,20429.03,risk,207.60,lam0.920,20636.63
+Iteration,23.00,ex,30298.57,risk,205.94,lam0.920,30504.50
+Iteration,24.00,ex,30298.57,risk,205.94,lam 0.920,30504.50
+Iteration,25.00,ex,30123.44,risk,270.96,lam0.920,30394.40
+Iteration,26.00,ex,20632.69,risk,236.00,lam 0.9200,20868.69
+Iteration,27.00,ex,20632.69,risk,236.00,lam 0.920,20868.69
+Iteration,28.00,ex,20632.69,risk,236.00,lam0.920,20868.69
+Iteration,29.00,ex,21631.85,risk,413.84,lam0.920,22045.69
+Iteration,30.00,ex,22195.58,risk,283.52,lam0.920,22479.10
+Iteration,31.00,ex,22195.58,risk,283.52,lam 0.9200,22479.10
+Iteration,32.00,ex,22195.58,risk,283.52,lam0.920,22479.10
+Iteration,33.00,ex,22195.58,risk,283.52,lam 0.920,22479.10
+Iteration,34.00,ex,33177.29,risk,225.60,lam 0.9200,33402.89
+Iteration,35.00,ex,33177.29,risk,225.60,lam 0.920,33402.89
+Iteration,36.00,ex,33177.29,risk,225.60,lam0.920,33402.89
+Iteration,37.00,ex,33177.29,risk,225.60,lam 0.9200,33402.89
+Iteration,38.00,ex,33177.29,risk,225.60,lam0.920,33402.89
+Iteration,39.00,ex,33177.29,risk,225.60,lam 0.920,33402.89
+Iteration,40.00,ex,33177.29,risk,225.60,lam 0.9200,33402.89
+Iteration,41.00,ex,33177.29,risk,225.60,lam 0.920,33402.89
+Iteration,42.00,ex,33177.29,risk,225.60,lam0.920,33402.89
+Iteration,43.00,ex,33177.29,risk,225.60,lam 0.9200,33402.89
+Iteration,44.00,ex,33177.29,risk,225.60,lam0.920,33402.89
+Iteration,45.00,ex,33177.29,risk,225.60,lam 0.920,33402.89
+Iteration,46.00,ex,33177.29,risk,225.60,lam 0.9200,33402.89
+Iteration,47.00,ex,33177.29,risk,225.60,lam 0.920,33402.89
+Iteration,48.00,ex,33177.29,risk,225.60,lam0.920,33402.89
+Iteration,49.00,ex,33177.29,risk,225.60,lam 0.9200,33402.89
+Iteration,1.00,ex,13433.81,risk,94.28,lam0.940,13528.09
+Iteration,2.00,ex,18244.52,risk,91.72,lam0.940,18336.23
+Iteration,3.00,ex,23509.33,risk,143.08,lam0.940,23652.40
+Iteration,4.00,ex,27350.53,risk,178.68,lam0.940,27529.21
+Iteration,5.00,ex,18285.10,risk,205.98,lam0.940,18491.08
+Iteration,6.00,ex,21854.90,risk,175.61,lam0.940,22030.51
+Iteration,7.00,ex,29877.12,risk,185.88,lam 0.940,30062.99
+Iteration,8.00,ex,21369.16,risk,211.73,lam 0.9400,21580.89
+Iteration,9.00,ex,21369.16,risk,211.73,lam0.940,21580.89
+Iteration,10.00,ex,21369.16,risk,211.73,lam0.940,21580.89
+Iteration,11.00,ex,32111.17,risk,175.72,lam0.940,32286.89
+Iteration,12.00,ex,15559.40,risk,183.90,lam0.940,15743.30
+Iteration,13.00,ex,18592.72,risk,145.49,lam0.940,18738.21
+Iteration,14.00,ex,21741.17,risk,208.89,lam0.940,21950.06
+Iteration,15.00,ex,16860.67,risk,157.15,lam0.940,17017.82
+Iteration,16.00,ex,21845.39,risk,179.99,lam0.940,22025.38
+Iteration,17.00,ex,22121.57,risk,124.11,lam0.940,22245.68
+Iteration,18.00,ex,21085.65,risk,135.74,lam0.940,21221.39
+Iteration,19.00,ex,20407.25,risk,250.91,lam0.940,20658.17
+Iteration,20.00,ex,30280.13,risk,164.28,lam0.940,30444.41
+Iteration,21.00,ex,20840.44,risk,191.50,lam0.940,21031.94
+Iteration,22.00,ex,20873.14,risk,155.70,lam0.940,21028.84
+Iteration,23.00,ex,30957.23,risk,154.45,lam0.940,31111.68
+Iteration,24.00,ex,30957.23,risk,154.45,lam 0.940,31111.68
+Iteration,25.00,ex,30778.30,risk,203.22,lam0.940,30981.52
+Iteration,26.00,ex,21081.23,risk,177.00,lam 0.9400,21258.23
+Iteration,27.00,ex,21081.23,risk,177.00,lam 0.940,21258.23
+Iteration,28.00,ex,21081.23,risk,177.00,lam0.940,21258.23
+Iteration,29.00,ex,22102.11,risk,310.38,lam0.940,22412.49
+Iteration,30.00,ex,22678.09,risk,212.64,lam0.940,22890.73
+Iteration,31.00,ex,22678.09,risk,212.64,lam 0.9400,22890.73
+Iteration,32.00,ex,22678.09,risk,212.64,lam0.940,22890.73
+Iteration,33.00,ex,22678.09,risk,212.64,lam 0.940,22890.73
+Iteration,34.00,ex,33898.53,risk,169.20,lam 0.9400,34067.73
+Iteration,35.00,ex,33898.53,risk,169.20,lam 0.940,34067.73
+Iteration,36.00,ex,33898.53,risk,169.20,lam0.940,34067.73
+Iteration,37.00,ex,33898.53,risk,169.20,lam 0.9400,34067.73
+Iteration,38.00,ex,33898.53,risk,169.20,lam0.940,34067.73
+Iteration,39.00,ex,33898.53,risk,169.20,lam 0.940,34067.73
+Iteration,40.00,ex,33898.53,risk,169.20,lam 0.9400,34067.73
+Iteration,41.00,ex,33898.53,risk,169.20,lam 0.940,34067.73
+Iteration,42.00,ex,33898.53,risk,169.20,lam0.940,34067.73
+Iteration,43.00,ex,33898.53,risk,169.20,lam 0.9400,34067.73
+Iteration,44.00,ex,33898.53,risk,169.20,lam0.940,34067.73
+Iteration,45.00,ex,33898.53,risk,169.20,lam 0.940,34067.73
+Iteration,46.00,ex,33898.53,risk,169.20,lam 0.9400,34067.73
+Iteration,47.00,ex,33898.53,risk,169.20,lam 0.940,34067.73
+Iteration,48.00,ex,33898.53,risk,169.20,lam0.940,34067.73
+Iteration,49.00,ex,33898.53,risk,169.20,lam 0.9400,34067.73
+Iteration,1.00,ex,13719.63,risk,62.85,lam0.960,13782.49
+Iteration,2.00,ex,18632.70,risk,61.14,lam0.960,18693.84
+Iteration,3.00,ex,24009.52,risk,95.39,lam0.960,24104.91
+Iteration,4.00,ex,27932.46,risk,119.12,lam0.960,28051.57
+Iteration,5.00,ex,18674.15,risk,137.32,lam0.960,18811.46
+Iteration,6.00,ex,22319.90,risk,117.07,lam0.960,22436.97
+Iteration,7.00,ex,30512.80,risk,123.92,lam 0.960,30636.72
+Iteration,8.00,ex,21823.83,risk,141.15,lam 0.9600,21964.98
+Iteration,9.00,ex,21823.83,risk,141.15,lam0.960,21964.98
+Iteration,10.00,ex,21823.83,risk,141.15,lam0.960,21964.98
+Iteration,11.00,ex,32794.39,risk,117.15,lam0.960,32911.53
+Iteration,12.00,ex,15890.46,risk,122.60,lam0.960,16013.05
+Iteration,13.00,ex,18988.31,risk,96.99,lam0.960,19085.30
+Iteration,14.00,ex,22203.74,risk,139.26,lam0.960,22343.01
+Iteration,15.00,ex,17219.40,risk,104.77,lam0.960,17324.17
+Iteration,16.00,ex,22310.19,risk,120.00,lam0.960,22430.18
+Iteration,17.00,ex,22592.25,risk,82.74,lam0.960,22674.99
+Iteration,18.00,ex,21534.28,risk,90.49,lam0.960,21624.77
+Iteration,19.00,ex,20841.45,risk,167.28,lam0.960,21008.73
+Iteration,20.00,ex,30924.39,risk,109.52,lam0.960,31033.91
+Iteration,21.00,ex,21283.85,risk,127.67,lam0.960,21411.52
+Iteration,22.00,ex,21317.25,risk,103.80,lam0.960,21421.05
+Iteration,23.00,ex,31615.89,risk,102.97,lam0.960,31718.86
+Iteration,24.00,ex,31615.89,risk,102.97,lam 0.960,31718.86
+Iteration,25.00,ex,31433.16,risk,135.48,lam0.960,31568.64
+Iteration,26.00,ex,21529.77,risk,118.00,lam 0.9600,21647.77
+Iteration,27.00,ex,21529.77,risk,118.00,lam 0.960,21647.77
+Iteration,28.00,ex,21529.77,risk,118.00,lam0.960,21647.77
+Iteration,29.00,ex,22572.37,risk,206.92,lam0.960,22779.29
+Iteration,30.00,ex,23160.61,risk,141.76,lam0.960,23302.37
+Iteration,31.00,ex,23160.61,risk,141.76,lam 0.9600,23302.36
+Iteration,32.00,ex,23160.61,risk,141.76,lam0.960,23302.37
+Iteration,33.00,ex,23160.61,risk,141.76,lam 0.960,23302.37
+Iteration,34.00,ex,34619.78,risk,112.80,lam 0.9600,34732.58
+Iteration,35.00,ex,34619.78,risk,112.80,lam 0.960,34732.58
+Iteration,36.00,ex,34619.78,risk,112.80,lam0.960,34732.58
+Iteration,37.00,ex,34619.78,risk,112.80,lam 0.9600,34732.58
+Iteration,38.00,ex,34619.78,risk,112.80,lam0.960,34732.58
+Iteration,39.00,ex,34619.78,risk,112.80,lam 0.960,34732.58
+Iteration,40.00,ex,34619.78,risk,112.80,lam 0.9600,34732.58
+Iteration,41.00,ex,34619.78,risk,112.80,lam 0.960,34732.58
+Iteration,42.00,ex,34619.78,risk,112.80,lam0.960,34732.58
+Iteration,43.00,ex,34619.78,risk,112.80,lam 0.9600,34732.58
+Iteration,44.00,ex,34619.78,risk,112.80,lam0.960,34732.58
+Iteration,45.00,ex,34619.78,risk,112.80,lam 0.960,34732.58
+Iteration,46.00,ex,34619.78,risk,112.80,lam 0.9600,34732.58
+Iteration,47.00,ex,34619.78,risk,112.80,lam 0.960,34732.58
+Iteration,48.00,ex,34619.78,risk,112.80,lam0.960,34732.58
+Iteration,49.00,ex,34619.78,risk,112.80,lam 0.9600,34732.58
+Iteration,1.00,ex,14005.46,risk,31.43,lam0.980,14036.89
+Iteration,2.00,ex,19020.88,risk,30.57,lam0.980,19051.45
+Iteration,3.00,ex,24509.72,risk,47.69,lam0.980,24557.41
+Iteration,4.00,ex,28514.38,risk,59.56,lam0.980,28573.94
+Iteration,5.00,ex,19063.19,risk,68.66,lam0.980,19131.85
+Iteration,6.00,ex,22784.90,risk,58.54,lam0.980,22843.43
+Iteration,7.00,ex,31148.48,risk,61.96,lam 0.980,31210.44
+Iteration,8.00,ex,22278.49,risk,70.58,lam 0.9800,22349.07
+Iteration,9.00,ex,22278.49,risk,70.58,lam0.980,22349.07
+Iteration,10.00,ex,22278.49,risk,70.58,lam0.980,22349.07
+Iteration,11.00,ex,33477.60,risk,58.57,lam0.980,33536.18
+Iteration,12.00,ex,16221.51,risk,61.30,lam0.980,16282.81
+Iteration,13.00,ex,19383.90,risk,48.50,lam0.980,19432.40
+Iteration,14.00,ex,22666.32,risk,69.63,lam0.980,22735.95
+Iteration,15.00,ex,17578.14,risk,52.38,lam0.980,17630.53
+Iteration,16.00,ex,22774.98,risk,60.00,lam0.980,22834.98
+Iteration,17.00,ex,23062.92,risk,41.37,lam0.980,23104.29
+Iteration,18.00,ex,21982.91,risk,45.25,lam0.980,22028.16
+Iteration,19.00,ex,21275.65,risk,83.64,lam0.980,21359.28
+Iteration,20.00,ex,31568.65,risk,54.76,lam0.980,31623.41
+Iteration,21.00,ex,21727.27,risk,63.83,lam0.980,21791.10
+Iteration,22.00,ex,21761.36,risk,51.90,lam0.980,21813.26
+Iteration,23.00,ex,32274.56,risk,51.48,lam0.980,32326.04
+Iteration,24.00,ex,32274.56,risk,51.48,lam 0.980,32326.04
+Iteration,25.00,ex,32088.02,risk,67.74,lam0.980,32155.75
+Iteration,26.00,ex,21978.30,risk,59.00,lam 0.9800,22037.30
+Iteration,27.00,ex,21978.30,risk,59.00,lam 0.980,22037.30
+Iteration,28.00,ex,21978.30,risk,59.00,lam0.980,22037.30
+Iteration,29.00,ex,23042.62,risk,103.46,lam0.980,23146.08
+Iteration,30.00,ex,23643.12,risk,70.88,lam0.980,23714.00
+Iteration,31.00,ex,23643.12,risk,70.88,lam 0.9800,23714.00
+Iteration,32.00,ex,23643.12,risk,70.88,lam0.980,23714.00
+Iteration,33.00,ex,23643.12,risk,70.88,lam 0.980,23714.00
+Iteration,34.00,ex,35341.03,risk,56.40,lam 0.9800,35397.42
+Iteration,35.00,ex,35341.03,risk,56.40,lam 0.980,35397.42
+Iteration,36.00,ex,35341.03,risk,56.40,lam0.980,35397.42
+Iteration,37.00,ex,35341.03,risk,56.40,lam 0.9800,35397.42
+Iteration,38.00,ex,35341.03,risk,56.40,lam0.980,35397.42
+Iteration,39.00,ex,35341.03,risk,56.40,lam 0.980,35397.42
+Iteration,40.00,ex,35341.03,risk,56.40,lam 0.9800,35397.42
+Iteration,41.00,ex,35341.03,risk,56.40,lam 0.980,35397.42
+Iteration,42.00,ex,35341.03,risk,56.40,lam0.980,35397.42
+Iteration,43.00,ex,35341.03,risk,56.40,lam 0.9800,35397.42
+Iteration,44.00,ex,35341.03,risk,56.40,lam0.980,35397.42
+Iteration,45.00,ex,35341.03,risk,56.40,lam 0.980,35397.42
+Iteration,46.00,ex,35341.03,risk,56.40,lam 0.9800,35397.42
+Iteration,47.00,ex,35341.03,risk,56.40,lam 0.980,35397.42
+Iteration,48.00,ex,35341.03,risk,56.40,lam0.980,35397.42
+Iteration,49.00,ex,35341.03,risk,56.40,lam 0.9800,35397.42

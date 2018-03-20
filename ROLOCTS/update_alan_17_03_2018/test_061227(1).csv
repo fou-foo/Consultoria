@@ -1,0 +1,2450 @@
+﻿Iteration,1,ex,0,risk,2305.565,lam0.000
+Iteration,2,ex,0,risk,2217.749,lam0.000
+Iteration,3,ex,0,risk,2699.049,lam0.000
+Iteration,4,ex,0,risk,2024.136,lam0.000
+Iteration,5,ex,0,risk,2457.833,lam0.000
+Iteration,6,ex,0,risk,2495.666,lam0.000
+Iteration,7,ex,0,risk,2898.577,lam0.000
+Iteration,8,ex,0,risk,2339.111,lam0.000
+Iteration,9,ex,0,risk,2322.278,lam0.000
+Iteration,10,ex,0,risk,2692.382,lam0.000
+Iteration,11,ex,0,risk,2488.153,lam0.000
+Iteration,12,ex,0,risk,3782.323,lam0.000
+Iteration,13,ex,0,risk,3301.895,lam 0.000
+Iteration,14,ex,0,risk,2260.077,lam0.000
+Iteration,15,ex,0,risk,2366.6889,lam 0.0000
+Iteration,16,ex,0,risk,3366.773,lam0.000
+Iteration,17,ex,0,risk,2981.639,lam0.000
+Iteration,18,ex,0,risk,3162.276,lam0.000
+Iteration,19,ex,0,risk,3162.276,lam0.000
+Iteration,20,ex,0,risk,3439.35,lam 0.000
+Iteration,21,ex,0,risk,2218.808,lam0.000
+Iteration,22,ex,0,risk,2031.843,lam0.000
+Iteration,23,ex,0,risk,2245.419,lam0.000
+Iteration,24,ex,0,risk,2199.9302,lam 0.0000
+Iteration,25,ex,0,risk,2598.27,lam0.000
+Iteration,26,ex,0,risk,3101.189,lam0.000
+Iteration,27,ex,0,risk,2828.111,lam 0.000
+Iteration,28,ex,0,risk,2342.8735,lam 0.0000
+Iteration,29,ex,0,risk,2342.873,lam0.000
+Iteration,30,ex,0,risk,3462.77,lam0.000
+Iteration,31,ex,0,risk,3719.53,lam0.000
+Iteration,32,ex,0,risk,4150.831,lam0.000
+Iteration,33,ex,0,risk,3814.104,lam 0.000
+Iteration,34,ex,0,risk,2279.998,lam0.000
+Iteration,35,ex,0,risk,3238.396,lam0.000
+Iteration,36,ex,0,risk,2498.68,lam0.000
+Iteration,37,ex,0,risk,2605.3094,lam 0.0000
+Iteration,38,ex,0,risk,3751.338,lam0.000
+Iteration,39,ex,0,risk,3083.804,lam0.000
+Iteration,40,ex,0,risk,3083.804,lam0.000
+Iteration,41,ex,0,risk,3083.804,lam0.000
+Iteration,42,ex,0,risk,3083.804,lam 0.000
+Iteration,43,ex,0,risk,2403.147,lam0.000
+Iteration,44,ex,0,risk,2936.105,lam0.000
+Iteration,45,ex,0,risk,2717.9706,lam 0.0000
+Iteration,46,ex,0,risk,3782.116,lam0.000
+Iteration,47,ex,0,risk,3421.53,lam0.000
+Iteration,48,ex,0,risk,3421.53,lam0.000
+Iteration,49,ex,0,risk,3421.53,lam0.000
+Iteration,1,ex,411.11,risk,2259.454,lam0.020
+Iteration,2,ex,399.644,risk,2184.356,lam0.020
+Iteration,3,ex,422.494,risk,2528.282,lam0.020
+Iteration,4,ex,447.774,risk,3370.563,lam0.020
+Iteration,5,ex,395.749,risk,1983.654,lam0.020
+Iteration,6,ex,391.583,risk,2196.85,lam0.020
+Iteration,7,ex,448.966,risk,3417.379,lam0.020
+Iteration,8,ex,580.153,risk,3527.117,lam0.020
+Iteration,9,ex,432.806,risk,2922.006,lam 0.020
+Iteration,10,ex,462.937,risk,2725.762,lam0.020
+Iteration,11,ex,490.024,risk,3022.912,lam0.020
+Iteration,12,ex,430.571,risk,2072.538,lam0.020
+Iteration,13,ex,421.47,risk,2200.511,lam0.020
+Iteration,14,ex,482.62,risk,2486.884,lam0.020
+Iteration,15,ex,409.86,risk,2128.0707,lam 0.0200
+Iteration,16,ex,407.664,risk,2285.172,lam 0.020
+Iteration,17,ex,440.061,risk,2213.296,lam0.020
+Iteration,18,ex,442.937,risk,2296.016,lam 0.020
+Iteration,19,ex,470.301,risk,2322.543,lam0.020
+Iteration,20,ex,446.882,risk,2086.207,lam0.020
+Iteration,21,ex,453.31,risk,2022.141,lam0.020
+Iteration,22,ex,447.211,risk,2264.21,lam0.020
+Iteration,23,ex,468.932,risk,2306.857,lam 0.020
+Iteration,24,ex,481.736,risk,2205.697,lam0.020
+Iteration,25,ex,475.007,risk,2201.8721,lam 0.0200
+Iteration,26,ex,475.007,risk,2201.872,lam 0.020
+Iteration,27,ex,512.779,risk,2350.306,lam0.020
+Iteration,28,ex,501.025,risk,2353.448,lam0.020
+Iteration,29,ex,502.23,risk,2443.915,lam0.020
+Iteration,30,ex,502.23,risk,2443.915,lam0.020
+Iteration,31,ex,488.582,risk,2137.0745,lam 0.0200
+Iteration,32,ex,488.582,risk,2137.074,lam 0.020
+Iteration,33,ex,475.921,risk,2260.842,lam 0.020
+Iteration,34,ex,509.861,risk,2407.1839,lam 0.0200
+Iteration,35,ex,474.588,risk,2275.154,lam0.020
+Iteration,36,ex,474.588,risk,2275.154,lam 0.020
+Iteration,37,ex,505.983,risk,2156.977,lam0.020
+Iteration,38,ex,541.05,risk,2334.243,lam0.020
+Iteration,39,ex,506.339,risk,2165.527,lam 0.0200
+Iteration,40,ex,506.339,risk,2165.527,lam 0.0200
+Iteration,41,ex,506.339,risk,2165.527,lam 0.020
+Iteration,42,ex,506.339,risk,2165.527,lam0.020
+Iteration,43,ex,506.339,risk,2165.527,lam 0.0200
+Iteration,44,ex,506.339,risk,2165.527,lam 0.020
+Iteration,45,ex,506.339,risk,2165.527,lam0.020
+Iteration,46,ex,506.339,risk,2165.527,lam 0.0200
+Iteration,47,ex,506.339,risk,2165.527,lam 0.020
+Iteration,48,ex,506.339,risk,2165.527,lam 0.020
+Iteration,49,ex,524.294,risk,2479.489,lam0.020
+Iteration,1,ex,822.22,risk,2213.342,lam0.040
+Iteration,2,ex,799.288,risk,2139.777,lam0.040
+Iteration,3,ex,844.989,risk,2476.684,lam0.040
+Iteration,4,ex,895.548,risk,3301.776,lam0.040
+Iteration,5,ex,791.498,risk,1943.171,lam0.040
+Iteration,6,ex,783.165,risk,2152.016,lam0.040
+Iteration,7,ex,1057.698,risk,3452.411,lam0.040
+Iteration,8,ex,959.57,risk,2701.526,lam0.040
+Iteration,9,ex,1082.13,risk,3413.676,lam0.040
+Iteration,10,ex,1001.626,risk,3296.843,lam 0.040
+Iteration,11,ex,862.043,risk,2059.945,lam0.040
+Iteration,12,ex,861.141,risk,2030.241,lam0.040
+Iteration,13,ex,823.877,risk,2100.953,lam0.040
+Iteration,14,ex,842.94,risk,2155.602,lam0.040
+Iteration,15,ex,1056.179,risk,2766.373,lam0.040
+Iteration,16,ex,907.734,risk,2401.658,lam0.040
+Iteration,17,ex,903.797,risk,2398.7323,lam 0.0400
+Iteration,18,ex,912.18,risk,2750.812,lam0.040
+Iteration,19,ex,846.511,risk,2139.211,lam0.040
+Iteration,20,ex,920.559,risk,2537.439,lam0.040
+Iteration,21,ex,920.559,risk,2537.439,lam0.040
+Iteration,22,ex,920.007,risk,2494.339,lam0.040
+Iteration,23,ex,1007.552,risk,2782.634,lam0.040
+Iteration,24,ex,1007.552,risk,2782.634,lam0.040
+Iteration,25,ex,1111.607,risk,3165.434,lam0.040
+Iteration,26,ex,861.24,risk,1989.119,lam0.040
+Iteration,27,ex,1047.492,risk,3242.679,lam 0.040
+Iteration,28,ex,1072.251,risk,3156.0254,lam 0.0400
+Iteration,29,ex,1072.251,risk,3156.025,lam0.040
+Iteration,30,ex,1072.251,risk,3156.025,lam0.040
+Iteration,31,ex,863.648,risk,2121.99,lam0.040
+Iteration,32,ex,863.648,risk,2121.99,lam0.040
+Iteration,33,ex,903.904,risk,2584.687,lam0.040
+Iteration,34,ex,935.865,risk,2273.831,lam0.040
+Iteration,35,ex,935.865,risk,2273.831,lam0.040
+Iteration,36,ex,885.873,risk,2249.159,lam0.040
+Iteration,37,ex,885.873,risk,2249.159,lam0.040
+Iteration,38,ex,885.873,risk,2249.159,lam0.040
+Iteration,39,ex,885.873,risk,2249.159,lam0.040
+Iteration,40,ex,885.873,risk,2249.159,lam0.040
+Iteration,41,ex,928.98,risk,3076.738,lam0.040
+Iteration,42,ex,928.98,risk,3076.738,lam0.040
+Iteration,43,ex,928.98,risk,3076.738,lam0.040
+Iteration,44,ex,928.98,risk,3076.738,lam0.040
+Iteration,45,ex,928.98,risk,3076.738,lam0.040
+Iteration,46,ex,928.98,risk,3076.738,lam0.040
+Iteration,47,ex,928.98,risk,3076.738,lam0.040
+Iteration,48,ex,928.98,risk,3076.738,lam0.040
+Iteration,49,ex,928.98,risk,3076.738,lam0.040
+Iteration,1,ex,1233.33,risk,2167.231,lam0.060
+Iteration,2,ex,1198.932,risk,2095.199,lam0.060
+Iteration,3,ex,1267.483,risk,2425.086,lam0.060
+Iteration,4,ex,1343.322,risk,3232.989,lam0.060
+Iteration,5,ex,1187.247,risk,1902.688,lam0.060
+Iteration,6,ex,1174.748,risk,2107.183,lam0.060
+Iteration,7,ex,1586.547,risk,3380.486,lam0.060
+Iteration,8,ex,1439.356,risk,2645.244,lam0.060
+Iteration,9,ex,1623.195,risk,3342.558,lam0.060
+Iteration,10,ex,1502.438,risk,3228.159,lam 0.060
+Iteration,11,ex,1293.065,risk,2017.029,lam0.060
+Iteration,12,ex,1291.712,risk,1987.944,lam0.060
+Iteration,13,ex,1235.815,risk,2057.183,lam0.060
+Iteration,14,ex,1264.41,risk,2110.694,lam0.060
+Iteration,15,ex,1584.268,risk,2708.74,lam0.060
+Iteration,16,ex,1361.601,risk,2351.624,lam0.060
+Iteration,17,ex,1355.696,risk,2348.7587,lam 0.0600
+Iteration,18,ex,1368.27,risk,2693.503,lam0.060
+Iteration,19,ex,1269.767,risk,2094.644,lam0.060
+Iteration,20,ex,1380.839,risk,2484.576,lam0.060
+Iteration,21,ex,1380.839,risk,2484.576,lam0.060
+Iteration,22,ex,1380.01,risk,2442.374,lam0.060
+Iteration,23,ex,1511.328,risk,2724.663,lam0.060
+Iteration,24,ex,1511.328,risk,2724.663,lam0.060
+Iteration,25,ex,1667.411,risk,3099.488,lam0.060
+Iteration,26,ex,1291.86,risk,1947.679,lam0.060
+Iteration,27,ex,1571.239,risk,3175.123,lam0.060
+Iteration,28,ex,1364.053,risk,3484.269,lam0.060
+Iteration,29,ex,1243.724,risk,2072.203,lam 0.060
+Iteration,30,ex,1617.146,risk,2848.666,lam0.060
+Iteration,31,ex,1328.81,risk,2202.301,lam0.060
+Iteration,32,ex,1403.798,risk,2226.46,lam0.060
+Iteration,33,ex,1344.506,risk,2164.202,lam0.060
+Iteration,34,ex,1332.231,risk,2212.739,lam0.060
+Iteration,35,ex,1417.893,risk,2669.036,lam0.060
+Iteration,36,ex,1446.849,risk,2426.1339,lam 0.0600
+Iteration,37,ex,1673.78,risk,3496.358,lam 0.060
+Iteration,38,ex,1562.632,risk,3044.092,lam0.060
+Iteration,39,ex,1447.987,risk,2554.892,lam 0.060
+Iteration,40,ex,1446.672,risk,2395.448,lam0.060
+Iteration,41,ex,1341.634,risk,2171.793,lam0.060
+Iteration,42,ex,1406.797,risk,2212.7,lam0.060
+Iteration,43,ex,1307.802,risk,1923.313,lam0.060
+Iteration,44,ex,1332.21,risk,1970.744,lam0.060
+Iteration,45,ex,1325.082,risk,1990.767,lam0.060
+Iteration,46,ex,1440.633,risk,2502.851,lam 0.060
+Iteration,47,ex,1438.028,risk,2023.818,lam0.060
+Iteration,48,ex,1420.175,risk,2229.5183,lam 0.0600
+Iteration,49,ex,1420.175,risk,2229.518,lam 0.060
+Iteration,1,ex,1568.972,risk,2191.349,lam0.080
+Iteration,2,ex,1598.576,risk,2050.62,lam0.080
+Iteration,3,ex,1689.977,risk,2373.489,lam0.080
+Iteration,4,ex,2163.303,risk,3003.027,lam0.080
+Iteration,5,ex,1582.995,risk,1862.206,lam0.080
+Iteration,6,ex,1566.33,risk,2062.349,lam0.080
+Iteration,7,ex,2115.396,risk,3308.561,lam0.080
+Iteration,8,ex,1919.141,risk,2588.963,lam0.080
+Iteration,9,ex,2164.261,risk,3271.44,lam0.080
+Iteration,10,ex,2003.251,risk,3159.475,lam 0.080
+Iteration,11,ex,1724.087,risk,1974.114,lam0.080
+Iteration,12,ex,1722.283,risk,1945.648,lam0.080
+Iteration,13,ex,1647.754,risk,2013.413,lam0.080
+Iteration,14,ex,1685.88,risk,2065.785,lam0.080
+Iteration,15,ex,2112.357,risk,2651.107,lam0.080
+Iteration,16,ex,1815.468,risk,2301.589,lam0.080
+Iteration,17,ex,1807.594,risk,2298.7852,lam 0.0800
+Iteration,18,ex,1824.36,risk,2636.195,lam0.080
+Iteration,19,ex,1693.023,risk,2050.077,lam0.080
+Iteration,20,ex,1841.118,risk,2431.712,lam0.080
+Iteration,21,ex,1841.118,risk,2431.712,lam0.080
+Iteration,22,ex,1840.014,risk,2390.409,lam 0.080
+Iteration,23,ex,1658.299,risk,2028.114,lam0.080
+Iteration,24,ex,2058.985,risk,2650.468,lam0.080
+Iteration,25,ex,2156.195,risk,2788.0564,lam 0.0800
+Iteration,26,ex,2015.103,risk,2666.691,lam0.080
+Iteration,27,ex,2015.103,risk,2666.691,lam0.080
+Iteration,28,ex,1722.48,risk,1906.239,lam0.080
+Iteration,29,ex,1727.297,risk,2033.574,lam0.080
+Iteration,30,ex,1727.297,risk,2033.574,lam0.080
+Iteration,31,ex,1727.297,risk,2033.574,lam 0.080
+Iteration,32,ex,1960.018,risk,2381.4678,lam 0.0800
+Iteration,33,ex,1960.018,risk,2381.468,lam0.080
+Iteration,34,ex,1960.018,risk,2381.468,lam0.080
+Iteration,35,ex,2106.04,risk,3333.58,lam0.080
+Iteration,36,ex,2106.04,risk,3333.58,lam 0.080
+Iteration,37,ex,1817.312,risk,2398.847,lam0.080
+Iteration,38,ex,1828.86,risk,2360.063,lam0.080
+Iteration,39,ex,1876.433,risk,2231.341,lam0.080
+Iteration,40,ex,1934.799,risk,2662.966,lam0.080
+Iteration,41,ex,1954.026,risk,2481.1209,lam 0.0800
+Iteration,42,ex,2052.237,risk,3326.806,lam 0.080
+Iteration,43,ex,2110.265,risk,2882.205,lam0.080
+Iteration,44,ex,2110.265,risk,2882.2054,lam 0.0800
+Iteration,45,ex,2110.265,risk,2882.205,lam 0.080
+Iteration,46,ex,1957.466,risk,2699.545,lam0.080
+Iteration,47,ex,2042.669,risk,2795.569,lam0.080
+Iteration,48,ex,1815.14,risk,2416.198,lam0.080
+Iteration,49,ex,1890.524,risk,2612.248,lam0.080
+Iteration,1,ex,1961.215,risk,2143.711,lam0.100
+Iteration,2,ex,1998.22,risk,2006.041,lam0.100
+Iteration,3,ex,2112.472,risk,2321.891,lam0.100
+Iteration,4,ex,2704.129,risk,2937.744,lam0.100
+Iteration,5,ex,1978.744,risk,1821.723,lam0.100
+Iteration,6,ex,1957.913,risk,2017.515,lam0.100
+Iteration,7,ex,2644.245,risk,3236.636,lam0.100
+Iteration,8,ex,2398.926,risk,2532.681,lam0.100
+Iteration,9,ex,2705.326,risk,3200.322,lam0.100
+Iteration,10,ex,2504.064,risk,3090.791,lam 0.100
+Iteration,11,ex,2155.108,risk,1931.198,lam0.100
+Iteration,12,ex,2152.854,risk,1903.351,lam0.100
+Iteration,13,ex,2059.692,risk,1969.643,lam0.100
+Iteration,14,ex,2107.35,risk,2020.877,lam0.100
+Iteration,15,ex,2640.446,risk,2593.474,lam0.100
+Iteration,16,ex,2269.335,risk,2251.555,lam0.100
+Iteration,17,ex,2259.493,risk,2248.8116,lam 0.1000
+Iteration,18,ex,2280.45,risk,2578.886,lam0.100
+Iteration,19,ex,2116.278,risk,2005.51,lam0.100
+Iteration,20,ex,2301.398,risk,2378.849,lam0.100
+Iteration,21,ex,2301.398,risk,2378.849,lam0.100
+Iteration,22,ex,2300.017,risk,2338.443,lam 0.100
+Iteration,23,ex,2072.874,risk,1984.025,lam0.100
+Iteration,24,ex,2573.731,risk,2592.849,lam0.100
+Iteration,25,ex,2695.243,risk,2727.446,lam0.100
+Iteration,26,ex,2268.925,risk,2363.672,lam0.100
+Iteration,27,ex,2363.155,risk,2555.46,lam0.100
+Iteration,28,ex,2582.795,risk,2860.961,lam0.100
+Iteration,29,ex,2271.158,risk,2618.395,lam 0.100
+Iteration,30,ex,2465.693,risk,2431.0894,lam 0.1000
+Iteration,31,ex,2401.447,risk,2452.6256,lam 0.1000
+Iteration,32,ex,2789.633,risk,3347.577,lam 0.100
+Iteration,33,ex,2329.816,risk,2034.07,lam0.100
+Iteration,34,ex,2413.311,risk,2446.1735,lam 0.1000
+Iteration,35,ex,2413.311,risk,2446.174,lam 0.100
+Iteration,36,ex,2311.137,risk,2184.423,lam0.100
+Iteration,37,ex,2268.877,risk,2421.309,lam0.100
+Iteration,38,ex,2271.64,risk,2346.698,lam0.100
+Iteration,39,ex,2418.499,risk,2605.076,lam0.100
+Iteration,40,ex,2345.541,risk,2182.834,lam0.100
+Iteration,41,ex,2345.541,risk,2182.8336,lam 0.1000
+Iteration,42,ex,2345.541,risk,2182.834,lam 0.100
+Iteration,43,ex,2266.173,risk,2383.995,lam 0.100
+Iteration,44,ex,2225.665,risk,2011.6248,lam 0.1000
+Iteration,45,ex,2225.665,risk,2011.625,lam0.100
+Iteration,46,ex,2225.665,risk,2011.625,lam 0.100
+Iteration,47,ex,2587.484,risk,2408.8873,lam 0.1000
+Iteration,48,ex,2587.484,risk,2408.8873,lam 0.1000
+Iteration,49,ex,2587.484,risk,2408.887,lam 0.100
+Iteration,1,ex,2353.459,risk,2096.073,lam0.120
+Iteration,2,ex,2397.864,risk,1961.463,lam0.120
+Iteration,3,ex,2534.966,risk,2270.294,lam0.120
+Iteration,4,ex,3244.954,risk,2872.46,lam0.120
+Iteration,5,ex,2374.493,risk,1781.24,lam0.120
+Iteration,6,ex,2349.495,risk,1972.682,lam0.120
+Iteration,7,ex,3173.094,risk,3164.71,lam0.120
+Iteration,8,ex,2878.711,risk,2476.399,lam0.120
+Iteration,9,ex,3246.391,risk,3129.203,lam0.120
+Iteration,10,ex,3004.877,risk,3022.106,lam 0.120
+Iteration,11,ex,2586.13,risk,1888.283,lam0.120
+Iteration,12,ex,2565.095,risk,2289.942,lam 0.1200
+Iteration,13,ex,2565.095,risk,2289.942,lam 0.120
+Iteration,14,ex,2890.905,risk,2543.209,lam0.120
+Iteration,15,ex,2583.424,risk,1861.054,lam0.120
+Iteration,16,ex,2723.201,risk,2201.52,lam0.120
+Iteration,17,ex,2730.764,risk,2024.4789,lam 0.1200
+Iteration,18,ex,3187.605,risk,3153.066,lam0.120
+Iteration,19,ex,2736.54,risk,2521.578,lam0.120
+Iteration,20,ex,2761.677,risk,2325.986,lam0.120
+Iteration,21,ex,2761.677,risk,2325.986,lam 0.120
+Iteration,22,ex,2608.698,risk,1997.6566,lam 0.1200
+Iteration,23,ex,2608.698,risk,1997.657,lam0.120
+Iteration,24,ex,2710.305,risk,2635.203,lam0.120
+Iteration,25,ex,2710.305,risk,2635.203,lam0.120
+Iteration,26,ex,2989.642,risk,2913.382,lam0.120
+Iteration,27,ex,3078.356,risk,3182.162,lam0.120
+Iteration,28,ex,2797.776,risk,2608.823,lam 0.120
+Iteration,29,ex,2616.727,risk,2129.6,lam0.120
+Iteration,30,ex,2616.727,risk,2129.6,lam 0.120
+Iteration,31,ex,2795.356,risk,2003.1258,lam 0.1200
+Iteration,32,ex,2795.779,risk,1988.868,lam0.120
+Iteration,33,ex,2795.779,risk,1988.868,lam 0.120
+Iteration,34,ex,2771.654,risk,1889.7304,lam 0.1200
+Iteration,35,ex,2773.364,risk,2135.88,lam0.120
+Iteration,36,ex,2713.373,risk,2006.3979,lam 0.1200
+Iteration,37,ex,3347.56,risk,3273.186,lam 0.120
+Iteration,38,ex,3080.385,risk,2641.288,lam0.120
+Iteration,39,ex,3216.753,risk,2893.023,lam0.120
+Iteration,40,ex,3216.753,risk,2893.023,lam0.120
+Iteration,41,ex,2902.198,risk,2547.185,lam0.120
+Iteration,42,ex,2565.389,risk,1852.044,lam0.120
+Iteration,43,ex,2902.178,risk,2247.202,lam0.120
+Iteration,44,ex,2865.119,risk,2245.822,lam0.120
+Iteration,45,ex,2865.119,risk,2245.822,lam0.120
+Iteration,46,ex,2865.119,risk,2245.822,lam 0.120
+Iteration,47,ex,3063.37,risk,2510.221,lam 0.1200
+Iteration,48,ex,3063.37,risk,2510.221,lam0.120
+Iteration,49,ex,3063.37,risk,2510.221,lam0.120
+Iteration,1,ex,2745.702,risk,2048.435,lam0.140
+Iteration,2,ex,2797.508,risk,1916.884,lam0.140
+Iteration,3,ex,2957.461,risk,2218.696,lam0.140
+Iteration,4,ex,3785.78,risk,2807.177,lam0.140
+Iteration,5,ex,2770.242,risk,1740.757,lam0.140
+Iteration,6,ex,2741.078,risk,1927.848,lam0.140
+Iteration,7,ex,3701.943,risk,3092.785,lam0.140
+Iteration,8,ex,3358.497,risk,2420.117,lam0.140
+Iteration,9,ex,3787.456,risk,3058.085,lam0.140
+Iteration,10,ex,3505.69,risk,2953.422,lam 0.140
+Iteration,11,ex,3017.152,risk,1845.367,lam0.140
+Iteration,12,ex,2992.611,risk,2237.8978,lam 0.1400
+Iteration,13,ex,2992.611,risk,2237.898,lam 0.140
+Iteration,14,ex,3372.722,risk,2485.409,lam0.140
+Iteration,15,ex,3124.679,risk,2094.1408,lam 0.1400
+Iteration,16,ex,3124.679,risk,2094.141,lam 0.140
+Iteration,17,ex,3154.272,risk,2340.638,lam0.140
+Iteration,18,ex,3013.995,risk,1818.758,lam0.140
+Iteration,19,ex,3177.068,risk,2151.486,lam0.140
+Iteration,20,ex,3185.892,risk,1978.4681,lam 0.1400
+Iteration,21,ex,3718.872,risk,3081.405,lam0.140
+Iteration,22,ex,3192.631,risk,2464.269,lam0.140
+Iteration,23,ex,3221.957,risk,2273.122,lam0.140
+Iteration,24,ex,3221.957,risk,2273.122,lam 0.140
+Iteration,25,ex,3043.481,risk,1952.2554,lam 0.1400
+Iteration,26,ex,3043.481,risk,1952.255,lam0.140
+Iteration,27,ex,3162.023,risk,2575.312,lam0.140
+Iteration,28,ex,3162.023,risk,2575.312,lam0.140
+Iteration,29,ex,3487.916,risk,2847.169,lam0.140
+Iteration,30,ex,3591.416,risk,3109.84,lam0.140
+Iteration,31,ex,3264.072,risk,2549.532,lam 0.140
+Iteration,32,ex,3052.848,risk,2081.2,lam0.140
+Iteration,33,ex,3052.848,risk,2081.2,lam0.140
+Iteration,34,ex,2974.1,risk,2094.6014,lam 0.1400
+Iteration,35,ex,2974.1,risk,2094.601,lam 0.140
+Iteration,36,ex,2974.1,risk,2094.601,lam 0.140
+Iteration,37,ex,3261.249,risk,1957.6003,lam 0.1400
+Iteration,38,ex,3261.742,risk,1943.666,lam0.140
+Iteration,39,ex,3261.742,risk,1943.666,lam 0.140
+Iteration,40,ex,3233.596,risk,1846.7819,lam 0.1400
+Iteration,41,ex,3235.592,risk,2087.3377,lam 0.1400
+Iteration,42,ex,3905.486,risk,3198.796,lam 0.140
+Iteration,43,ex,3165.602,risk,1960.798,lam0.140
+Iteration,44,ex,3165.602,risk,1960.798,lam 0.1400
+Iteration,45,ex,3165.602,risk,1960.798,lam 0.140
+Iteration,46,ex,3385.552,risk,2265.822,lam0.140
+Iteration,47,ex,3752.878,risk,2827.273,lam0.140
+Iteration,48,ex,3752.878,risk,2827.273,lam0.140
+Iteration,49,ex,3385.898,risk,2489.2946,lam 0.1400
+Iteration,1,ex,3137.945,risk,2000.797,lam0.160
+Iteration,2,ex,3197.153,risk,1872.305,lam0.160
+Iteration,3,ex,3379.955,risk,2167.099,lam0.160
+Iteration,4,ex,4326.606,risk,2741.894,lam0.160
+Iteration,5,ex,3165.991,risk,1700.275,lam0.160
+Iteration,6,ex,3132.661,risk,1883.014,lam0.160
+Iteration,7,ex,4230.792,risk,3020.86,lam0.160
+Iteration,8,ex,3838.282,risk,2363.835,lam0.160
+Iteration,9,ex,4328.521,risk,2986.967,lam0.160
+Iteration,10,ex,4006.502,risk,2884.738,lam 0.160
+Iteration,11,ex,3448.173,risk,1802.452,lam0.160
+Iteration,12,ex,3420.127,risk,2185.8537,lam 0.1600
+Iteration,13,ex,3420.127,risk,2185.854,lam 0.160
+Iteration,14,ex,3854.54,risk,2427.609,lam0.160
+Iteration,15,ex,3571.062,risk,2045.4399,lam 0.1600
+Iteration,16,ex,3571.062,risk,2045.44,lam 0.160
+Iteration,17,ex,3604.883,risk,2286.205,lam0.160
+Iteration,18,ex,3444.566,risk,1776.461,lam0.160
+Iteration,19,ex,3630.935,risk,2101.451,lam0.160
+Iteration,20,ex,3641.019,risk,1932.4572,lam 0.1600
+Iteration,21,ex,4250.14,risk,3009.745,lam0.160
+Iteration,22,ex,3648.721,risk,2406.96,lam0.160
+Iteration,23,ex,4030.207,risk,2434.805,lam0.160
+Iteration,24,ex,4410.402,risk,3232.394,lam0.160
+Iteration,25,ex,4104.475,risk,3037.518,lam 0.160
+Iteration,26,ex,3488.969,risk,2032.8,lam0.160
+Iteration,27,ex,3488.969,risk,2032.8,lam0.160
+Iteration,28,ex,3398.971,risk,2045.8897,lam 0.1600
+Iteration,29,ex,3398.971,risk,2045.89,lam 0.160
+Iteration,30,ex,3398.971,risk,2045.89,lam 0.160
+Iteration,31,ex,3727.142,risk,1912.0747,lam 0.1600
+Iteration,32,ex,3727.705,risk,1898.465,lam0.160
+Iteration,33,ex,3727.705,risk,1898.465,lam 0.160
+Iteration,34,ex,3695.538,risk,1803.8335,lam 0.1600
+Iteration,35,ex,4107.18,risk,2521.2297,lam 0.1600
+Iteration,36,ex,4463.413,risk,3124.405,lam 0.160
+Iteration,37,ex,3617.83,risk,1915.198,lam0.160
+Iteration,38,ex,3617.83,risk,1915.198,lam 0.1600
+Iteration,39,ex,3617.83,risk,1915.198,lam 0.160
+Iteration,40,ex,3869.202,risk,2213.129,lam 0.160
+Iteration,41,ex,3827.274,risk,1958.553,lam0.160
+Iteration,42,ex,3812.9,risk,1945.562,lam0.160
+Iteration,43,ex,3908.052,risk,2265.3713,lam 0.1600
+Iteration,44,ex,3908.052,risk,2265.371,lam0.160
+Iteration,45,ex,3915.738,risk,2241.7223,lam 0.1600
+Iteration,46,ex,3915.738,risk,2241.722,lam 0.160
+Iteration,47,ex,3976.716,risk,2764.469,lam0.160
+Iteration,48,ex,3976.716,risk,2764.4688,lam 0.1600
+Iteration,49,ex,3976.716,risk,2764.469,lam 0.160
+Iteration,1,ex,3530.188,risk,1953.159,lam0.180
+Iteration,2,ex,3596.797,risk,1827.727,lam0.180
+Iteration,3,ex,3802.449,risk,2115.501,lam0.180
+Iteration,4,ex,4867.432,risk,2676.611,lam0.180
+Iteration,5,ex,3561.74,risk,1659.792,lam0.180
+Iteration,6,ex,3524.243,risk,1838.181,lam0.180
+Iteration,7,ex,4759.641,risk,2948.935,lam0.180
+Iteration,8,ex,4318.067,risk,2307.554,lam0.180
+Iteration,9,ex,4869.586,risk,2915.849,lam0.180
+Iteration,10,ex,4507.315,risk,2816.054,lam 0.180
+Iteration,11,ex,3879.195,risk,1759.536,lam0.180
+Iteration,12,ex,3847.643,risk,2133.8096,lam 0.1800
+Iteration,13,ex,3847.643,risk,2133.81,lam 0.180
+Iteration,14,ex,4336.357,risk,2369.808,lam0.180
+Iteration,15,ex,4017.445,risk,1996.739,lam0.180
+Iteration,16,ex,3823.843,risk,1997.1781,lam 0.1800
+Iteration,17,ex,3823.843,risk,1997.178,lam 0.180
+Iteration,18,ex,4055.493,risk,2231.771,lam0.180
+Iteration,19,ex,3925.09,risk,1984.4,lam0.180
+Iteration,20,ex,3875.137,risk,1734.164,lam0.180
+Iteration,21,ex,4084.802,risk,2051.416,lam0.180
+Iteration,22,ex,4096.147,risk,1886.446,lam0.180
+Iteration,23,ex,4335.081,risk,2383.64,lam0.180
+Iteration,24,ex,4120.791,risk,2118.448,lam0.180
+Iteration,25,ex,4120.791,risk,2118.448,lam 0.180
+Iteration,26,ex,4035.302,risk,1765.347,lam0.180
+Iteration,27,ex,4118.458,risk,1825.197,lam0.180
+Iteration,28,ex,4298.815,risk,1883.946,lam0.180
+Iteration,29,ex,4024.901,risk,1894.543,lam0.180
+Iteration,30,ex,4220.392,risk,1930.227,lam 0.180
+Iteration,31,ex,4432.146,risk,1926.5977,lam 0.1800
+Iteration,32,ex,4588.03,risk,2182.225,lam0.180
+Iteration,33,ex,4588.03,risk,2182.225,lam 0.180
+Iteration,34,ex,4275.062,risk,1842.3828,lam 0.1800
+Iteration,35,ex,4054.442,risk,1837.616,lam0.180
+Iteration,36,ex,4054.442,risk,1837.616,lam 0.180
+Iteration,37,ex,4240.862,risk,1727.488,lam0.180
+Iteration,38,ex,4553.51,risk,1922.63,lam0.180
+Iteration,39,ex,4397.241,risk,1788.1643,lam 0.1800
+Iteration,40,ex,4397.241,risk,1788.164,lam 0.180
+Iteration,41,ex,4397.241,risk,1788.1643,lam 0.1800
+Iteration,42,ex,4397.241,risk,1788.164,lam0.180
+Iteration,43,ex,4438.247,risk,2214.9926,lam 0.1800
+Iteration,44,ex,4438.247,risk,2214.993,lam0.180
+Iteration,45,ex,4438.247,risk,2214.993,lam0.180
+Iteration,46,ex,4342.052,risk,2369.4062,lam 0.1800
+Iteration,47,ex,4617.534,risk,2965.196,lam 0.180
+Iteration,48,ex,3859.761,risk,2087.721,lam 0.180
+Iteration,49,ex,3859.761,risk,2087.721,lam0.180
+Iteration,1,ex,3922.431,risk,1905.521,lam0.200
+Iteration,2,ex,3996.441,risk,1783.148,lam0.200
+Iteration,3,ex,4224.944,risk,2063.903,lam0.200
+Iteration,4,ex,5408.257,risk,2611.328,lam0.200
+Iteration,5,ex,3957.489,risk,1619.309,lam0.200
+Iteration,6,ex,3915.826,risk,1793.347,lam0.200
+Iteration,7,ex,5288.49,risk,2877.01,lam0.200
+Iteration,8,ex,4797.852,risk,2251.272,lam0.200
+Iteration,9,ex,5410.651,risk,2844.73,lam0.200
+Iteration,10,ex,5008.128,risk,2747.369,lam 0.200
+Iteration,11,ex,4310.217,risk,1716.621,lam0.200
+Iteration,12,ex,4275.159,risk,2081.7654,lam 0.2000
+Iteration,13,ex,4275.159,risk,2081.765,lam 0.200
+Iteration,14,ex,4818.175,risk,2312.008,lam0.200
+Iteration,15,ex,4463.828,risk,1948.038,lam0.200
+Iteration,16,ex,4248.714,risk,1948.4664,lam 0.2000
+Iteration,17,ex,4248.714,risk,1948.466,lam 0.200
+Iteration,18,ex,4506.103,risk,2177.338,lam0.200
+Iteration,19,ex,4361.211,risk,1936,lam0.200
+Iteration,20,ex,4305.707,risk,1691.868,lam0.200
+Iteration,21,ex,4538.669,risk,2001.382,lam0.200
+Iteration,22,ex,4551.274,risk,1840.435,lam0.200
+Iteration,23,ex,4816.757,risk,2325.503,lam0.200
+Iteration,24,ex,4578.657,risk,2066.778,lam0.200
+Iteration,25,ex,4578.657,risk,2066.778,lam 0.200
+Iteration,26,ex,4483.668,risk,1722.29,lam0.200
+Iteration,27,ex,4576.065,risk,1780.68,lam0.200
+Iteration,28,ex,4776.461,risk,1837.996,lam0.200
+Iteration,29,ex,4472.112,risk,1848.334,lam0.200
+Iteration,30,ex,4689.325,risk,1883.149,lam 0.200
+Iteration,31,ex,4924.607,risk,1879.6076,lam 0.2000
+Iteration,32,ex,5097.811,risk,2129,lam0.200
+Iteration,33,ex,5097.811,risk,2129,lam 0.200
+Iteration,34,ex,4750.069,risk,1797.4466,lam 0.2000
+Iteration,35,ex,4504.936,risk,1792.796,lam0.200
+Iteration,36,ex,4504.936,risk,1792.796,lam 0.200
+Iteration,37,ex,4712.069,risk,1685.354,lam0.200
+Iteration,38,ex,5059.455,risk,1875.736,lam0.200
+Iteration,39,ex,4885.823,risk,1744.5506,lam 0.2000
+Iteration,40,ex,4885.823,risk,1744.551,lam 0.200
+Iteration,41,ex,4885.823,risk,1744.5506,lam 0.2000
+Iteration,42,ex,4885.823,risk,1744.551,lam0.200
+Iteration,43,ex,4931.385,risk,2160.9684,lam 0.2000
+Iteration,44,ex,4931.385,risk,2160.968,lam0.200
+Iteration,45,ex,4931.385,risk,2160.968,lam0.200
+Iteration,46,ex,4824.502,risk,2311.6158,lam 0.2000
+Iteration,47,ex,5130.594,risk,2892.875,lam 0.200
+Iteration,48,ex,4288.623,risk,2036.801,lam 0.200
+Iteration,49,ex,4288.623,risk,2036.801,lam0.200
+Iteration,1,ex,4314.674,risk,1857.883,lam0.220
+Iteration,2,ex,4396.085,risk,1738.569,lam0.220
+Iteration,3,ex,4647.438,risk,2012.306,lam0.220
+Iteration,4,ex,5949.083,risk,2546.044,lam0.220
+Iteration,5,ex,4353.238,risk,1578.826,lam0.220
+Iteration,6,ex,4307.408,risk,1748.513,lam0.220
+Iteration,7,ex,5817.339,risk,2805.084,lam0.220
+Iteration,8,ex,5277.638,risk,2194.99,lam0.220
+Iteration,9,ex,5951.717,risk,2773.612,lam0.220
+Iteration,10,ex,5508.941,risk,2678.685,lam 0.220
+Iteration,11,ex,4741.238,risk,1673.705,lam0.220
+Iteration,12,ex,4702.675,risk,2029.7213,lam 0.2200
+Iteration,13,ex,4702.675,risk,2029.721,lam 0.220
+Iteration,14,ex,5299.992,risk,2254.208,lam0.220
+Iteration,15,ex,4910.21,risk,1899.337,lam0.220
+Iteration,16,ex,4673.586,risk,1899.7548,lam 0.2200
+Iteration,17,ex,4673.586,risk,1899.755,lam 0.220
+Iteration,18,ex,4956.714,risk,2122.904,lam0.220
+Iteration,19,ex,4797.332,risk,1887.6,lam0.220
+Iteration,20,ex,4736.278,risk,1649.571,lam0.220
+Iteration,21,ex,4992.536,risk,1951.347,lam0.220
+Iteration,22,ex,5006.401,risk,1794.425,lam0.220
+Iteration,23,ex,5298.433,risk,2267.365,lam0.220
+Iteration,24,ex,5036.523,risk,2015.109,lam0.220
+Iteration,25,ex,5036.523,risk,2015.109,lam 0.220
+Iteration,26,ex,4932.035,risk,1679.233,lam0.220
+Iteration,27,ex,5033.671,risk,1736.163,lam0.220
+Iteration,28,ex,5254.107,risk,1792.047,lam0.220
+Iteration,29,ex,4919.323,risk,1802.126,lam0.220
+Iteration,30,ex,5158.257,risk,1836.07,lam 0.220
+Iteration,31,ex,5417.067,risk,1832.6174,lam 0.2200
+Iteration,32,ex,5607.592,risk,2075.775,lam0.220
+Iteration,33,ex,5607.592,risk,2075.775,lam 0.220
+Iteration,34,ex,5225.075,risk,1752.5104,lam 0.2200
+Iteration,35,ex,4955.43,risk,1747.976,lam0.220
+Iteration,36,ex,4955.43,risk,1747.976,lam 0.220
+Iteration,37,ex,5183.276,risk,1643.22,lam0.220
+Iteration,38,ex,5565.401,risk,1828.843,lam0.220
+Iteration,39,ex,5374.405,risk,1700.9368,lam 0.2200
+Iteration,40,ex,5374.405,risk,1700.937,lam 0.220
+Iteration,41,ex,5374.405,risk,1700.9368,lam 0.2200
+Iteration,42,ex,5374.405,risk,1700.937,lam0.220
+Iteration,43,ex,5424.524,risk,2106.9442,lam 0.2200
+Iteration,44,ex,5424.524,risk,2106.944,lam0.220
+Iteration,45,ex,5424.524,risk,2106.944,lam0.220
+Iteration,46,ex,5306.952,risk,2253.8254,lam 0.2200
+Iteration,47,ex,5643.653,risk,2820.553,lam 0.220
+Iteration,48,ex,4717.485,risk,1985.881,lam 0.220
+Iteration,49,ex,4717.485,risk,1985.881,lam0.220
+Iteration,1,ex,4706.917,risk,1810.245,lam0.240
+Iteration,2,ex,4795.729,risk,1693.99,lam0.240
+Iteration,3,ex,5069.932,risk,1960.708,lam0.240
+Iteration,4,ex,6489.909,risk,2480.761,lam0.240
+Iteration,5,ex,4748.986,risk,1538.344,lam0.240
+Iteration,6,ex,4698.991,risk,1703.68,lam0.240
+Iteration,7,ex,6346.188,risk,2733.159,lam0.240
+Iteration,8,ex,5757.423,risk,2138.708,lam0.240
+Iteration,9,ex,6492.782,risk,2702.494,lam0.240
+Iteration,10,ex,6009.753,risk,2610.001,lam 0.240
+Iteration,11,ex,5172.26,risk,1630.79,lam0.240
+Iteration,12,ex,5130.191,risk,1977.6772,lam 0.2400
+Iteration,13,ex,5130.191,risk,1977.677,lam 0.240
+Iteration,14,ex,5781.809,risk,2196.408,lam0.240
+Iteration,15,ex,5356.593,risk,1850.636,lam0.240
+Iteration,16,ex,5098.457,risk,1851.0431,lam 0.2400
+Iteration,17,ex,5098.457,risk,1851.043,lam 0.240
+Iteration,18,ex,5407.324,risk,2068.471,lam0.240
+Iteration,19,ex,5233.453,risk,1839.2,lam0.240
+Iteration,20,ex,5166.849,risk,1607.274,lam0.240
+Iteration,21,ex,5446.403,risk,1901.313,lam0.240
+Iteration,22,ex,5461.529,risk,1748.414,lam0.240
+Iteration,23,ex,5780.109,risk,2209.228,lam0.240
+Iteration,24,ex,5494.389,risk,1963.439,lam0.240
+Iteration,25,ex,5494.389,risk,1963.439,lam0.240
+Iteration,26,ex,5494.389,risk,1963.4393,lam 0.2400
+Iteration,27,ex,5494.389,risk,1963.439,lam 0.240
+Iteration,28,ex,5532.791,risk,2053.666,lam 0.240
+Iteration,29,ex,5380.402,risk,1636.175,lam0.240
+Iteration,30,ex,5491.278,risk,1691.646,lam0.240
+Iteration,31,ex,5731.754,risk,1746.097,lam0.240
+Iteration,32,ex,5719.351,risk,1760.27,lam0.240
+Iteration,33,ex,6081.405,risk,2174.68,lam0.240
+Iteration,34,ex,5486.426,risk,1672.9438,lam 0.2400
+Iteration,35,ex,5753.116,risk,2228.395,lam0.240
+Iteration,36,ex,5549.39,risk,2113.403,lam0.240
+Iteration,37,ex,4982.65,risk,1611.1039,lam 0.2400
+Iteration,38,ex,6045.31,risk,2202.919,lam0.240
+Iteration,39,ex,5473.081,risk,2177.726,lam0.240
+Iteration,40,ex,5852.19,risk,2250.11,lam0.240
+Iteration,41,ex,5523.354,risk,2008.806,lam0.240
+Iteration,42,ex,5523.354,risk,2008.806,lam0.240
+Iteration,43,ex,5420.61,risk,2275.857,lam0.240
+Iteration,44,ex,5274.768,risk,1694.969,lam0.240
+Iteration,45,ex,5979.285,risk,2516.103,lam0.240
+Iteration,46,ex,6156.712,risk,2748.231,lam0.240
+Iteration,47,ex,5508.418,risk,2228.601,lam 0.240
+Iteration,48,ex,5789.402,risk,2196.035,lam0.240
+Iteration,49,ex,5965.074,risk,2501.186,lam0.240
+Iteration,1,ex,5099.16,risk,1762.607,lam0.260
+Iteration,2,ex,5195.373,risk,1649.412,lam0.260
+Iteration,3,ex,5492.427,risk,1909.111,lam0.260
+Iteration,4,ex,7030.734,risk,2415.478,lam0.260
+Iteration,5,ex,5144.735,risk,1497.861,lam0.260
+Iteration,6,ex,5090.573,risk,1658.846,lam0.260
+Iteration,7,ex,6875.037,risk,2661.234,lam0.260
+Iteration,8,ex,6237.208,risk,2082.426,lam0.260
+Iteration,9,ex,7033.847,risk,2631.376,lam0.260
+Iteration,10,ex,6510.566,risk,2541.317,lam 0.260
+Iteration,11,ex,5603.282,risk,1587.874,lam0.260
+Iteration,12,ex,5557.706,risk,1925.633,lam 0.2600
+Iteration,13,ex,5557.706,risk,1925.633,lam 0.260
+Iteration,14,ex,6263.627,risk,2138.607,lam0.260
+Iteration,15,ex,5802.976,risk,1801.935,lam0.260
+Iteration,16,ex,5523.328,risk,1802.3314,lam 0.2600
+Iteration,17,ex,5523.328,risk,1802.331,lam 0.260
+Iteration,18,ex,5857.934,risk,2014.037,lam0.260
+Iteration,19,ex,5669.574,risk,1790.8,lam0.260
+Iteration,20,ex,5597.42,risk,1564.977,lam0.260
+Iteration,21,ex,5900.27,risk,1851.278,lam0.260
+Iteration,22,ex,5916.656,risk,1702.403,lam0.260
+Iteration,23,ex,6261.784,risk,2151.09,lam0.260
+Iteration,24,ex,5952.254,risk,1911.77,lam0.260
+Iteration,25,ex,5952.254,risk,1911.77,lam0.260
+Iteration,26,ex,5952.254,risk,1911.7699,lam 0.2600
+Iteration,27,ex,5952.254,risk,1911.77,lam 0.260
+Iteration,28,ex,5993.856,risk,1999.622,lam 0.260
+Iteration,29,ex,5828.769,risk,1593.118,lam0.260
+Iteration,30,ex,5948.884,risk,1647.129,lam0.260
+Iteration,31,ex,6209.4,risk,1700.147,lam0.260
+Iteration,32,ex,6195.963,risk,1713.947,lam0.260
+Iteration,33,ex,6588.189,risk,2117.451,lam0.260
+Iteration,34,ex,5943.628,risk,1628.919,lam 0.2600
+Iteration,35,ex,6232.542,risk,2169.753,lam0.260
+Iteration,36,ex,6011.839,risk,2057.787,lam0.260
+Iteration,37,ex,5397.87,risk,1568.7064,lam 0.2600
+Iteration,38,ex,6549.086,risk,2144.947,lam0.260
+Iteration,39,ex,5929.171,risk,2120.418,lam0.260
+Iteration,40,ex,6339.872,risk,2190.897,lam0.260
+Iteration,41,ex,5983.634,risk,1955.943,lam0.260
+Iteration,42,ex,5983.634,risk,1955.943,lam0.260
+Iteration,43,ex,5872.328,risk,2215.966,lam0.260
+Iteration,44,ex,5714.332,risk,1650.364,lam0.260
+Iteration,45,ex,6477.558,risk,2449.889,lam0.260
+Iteration,46,ex,6669.772,risk,2675.909,lam0.260
+Iteration,47,ex,5967.453,risk,2169.954,lam 0.260
+Iteration,48,ex,6271.852,risk,2138.245,lam0.260
+Iteration,49,ex,6462.163,risk,2435.365,lam0.260
+Iteration,1,ex,5491.403,risk,1714.969,lam0.280
+Iteration,2,ex,5595.017,risk,1604.833,lam0.280
+Iteration,3,ex,5914.921,risk,1857.513,lam0.280
+Iteration,4,ex,7571.56,risk,2350.195,lam0.280
+Iteration,5,ex,5540.484,risk,1457.378,lam0.280
+Iteration,6,ex,5482.156,risk,1614.012,lam0.280
+Iteration,7,ex,7403.886,risk,2589.309,lam0.280
+Iteration,8,ex,6716.993,risk,2026.145,lam0.280
+Iteration,9,ex,7574.912,risk,2560.257,lam0.280
+Iteration,10,ex,7011.379,risk,2472.633,lam 0.280
+Iteration,11,ex,6034.303,risk,1544.959,lam0.280
+Iteration,12,ex,5985.222,risk,1873.5889,lam 0.2800
+Iteration,13,ex,5985.222,risk,1873.589,lam 0.280
+Iteration,14,ex,6745.444,risk,2080.807,lam0.280
+Iteration,15,ex,6249.359,risk,1753.234,lam0.280
+Iteration,16,ex,5948.2,risk,1753.6198,lam 0.2800
+Iteration,17,ex,5948.2,risk,1753.62,lam 0.280
+Iteration,18,ex,6308.545,risk,1959.604,lam0.280
+Iteration,19,ex,6105.695,risk,1742.4,lam0.280
+Iteration,20,ex,6027.99,risk,1522.681,lam0.280
+Iteration,21,ex,6354.137,risk,1801.244,lam0.280
+Iteration,22,ex,6371.784,risk,1656.392,lam0.280
+Iteration,23,ex,6743.46,risk,2092.953,lam0.280
+Iteration,24,ex,6410.12,risk,1860.1,lam0.280
+Iteration,25,ex,6410.12,risk,1860.1,lam0.280
+Iteration,26,ex,6410.12,risk,1860.1004,lam 0.2800
+Iteration,27,ex,6410.12,risk,1860.1,lam 0.280
+Iteration,28,ex,6454.922,risk,1945.578,lam 0.280
+Iteration,29,ex,6277.136,risk,1550.061,lam0.280
+Iteration,30,ex,6406.491,risk,1602.612,lam0.280
+Iteration,31,ex,6687.046,risk,1654.197,lam0.280
+Iteration,32,ex,6672.576,risk,1667.624,lam0.280
+Iteration,33,ex,6455.363,risk,1764.814,lam0.280
+Iteration,34,ex,6684.471,risk,1864.004,lam0.280
+Iteration,35,ex,6400.83,risk,1584.8942,lam 0.2800
+Iteration,36,ex,6711.969,risk,2111.111,lam0.280
+Iteration,37,ex,6474.288,risk,2002.171,lam0.280
+Iteration,38,ex,5813.091,risk,1526.309,lam 0.2800
+Iteration,39,ex,7052.862,risk,2086.976,lam0.280
+Iteration,40,ex,6385.261,risk,2063.109,lam0.280
+Iteration,41,ex,6029.665,risk,1580.385,lam0.280
+Iteration,42,ex,6443.913,risk,1903.079,lam0.280
+Iteration,43,ex,6443.913,risk,1903.079,lam0.280
+Iteration,44,ex,6324.045,risk,2156.075,lam0.280
+Iteration,45,ex,6153.896,risk,1605.76,lam0.280
+Iteration,46,ex,6975.832,risk,2383.676,lam0.280
+Iteration,47,ex,7182.831,risk,2603.587,lam0.280
+Iteration,48,ex,6426.488,risk,2111.306,lam 0.280
+Iteration,49,ex,6754.302,risk,2080.454,lam0.280
+Iteration,1,ex,5883.646,risk,1667.331,lam0.300
+Iteration,2,ex,6389.543,risk,1881.077,lam0.300
+Iteration,3,ex,7302.823,risk,2082.165,lam0.300
+Iteration,4,ex,9974.991,risk,3137.211,lam0.300
+Iteration,5,ex,7281.708,risk,2133.558,lam0.300
+Iteration,6,ex,7095.392,risk,2041.551,lam0.300
+Iteration,7,ex,6802.437,risk,1888.074,lam0.300
+Iteration,8,ex,6779.281,risk,1884.667,lam0.300
+Iteration,9,ex,5843.979,risk,1667.891,lam0.300
+Iteration,10,ex,5873.739,risk,1569.179,lam0.300
+Iteration,11,ex,7932.735,risk,2517.383,lam0.300
+Iteration,12,ex,6570.474,risk,2053.013,lam0.300
+Iteration,13,ex,6923.475,risk,2252.56,lam0.300
+Iteration,14,ex,6188.157,risk,1613.342,lam0.300
+Iteration,15,ex,5936.233,risk,1416.896,lam0.300
+Iteration,16,ex,6726.777,risk,1695.656,lam0.300
+Iteration,17,ex,6720.769,risk,1715.011,lam0.300
+Iteration,18,ex,7160.148,risk,1852.956,lam0.300
+Iteration,19,ex,6900.051,risk,1818.789,lam0.300
+Iteration,20,ex,6967.349,risk,2243.455,lam0.300
+Iteration,21,ex,7998.161,risk,2120.266,lam0.300
+Iteration,22,ex,6281.606,risk,1553.165,lam0.300
+Iteration,23,ex,8238.812,risk,2993.499,lam0.300
+Iteration,24,ex,8512.511,risk,2905.582,lam0.300
+Iteration,25,ex,8083.903,risk,2560.249,lam0.300
+Iteration,26,ex,7512.192,risk,2403.948,lam 0.300
+Iteration,27,ex,7430.358,risk,2342.75,lam0.300
+Iteration,28,ex,6695.741,risk,1704.533,lam0.300
+Iteration,29,ex,6465.325,risk,1502.043,lam0.300
+Iteration,30,ex,7255.496,risk,2026.17,lam 0.3000
+Iteration,31,ex,6417.192,risk,1930.015,lam 0.300
+Iteration,32,ex,6432.935,risk,1782.201,lam0.300
+Iteration,33,ex,6848.391,risk,1729.081,lam0.300
+Iteration,34,ex,7236.753,risk,2022.6638,lam 0.3000
+Iteration,35,ex,7236.753,risk,2022.664,lam 0.300
+Iteration,36,ex,7242.074,risk,2094.17,lam0.300
+Iteration,37,ex,7327.598,risk,1887.8094,lam 0.3000
+Iteration,38,ex,7327.598,risk,1887.809,lam0.300
+Iteration,39,ex,6994.669,risk,2311.327,lam 0.300
+Iteration,40,ex,7227.238,risk,2055.274,lam0.300
+Iteration,41,ex,7888.226,risk,2313.477,lam0.300
+Iteration,42,ex,7331.529,risk,1970.6513,lam 0.3000
+Iteration,43,ex,7331.529,risk,1970.651,lam 0.300
+Iteration,44,ex,7331.529,risk,1970.651,lam0.300
+Iteration,45,ex,6783.432,risk,1595.998,lam0.300
+Iteration,46,ex,6989.447,risk,1582.0541,lam 0.3000
+Iteration,47,ex,8459.597,risk,2830.285,lam 0.300
+Iteration,48,ex,6730.224,risk,1780.814,lam 0.300
+Iteration,49,ex,7176.139,risk,1632.128,lam0.300
+Iteration,1,ex,6275.889,risk,1619.693,lam0.320
+Iteration,2,ex,6815.512,risk,1827.332,lam0.320
+Iteration,3,ex,7789.678,risk,2022.675,lam0.320
+Iteration,4,ex,10639.991,risk,3047.577,lam0.320
+Iteration,5,ex,7767.155,risk,2072.599,lam0.320
+Iteration,6,ex,7568.418,risk,1983.221,lam0.320
+Iteration,7,ex,7255.932,risk,1834.129,lam0.320
+Iteration,8,ex,7231.233,risk,1830.82,lam0.320
+Iteration,9,ex,6233.578,risk,1620.237,lam0.320
+Iteration,10,ex,6265.321,risk,1524.345,lam0.320
+Iteration,11,ex,8461.584,risk,2445.458,lam0.320
+Iteration,12,ex,7008.505,risk,1994.355,lam0.320
+Iteration,13,ex,7385.04,risk,2188.201,lam0.320
+Iteration,14,ex,6600.701,risk,1567.247,lam0.320
+Iteration,15,ex,6331.982,risk,1376.413,lam0.320
+Iteration,16,ex,7175.228,risk,1647.209,lam0.320
+Iteration,17,ex,7168.821,risk,1666.01,lam0.320
+Iteration,18,ex,7637.491,risk,1800.015,lam0.320
+Iteration,19,ex,7360.054,risk,1766.824,lam0.320
+Iteration,20,ex,7431.839,risk,2179.356,lam0.320
+Iteration,21,ex,8531.371,risk,2059.687,lam0.320
+Iteration,22,ex,6700.38,risk,1508.789,lam0.320
+Iteration,23,ex,8788.066,risk,2907.971,lam0.320
+Iteration,24,ex,9080.012,risk,2822.565,lam0.320
+Iteration,25,ex,8622.83,risk,2487.099,lam0.320
+Iteration,26,ex,8013.005,risk,2335.264,lam 0.320
+Iteration,27,ex,7925.715,risk,2275.814,lam0.320
+Iteration,28,ex,7142.124,risk,1655.832,lam0.320
+Iteration,29,ex,6896.347,risk,1459.128,lam0.320
+Iteration,30,ex,7739.195,risk,1968.2794,lam 0.3200
+Iteration,31,ex,6845.005,risk,1874.872,lam 0.320
+Iteration,32,ex,6861.797,risk,1731.281,lam0.320
+Iteration,33,ex,7304.951,risk,1679.678,lam0.320
+Iteration,34,ex,7719.203,risk,1964.8734,lam 0.3200
+Iteration,35,ex,7719.203,risk,1964.873,lam 0.320
+Iteration,36,ex,7724.879,risk,2034.337,lam0.320
+Iteration,37,ex,7816.104,risk,1833.872,lam 0.3200
+Iteration,38,ex,7816.104,risk,1833.872,lam0.320
+Iteration,39,ex,7460.98,risk,2245.289,lam 0.320
+Iteration,40,ex,7709.054,risk,1996.551,lam0.320
+Iteration,41,ex,8414.107,risk,2247.378,lam0.320
+Iteration,42,ex,7820.297,risk,1914.347,lam 0.3200
+Iteration,43,ex,7820.297,risk,1914.347,lam 0.320
+Iteration,44,ex,7820.297,risk,1914.347,lam0.320
+Iteration,45,ex,7235.661,risk,1550.398,lam0.320
+Iteration,46,ex,7455.41,risk,1536.8525,lam 0.3200
+Iteration,47,ex,9023.57,risk,2749.419,lam 0.320
+Iteration,48,ex,7178.905,risk,1729.933,lam 0.320
+Iteration,49,ex,7654.548,risk,1585.496,lam0.320
+Iteration,1,ex,6668.133,risk,1572.055,lam0.340
+Iteration,2,ex,7241.482,risk,1773.587,lam0.340
+Iteration,3,ex,8276.533,risk,1963.185,lam0.340
+Iteration,4,ex,11304.99,risk,2957.942,lam0.340
+Iteration,5,ex,8252.602,risk,2011.64,lam0.340
+Iteration,6,ex,8041.444,risk,1924.891,lam0.340
+Iteration,7,ex,7709.428,risk,1780.184,lam0.340
+Iteration,8,ex,7683.185,risk,1776.972,lam0.340
+Iteration,9,ex,6623.177,risk,1572.583,lam0.340
+Iteration,10,ex,6656.904,risk,1479.511,lam0.340
+Iteration,11,ex,8990.433,risk,2373.533,lam0.340
+Iteration,12,ex,7446.537,risk,1935.698,lam0.340
+Iteration,13,ex,7846.605,risk,2123.842,lam0.340
+Iteration,14,ex,7013.244,risk,1521.151,lam0.340
+Iteration,15,ex,6727.731,risk,1335.93,lam0.340
+Iteration,16,ex,7623.68,risk,1598.762,lam0.340
+Iteration,17,ex,7616.872,risk,1617.01,lam0.340
+Iteration,18,ex,8114.834,risk,1747.073,lam0.340
+Iteration,19,ex,7820.057,risk,1714.858,lam0.340
+Iteration,20,ex,7896.329,risk,2115.257,lam0.340
+Iteration,21,ex,9064.582,risk,1999.108,lam0.340
+Iteration,22,ex,7119.153,risk,1464.413,lam0.340
+Iteration,23,ex,9337.32,risk,2822.442,lam0.340
+Iteration,24,ex,9647.513,risk,2739.548,lam0.340
+Iteration,25,ex,9161.757,risk,2413.949,lam0.340
+Iteration,26,ex,8513.817,risk,2266.58,lam 0.340
+Iteration,27,ex,8421.072,risk,2208.878,lam0.340
+Iteration,28,ex,7588.507,risk,1607.131,lam0.340
+Iteration,29,ex,7327.368,risk,1416.212,lam0.340
+Iteration,30,ex,8222.895,risk,1910.3888,lam 0.3400
+Iteration,31,ex,7272.818,risk,1819.729,lam 0.340
+Iteration,32,ex,7290.659,risk,1680.361,lam0.340
+Iteration,33,ex,7761.51,risk,1630.276,lam0.340
+Iteration,34,ex,8201.653,risk,1907.083,lam 0.3400
+Iteration,35,ex,8201.653,risk,1907.083,lam 0.340
+Iteration,36,ex,8207.684,risk,1974.503,lam0.340
+Iteration,37,ex,8304.611,risk,1779.9346,lam 0.3400
+Iteration,38,ex,8304.611,risk,1779.935,lam0.340
+Iteration,39,ex,7927.292,risk,2179.251,lam 0.340
+Iteration,40,ex,8190.87,risk,1937.829,lam0.340
+Iteration,41,ex,8939.989,risk,2181.279,lam0.340
+Iteration,42,ex,8309.066,risk,1858.0427,lam 0.3400
+Iteration,43,ex,8309.066,risk,1858.043,lam 0.340
+Iteration,44,ex,8309.066,risk,1858.043,lam0.340
+Iteration,45,ex,7687.889,risk,1504.798,lam0.340
+Iteration,46,ex,7921.373,risk,1491.651,lam 0.3400
+Iteration,47,ex,9587.543,risk,2668.554,lam 0.340
+Iteration,48,ex,7627.587,risk,1679.053,lam 0.340
+Iteration,49,ex,8132.958,risk,1538.863,lam0.340
+Iteration,1,ex,7060.376,risk,1524.417,lam0.360
+Iteration,2,ex,7667.451,risk,1719.842,lam0.360
+Iteration,3,ex,8763.388,risk,1903.694,lam0.360
+Iteration,4,ex,11969.99,risk,2868.307,lam0.360
+Iteration,5,ex,8738.05,risk,1950.681,lam0.360
+Iteration,6,ex,8514.47,risk,1866.561,lam0.360
+Iteration,7,ex,8162.924,risk,1726.239,lam0.360
+Iteration,8,ex,8135.137,risk,1723.125,lam0.360
+Iteration,9,ex,7012.775,risk,1524.929,lam0.360
+Iteration,10,ex,7048.486,risk,1434.678,lam0.360
+Iteration,11,ex,9519.282,risk,2301.608,lam0.360
+Iteration,12,ex,7884.568,risk,1877.04,lam0.360
+Iteration,13,ex,8308.17,risk,2059.484,lam0.360
+Iteration,14,ex,7425.788,risk,1475.056,lam0.360
+Iteration,15,ex,7123.48,risk,1295.447,lam0.360
+Iteration,16,ex,8072.132,risk,1550.314,lam0.360
+Iteration,17,ex,8064.923,risk,1568.01,lam0.360
+Iteration,18,ex,8592.177,risk,1694.132,lam0.360
+Iteration,19,ex,8280.061,risk,1662.893,lam0.360
+Iteration,20,ex,8360.819,risk,2051.158,lam0.360
+Iteration,21,ex,9597.793,risk,1938.529,lam0.360
+Iteration,22,ex,7537.927,risk,1420.037,lam0.360
+Iteration,23,ex,9886.574,risk,2736.914,lam0.360
+Iteration,24,ex,10215.013,risk,2656.532,lam0.360
+Iteration,25,ex,9700.684,risk,2340.799,lam0.360
+Iteration,26,ex,9014.63,risk,2197.896,lam 0.360
+Iteration,27,ex,8916.429,risk,2141.943,lam0.360
+Iteration,28,ex,8034.89,risk,1558.43,lam0.360
+Iteration,29,ex,7758.39,risk,1373.2965,lam 0.3600
+Iteration,30,ex,8393.603,risk,2113.213,lam 0.360
+Iteration,31,ex,7647.685,risk,1558.773,lam0.360
+Iteration,32,ex,7719.522,risk,1629.441,lam0.360
+Iteration,33,ex,8218.07,risk,1580.874,lam0.360
+Iteration,34,ex,8684.103,risk,1849.2926,lam 0.3600
+Iteration,35,ex,7700.63,risk,1764.586,lam 0.360
+Iteration,36,ex,8690.489,risk,1914.67,lam0.360
+Iteration,37,ex,8810.411,risk,1707.9789,lam 0.3600
+Iteration,38,ex,8810.411,risk,1707.979,lam 0.360
+Iteration,39,ex,8810.411,risk,1707.979,lam0.360
+Iteration,40,ex,9496.193,risk,2005.012,lam0.360
+Iteration,41,ex,8793.118,risk,1725.997,lam0.360
+Iteration,42,ex,8797.834,risk,1801.7383,lam 0.3600
+Iteration,43,ex,8797.834,risk,1801.738,lam 0.360
+Iteration,44,ex,8705.705,risk,1686.193,lam0.360
+Iteration,45,ex,8140.118,risk,1459.199,lam0.360
+Iteration,46,ex,8387.336,risk,1446.4494,lam 0.3600
+Iteration,47,ex,10151.516,risk,2587.689,lam 0.360
+Iteration,48,ex,8076.268,risk,1628.172,lam 0.360
+Iteration,49,ex,8611.367,risk,1492.231,lam0.360
+Iteration,1,ex,7452.619,risk,1476.779,lam0.380
+Iteration,2,ex,8093.421,risk,1666.097,lam0.380
+Iteration,3,ex,9250.242,risk,1844.204,lam0.380
+Iteration,4,ex,12634.989,risk,2778.673,lam0.380
+Iteration,5,ex,9223.497,risk,1889.723,lam0.380
+Iteration,6,ex,8987.497,risk,1808.231,lam0.380
+Iteration,7,ex,8616.42,risk,1672.294,lam0.380
+Iteration,8,ex,8587.089,risk,1669.277,lam0.380
+Iteration,9,ex,7402.374,risk,1477.275,lam0.380
+Iteration,10,ex,7440.069,risk,1389.844,lam0.380
+Iteration,11,ex,10048.131,risk,2229.682,lam0.380
+Iteration,12,ex,8322.6,risk,1818.383,lam0.380
+Iteration,13,ex,8769.734,risk,1995.125,lam0.380
+Iteration,14,ex,8743.635,risk,2024.556,lam0.380
+Iteration,15,ex,8510.795,risk,1764.858,lam0.380
+Iteration,16,ex,10003.691,risk,2246.543,lam0.380
+Iteration,17,ex,10011.732,risk,2656.847,lam0.380
+Iteration,18,ex,10922.85,risk,2275.496,lam0.380
+Iteration,19,ex,8859.914,risk,2047.175,lam 0.380
+Iteration,20,ex,8795.807,risk,1724.462,lam0.380
+Iteration,21,ex,8263.42,risk,1467.3471,lam 0.3800
+Iteration,22,ex,8263.42,risk,1467.347,lam 0.380
+Iteration,23,ex,8072.557,risk,1510.061,lam0.380
+Iteration,24,ex,8592.347,risk,1413.599,lam0.380
+Iteration,25,ex,8647.421,risk,1426.337,lam0.380
+Iteration,26,ex,9189.355,risk,1633.5,lam0.380
+Iteration,27,ex,8148.384,risk,1578.5209,lam 0.3800
+Iteration,28,ex,9550.536,risk,2149.041,lam 0.380
+Iteration,29,ex,8286.301,risk,1500.4,lam0.380
+Iteration,30,ex,9173.294,risk,1854.8365,lam 0.3800
+Iteration,31,ex,9173.294,risk,1854.836,lam 0.380
+Iteration,32,ex,9284.089,risk,1930.9093,lam 0.3800
+Iteration,33,ex,8533.028,risk,2087.399,lam 0.380
+Iteration,34,ex,9180.978,risk,1848.598,lam0.380
+Iteration,35,ex,9991.753,risk,2049.08,lam0.380
+Iteration,36,ex,9991.753,risk,2049.0798,lam 0.3800
+Iteration,37,ex,9991.753,risk,2049.08,lam 0.380
+Iteration,38,ex,9991.753,risk,2049.08,lam0.380
+Iteration,39,ex,9991.753,risk,2049.0798,lam 0.3800
+Iteration,40,ex,9991.753,risk,2049.08,lam 0.380
+Iteration,41,ex,9991.753,risk,2049.08,lam0.380
+Iteration,42,ex,9991.753,risk,2049.0798,lam 0.3800
+Iteration,43,ex,9198.946,risk,2131.175,lam 0.380
+Iteration,44,ex,9198.946,risk,2131.175,lam0.380
+Iteration,45,ex,9291.914,risk,1700.04,lam0.380
+Iteration,46,ex,9291.914,risk,1700.0401,lam 0.3800
+Iteration,47,ex,9291.914,risk,1700.04,lam 0.380
+Iteration,48,ex,9291.914,risk,1700.04,lam0.380
+Iteration,49,ex,9291.914,risk,1700.0401,lam 0.3800
+Iteration,1,ex,7844.862,risk,1429.141,lam0.400
+Iteration,2,ex,8519.39,risk,1612.352,lam0.400
+Iteration,3,ex,9737.097,risk,1784.713,lam0.400
+Iteration,4,ex,13299.988,risk,2689.038,lam0.400
+Iteration,5,ex,9708.944,risk,1828.764,lam0.400
+Iteration,6,ex,9460.523,risk,1749.901,lam0.400
+Iteration,7,ex,9069.916,risk,1618.349,lam0.400
+Iteration,8,ex,9039.041,risk,1615.429,lam0.400
+Iteration,9,ex,7791.972,risk,1429.621,lam0.400
+Iteration,10,ex,7831.651,risk,1345.01,lam0.400
+Iteration,11,ex,10576.98,risk,2157.757,lam0.400
+Iteration,12,ex,8760.632,risk,1759.725,lam0.400
+Iteration,13,ex,9231.299,risk,1930.766,lam0.400
+Iteration,14,ex,9203.827,risk,1959.248,lam0.400
+Iteration,15,ex,8958.731,risk,1707.927,lam0.400
+Iteration,16,ex,10530.201,risk,2174.074,lam0.400
+Iteration,17,ex,10538.665,risk,2571.143,lam0.400
+Iteration,18,ex,11497.736,risk,2202.092,lam0.400
+Iteration,19,ex,11026.004,risk,2308.853,lam0.400
+Iteration,20,ex,9347.261,risk,2269.394,lam 0.400
+Iteration,21,ex,9261.954,risk,1699.392,lam0.400
+Iteration,22,ex,8722.422,risk,1452,lam0.400
+Iteration,23,ex,8698.337,risk,1420.0133,lam 0.4000
+Iteration,24,ex,9326.225,risk,1981.137,lam 0.400
+Iteration,25,ex,9258.744,risk,1668.834,lam0.400
+Iteration,26,ex,10517.634,risk,1982.98,lam0.400
+Iteration,27,ex,8620.433,risk,1287.4654,lam 0.4000
+Iteration,28,ex,8620.433,risk,1287.465,lam 0.400
+Iteration,29,ex,8497.428,risk,1461.35,lam0.400
+Iteration,30,ex,9044.576,risk,1367.999,lam0.400
+Iteration,31,ex,9319.263,risk,1356.0464,lam 0.4000
+Iteration,32,ex,11158.532,risk,2231.718,lam 0.400
+Iteration,33,ex,8973.631,risk,1526.412,lam 0.400
+Iteration,34,ex,9568.185,risk,1398.967,lam0.400
+Iteration,35,ex,9483.271,risk,1317.816,lam0.400
+Iteration,36,ex,9680.924,risk,1580.3305,lam 0.4000
+Iteration,37,ex,9076.897,risk,1631.232,lam0.400
+Iteration,38,ex,9157.314,risk,1550.084,lam0.400
+Iteration,39,ex,8304.416,risk,1271.924,lam0.400
+Iteration,40,ex,8939.99,risk,1413.043,lam0.400
+Iteration,41,ex,8921.083,risk,1346.0865,lam 0.4000
+Iteration,42,ex,7914.977,risk,1214.482,lam0.400
+Iteration,43,ex,8969.035,risk,1453.42,lam0.400
+Iteration,44,ex,11116.07,risk,1978.397,lam 0.400
+Iteration,45,ex,9150.859,risk,1494.624,lam0.400
+Iteration,46,ex,8510.438,risk,1339.375,lam0.400
+Iteration,47,ex,9774.009,risk,1738.357,lam0.400
+Iteration,48,ex,9774.009,risk,1738.357,lam0.400
+Iteration,49,ex,9774.009,risk,1738.3571,lam 0.4000
+Iteration,1,ex,8237.105,risk,1381.503,lam0.420
+Iteration,2,ex,8945.36,risk,1558.607,lam0.420
+Iteration,3,ex,10223.952,risk,1725.223,lam0.420
+Iteration,4,ex,13964.988,risk,2599.404,lam0.420
+Iteration,5,ex,10194.391,risk,1767.805,lam0.420
+Iteration,6,ex,9933.549,risk,1691.571,lam0.420
+Iteration,7,ex,9523.411,risk,1564.404,lam0.420
+Iteration,8,ex,9490.993,risk,1561.582,lam0.420
+Iteration,9,ex,8181.571,risk,1381.967,lam0.420
+Iteration,10,ex,8223.234,risk,1300.177,lam0.420
+Iteration,11,ex,11105.829,risk,2085.832,lam0.420
+Iteration,12,ex,9198.663,risk,1701.068,lam0.420
+Iteration,13,ex,9692.864,risk,1866.407,lam0.420
+Iteration,14,ex,9664.018,risk,1893.94,lam0.420
+Iteration,15,ex,9406.668,risk,1650.996,lam0.420
+Iteration,16,ex,11056.711,risk,2101.605,lam0.420
+Iteration,17,ex,11065.598,risk,2485.438,lam0.420
+Iteration,18,ex,12072.623,risk,2128.689,lam0.420
+Iteration,19,ex,11577.304,risk,2231.891,lam0.420
+Iteration,20,ex,9814.624,risk,2193.747,lam 0.420
+Iteration,21,ex,9725.052,risk,1642.745,lam0.420
+Iteration,22,ex,9158.543,risk,1403.6,lam0.420
+Iteration,23,ex,9133.254,risk,1372.6796,lam 0.4200
+Iteration,24,ex,9792.537,risk,1915.099,lam 0.420
+Iteration,25,ex,9721.681,risk,1613.206,lam0.420
+Iteration,26,ex,11043.516,risk,1916.881,lam0.420
+Iteration,27,ex,9051.455,risk,1244.5499,lam 0.4200
+Iteration,28,ex,9051.455,risk,1244.55,lam 0.420
+Iteration,29,ex,8922.3,risk,1412.638,lam0.420
+Iteration,30,ex,9496.805,risk,1322.399,lam0.420
+Iteration,31,ex,9785.226,risk,1310.8448,lam 0.4200
+Iteration,32,ex,11716.459,risk,2157.327,lam 0.420
+Iteration,33,ex,9422.313,risk,1475.531,lam 0.420
+Iteration,34,ex,10046.595,risk,1352.334,lam0.420
+Iteration,35,ex,9957.435,risk,1273.888,lam0.420
+Iteration,36,ex,10164.97,risk,1527.652,8     lam 0.4200
+Iteration,37,ex,9530.742,risk,1576.858,lam0.420
+Iteration,38,ex,9615.18,risk,1498.414,lam0.420
+Iteration,39,ex,8719.637,risk,1229.527,lam0.420
+Iteration,40,ex,9386.99,risk,1365.942,lam0.420
+Iteration,41,ex,9367.137,risk,1301.2169,lam 0.4200
+Iteration,42,ex,8310.726,risk,1173.999,lam0.420
+Iteration,43,ex,9417.487,risk,1404.973,lam0.420
+Iteration,44,ex,11671.874,risk,1912.45,lam 0.420
+Iteration,45,ex,9608.402,risk,1444.803,lam0.420
+Iteration,46,ex,8935.96,risk,1294.729,lam0.420
+Iteration,47,ex,10262.71,risk,1680.412,lam0.420
+Iteration,48,ex,10262.71,risk,1680.412,lam0.420
+Iteration,49,ex,10262.71,risk,1680.411,9     lam 0.4200
+Iteration,1,ex,8629.348,risk,1333.865,lam0.440
+Iteration,2,ex,9371.329,risk,1504.862,lam0.440
+Iteration,3,ex,10710.807,risk,1665.732,lam0.440
+Iteration,4,ex,14629.987,risk,2509.769,lam0.440
+Iteration,5,ex,10679.838,risk,1706.846,lam0.440
+Iteration,6,ex,10406.575,risk,1633.241,lam0.440
+Iteration,7,ex,9976.907,risk,1510.459,lam0.440
+Iteration,8,ex,9942.945,risk,1507.734,lam0.440
+Iteration,9,ex,8571.17,risk,1334.313,lam0.440
+Iteration,10,ex,8614.817,risk,1255.343,lam0.440
+Iteration,11,ex,11634.678,risk,2013.907,lam0.440
+Iteration,12,ex,9636.695,risk,1642.41,lam0.440
+Iteration,13,ex,10154.429,risk,1802.048,lam0.440
+Iteration,14,ex,10124.21,risk,1828.631,lam0.440
+Iteration,15,ex,9854.605,risk,1594.065,lam0.440
+Iteration,16,ex,11583.221,risk,2029.135,lam0.440
+Iteration,17,ex,11592.532,risk,2399.733,lam0.440
+Iteration,18,ex,12647.51,risk,2055.286,lam0.440
+Iteration,19,ex,12128.604,risk,2154.929,lam0.440
+Iteration,20,ex,10281.988,risk,2118.101,lam 0.440
+Iteration,21,ex,10188.15,risk,1586.099,lam0.440
+Iteration,22,ex,9594.664,risk,1355.2,lam0.440
+Iteration,23,ex,9568.171,risk,1325.3458,lam 0.4400
+Iteration,24,ex,10258.848,risk,1849.061,lam 0.440
+Iteration,25,ex,10184.618,risk,1557.578,lam0.440
+Iteration,26,ex,11569.398,risk,1850.781,8     lam 0.4400
+Iteration,27,ex,11569.398,risk,1850.782,lam 0.440
+Iteration,28,ex,9347.171,risk,1363.926,lam0.440
+Iteration,29,ex,9949.033,risk,1276.799,lam0.440
+Iteration,30,ex,10012.803,risk,1288.305,lam0.440
+Iteration,31,ex,10747.164,risk,1558.774,lam0.440
+Iteration,32,ex,10621.709,risk,1675.336,2     lam 0.4400
+Iteration,33,ex,10621.709,risk,1675.336,lam 0.440
+Iteration,34,ex,10613.904,risk,1618.131,lam0.440
+Iteration,35,ex,10613.904,risk,1618.131,1     lam 0.4400
+Iteration,36,ex,10613.904,risk,1618.131,lam 0.440
+Iteration,37,ex,10749.998,risk,1744.047,2     lam 0.4400
+Iteration,38,ex,9880.348,risk,1885.393,lam0.440
+Iteration,39,ex,9880.348,risk,1885.393,lam 0.440
+Iteration,40,ex,10751.117,risk,1453.313,lam0.440
+Iteration,41,ex,10751.117,risk,1453.313,5     lam 0.4400
+Iteration,42,ex,10651.411,risk,1924.932,lam 0.440
+Iteration,43,ex,10651.411,risk,1924.932,lam0.440
+Iteration,44,ex,10651.411,risk,1924.931,8     lam 0.4400
+Iteration,45,ex,10651.411,risk,1924.932,lam 0.440
+Iteration,46,ex,10651.411,risk,1924.932,lam0.440
+Iteration,47,ex,9744.605,risk,1312.009,lam0.440
+Iteration,48,ex,9744.605,risk,1312.0091,lam 0.4400
+Iteration,49,ex,9744.605,risk,1312.009,lam 0.440
+Iteration,1,ex,9021.591,risk,1286.227,lam0.460
+Iteration,2,ex,9797.299,risk,1451.117,lam0.460
+Iteration,3,ex,11197.662,risk,1606.242,lam0.460
+Iteration,4,ex,15294.987,risk,2420.134,lam0.460
+Iteration,5,ex,11165.286,risk,1645.887,lam0.460
+Iteration,6,ex,10879.601,risk,1574.911,lam0.460
+Iteration,7,ex,10430.403,risk,1456.514,lam0.460
+Iteration,8,ex,10394.897,risk,1453.886,lam0.460
+Iteration,9,ex,8960.768,risk,1286.659,lam0.460
+Iteration,10,ex,9006.399,risk,1210.509,lam0.460
+Iteration,11,ex,12163.527,risk,1941.981,lam0.460
+Iteration,12,ex,10074.726,risk,1583.753,lam0.460
+Iteration,13,ex,10615.994,risk,1737.689,lam0.460
+Iteration,14,ex,10584.401,risk,1763.323,lam0.460
+Iteration,15,ex,10302.541,risk,1537.134,lam0.460
+Iteration,16,ex,12109.731,risk,1956.666,lam0.460
+Iteration,17,ex,12119.465,risk,2314.028,lam0.460
+Iteration,18,ex,13222.397,risk,1981.883,lam0.460
+Iteration,19,ex,12679.904,risk,2077.968,lam0.460
+Iteration,20,ex,10749.351,risk,2042.454,lam 0.460
+Iteration,21,ex,10651.247,risk,1529.453,lam0.460
+Iteration,22,ex,10030.785,risk,1306.8,lam0.460
+Iteration,23,ex,10003.088,risk,1278.012,0     lam 0.4600
+Iteration,24,ex,10725.159,risk,1783.023,lam 0.460
+Iteration,25,ex,10647.555,risk,1501.951,lam0.460
+Iteration,26,ex,12095.28,risk,1784.682,4     lam 0.4600
+Iteration,27,ex,12095.28,risk,1784.682,lam 0.460
+Iteration,28,ex,9772.043,risk,1315.215,lam0.460
+Iteration,29,ex,10401.262,risk,1231.199,lam0.460
+Iteration,30,ex,10467.93,risk,1242.294,lam0.460
+Iteration,31,ex,11235.672,risk,1503.103,lam0.460
+Iteration,32,ex,11104.514,risk,1615.502,7     lam 0.4600
+Iteration,33,ex,11104.514,risk,1615.503,lam 0.460
+Iteration,34,ex,11096.354,risk,1560.341,lam0.460
+Iteration,35,ex,11096.354,risk,1560.34,7     lam 0.4600
+Iteration,36,ex,11096.354,risk,1560.341,lam 0.460
+Iteration,37,ex,11238.635,risk,1681.759,8     lam 0.4600
+Iteration,38,ex,10329.455,risk,1818.057,lam0.460
+Iteration,39,ex,10329.455,risk,1818.057,lam 0.460
+Iteration,40,ex,11239.804,risk,1401.409,lam0.460
+Iteration,41,ex,11239.804,risk,1401.409,4     lam 0.4600
+Iteration,42,ex,11135.566,risk,1856.184,lam 0.460
+Iteration,43,ex,11135.566,risk,1856.184,lam0.460
+Iteration,44,ex,11135.566,risk,1856.184,3     lam 0.4600
+Iteration,45,ex,11135.566,risk,1856.184,lam 0.460
+Iteration,46,ex,11135.566,risk,1856.184,lam0.460
+Iteration,47,ex,10187.541,risk,1265.152,lam0.460
+Iteration,48,ex,10187.541,risk,1265.151,7     lam 0.4600
+Iteration,49,ex,10187.541,risk,1265.152,lam 0.460
+Iteration,1,ex,9413.834,risk,1238.589,lam0.480
+Iteration,2,ex,10223.268,risk,1397.372,lam0.480
+Iteration,3,ex,11684.517,risk,1546.751,lam0.480
+Iteration,4,ex,15959.986,risk,2330.5,lam0.480
+Iteration,5,ex,11650.733,risk,1584.929,lam0.480
+Iteration,6,ex,11352.627,risk,1516.581,lam0.480
+Iteration,7,ex,10883.899,risk,1402.569,lam0.480
+Iteration,8,ex,10846.849,risk,1400.039,lam0.480
+Iteration,9,ex,9350.367,risk,1239.005,lam0.480
+Iteration,10,ex,9397.982,risk,1165.675,lam0.480
+Iteration,11,ex,12692.376,risk,1870.056,lam0.480
+Iteration,12,ex,10512.758,risk,1525.095,lam0.480
+Iteration,13,ex,11077.559,risk,1673.33,lam0.480
+Iteration,14,ex,11044.592,risk,1698.015,lam0.480
+Iteration,15,ex,10750.478,risk,1480.203,lam0.480
+Iteration,16,ex,12636.241,risk,1884.197,lam0.480
+Iteration,17,ex,12646.398,risk,2228.324,lam0.480
+Iteration,18,ex,13797.284,risk,1908.48,lam0.480
+Iteration,19,ex,13231.205,risk,2001.006,lam0.480
+Iteration,20,ex,11216.714,risk,1966.808,lam 0.480
+Iteration,21,ex,11114.345,risk,1472.806,lam0.480
+Iteration,22,ex,10466.906,risk,1258.4,0     lam 0.4800
+Iteration,23,ex,10466.906,risk,1258.4,lam 0.480
+Iteration,24,ex,11587.319,risk,1555.669,lam0.480
+Iteration,25,ex,11110.493,risk,1446.323,lam0.480
+Iteration,26,ex,11597.025,risk,1550.437,2     lam 0.4800
+Iteration,27,ex,11191.47,risk,1716.986,lam 0.480
+Iteration,28,ex,10196.914,risk,1266.503,lam0.480
+Iteration,29,ex,10853.491,risk,1185.599,lam0.480
+Iteration,30,ex,10923.058,risk,1196.283,lam0.480
+Iteration,31,ex,11724.179,risk,1447.433,lam0.480
+Iteration,32,ex,10438.005,risk,1230.678,2     lam 0.4800
+Iteration,33,ex,10438.005,risk,1230.678,lam 0.480
+Iteration,34,ex,10438.005,risk,1230.678,lam0.480
+Iteration,35,ex,11601.763,risk,1331.822,lam0.480
+Iteration,36,ex,11092.103,risk,1328.16,8     lam 0.4800
+Iteration,37,ex,11092.103,risk,1328.161,lam 0.480
+Iteration,38,ex,11092.103,risk,1328.161,lam0.480
+Iteration,39,ex,10881.072,risk,1273.359,lam0.480
+Iteration,40,ex,11578.804,risk,1502.55,lam0.480
+Iteration,41,ex,11578.804,risk,1502.55,lam0.480
+Iteration,42,ex,11608.793,risk,1505.154,8     lam 0.4800
+Iteration,43,ex,11608.793,risk,1505.155,lam 0.480
+Iteration,44,ex,11608.793,risk,1505.155,lam0.480
+Iteration,45,ex,11608.793,risk,1505.155,lam0.480
+Iteration,46,ex,10630.478,risk,1218.294,2     lam 0.4800
+Iteration,47,ex,10630.478,risk,1218.294,lam 0.480
+Iteration,48,ex,10630.478,risk,1218.294,lam0.480
+Iteration,49,ex,12397.416,risk,1652.999,lam 0.480
+Iteration,1,ex,9806.077,risk,1190.951,lam0.500
+Iteration,2,ex,10649.238,risk,1343.627,lam0.500
+Iteration,3,ex,12171.372,risk,1487.261,lam0.500
+Iteration,4,ex,16624.985,risk,2240.865,lam0.500
+Iteration,5,ex,12136.18,risk,1523.97,lam0.500
+Iteration,6,ex,11825.653,risk,1458.25,lam0.500
+Iteration,7,ex,11337.394,risk,1348.624,lam0.500
+Iteration,8,ex,11298.801,risk,1346.191,lam0.500
+Iteration,9,ex,9739.966,risk,1191.351,lam0.500
+Iteration,10,ex,9789.564,risk,1120.842,lam0.500
+Iteration,11,ex,13221.225,risk,1798.131,lam0.500
+Iteration,12,ex,10950.789,risk,1466.438,lam0.500
+Iteration,13,ex,11539.124,risk,1608.972,lam0.500
+Iteration,14,ex,11504.784,risk,1632.707,lam0.500
+Iteration,15,ex,11198.414,risk,1423.272,lam0.500
+Iteration,16,ex,13162.751,risk,1811.728,lam0.500
+Iteration,17,ex,13173.331,risk,2142.619,lam0.500
+Iteration,18,ex,14372.17,risk,1835.077,lam0.500
+Iteration,19,ex,13782.505,risk,1924.044,lam0.500
+Iteration,20,ex,11684.077,risk,1891.161,lam 0.500
+Iteration,21,ex,11577.443,risk,1416.16,lam0.500
+Iteration,22,ex,10903.028,risk,1210,0     lam 0.5000
+Iteration,23,ex,10903.028,risk,1210,lam 0.500
+Iteration,24,ex,12070.124,risk,1495.836,lam0.500
+Iteration,25,ex,11573.43,risk,1390.695,lam0.500
+Iteration,26,ex,12080.234,risk,1490.805,0     lam 0.5000
+Iteration,27,ex,11657.782,risk,1650.948,lam 0.500
+Iteration,28,ex,10621.785,risk,1217.792,lam0.500
+Iteration,29,ex,11305.72,risk,1139.999,lam0.500
+Iteration,30,ex,11378.185,risk,1150.272,lam0.500
+Iteration,31,ex,12212.687,risk,1391.762,lam0.500
+Iteration,32,ex,10872.922,risk,1183.344,4     lam 0.5000
+Iteration,33,ex,10872.922,risk,1183.344,lam 0.500
+Iteration,34,ex,10872.922,risk,1183.344,lam0.500
+Iteration,35,ex,12085.17,risk,1280.598,lam0.500
+Iteration,36,ex,11554.274,risk,1277.077,7     lam 0.5000
+Iteration,37,ex,11554.274,risk,1277.078,lam 0.500
+Iteration,38,ex,11554.274,risk,1277.078,lam0.500
+Iteration,39,ex,11334.45,risk,1224.383,lam0.500
+Iteration,40,ex,12061.254,risk,1444.76,lam0.500
+Iteration,41,ex,12061.254,risk,1444.76,lam0.500
+Iteration,42,ex,12092.493,risk,1447.264,3     lam 0.5000
+Iteration,43,ex,12092.493,risk,1447.264,lam 0.500
+Iteration,44,ex,12092.493,risk,1447.264,lam0.500
+Iteration,45,ex,12092.493,risk,1447.264,lam0.500
+Iteration,46,ex,11073.415,risk,1171.436,7     lam 0.5000
+Iteration,47,ex,11073.415,risk,1171.437,lam 0.500
+Iteration,48,ex,11073.415,risk,1171.437,lam0.500
+Iteration,49,ex,12913.975,risk,1589.423,lam 0.500
+Iteration,1,ex,10198.32,risk,1143.313,lam0.520
+Iteration,2,ex,11075.207,risk,1289.882,lam0.520
+Iteration,3,ex,12658.226,risk,1427.771,lam0.520
+Iteration,4,ex,17289.985,risk,2151.231,lam0.520
+Iteration,5,ex,12621.627,risk,1463.011,lam0.520
+Iteration,6,ex,12298.68,risk,1399.92,lam0.520
+Iteration,7,ex,11790.89,risk,1294.679,lam0.520
+Iteration,8,ex,11750.753,risk,1292.343,lam0.520
+Iteration,9,ex,10129.564,risk,1143.697,lam0.520
+Iteration,10,ex,10181.147,risk,1076.008,lam0.520
+Iteration,11,ex,13750.075,risk,1726.206,lam0.520
+Iteration,12,ex,11388.821,risk,1407.78,lam0.520
+Iteration,13,ex,12000.689,risk,1544.613,lam0.520
+Iteration,14,ex,11964.975,risk,1567.398,lam0.520
+Iteration,15,ex,11646.351,risk,1366.342,lam0.520
+Iteration,16,ex,13689.261,risk,1739.259,lam0.520
+Iteration,17,ex,13700.265,risk,2056.914,lam0.520
+Iteration,18,ex,14947.057,risk,1761.674,lam0.520
+Iteration,19,ex,14333.805,risk,1847.082,lam0.520
+Iteration,20,ex,12151.44,risk,1815.515,lam 0.520
+Iteration,21,ex,12040.54,risk,1359.513,lam0.520
+Iteration,22,ex,11339.149,risk,1161.6,0     lam 0.5200
+Iteration,23,ex,11339.149,risk,1161.6,lam 0.520
+Iteration,24,ex,12552.929,risk,1436.002,lam0.520
+Iteration,25,ex,12036.367,risk,1335.067,lam0.520
+Iteration,26,ex,12563.443,risk,1431.172,8     lam 0.5200
+Iteration,27,ex,12124.093,risk,1584.91,lam 0.520
+Iteration,28,ex,11046.657,risk,1169.08,lam0.520
+Iteration,29,ex,11757.949,risk,1094.399,lam0.520
+Iteration,30,ex,11833.313,risk,1104.261,lam0.520
+Iteration,31,ex,12701.194,risk,1336.092,lam0.520
+Iteration,32,ex,11307.838,risk,1136.01,7     lam 0.5200
+Iteration,33,ex,11307.838,risk,1136.011,lam 0.520
+Iteration,34,ex,11307.838,risk,1136.011,lam0.520
+Iteration,35,ex,12568.577,risk,1229.374,lam0.520
+Iteration,36,ex,12016.445,risk,1225.994,6     lam 0.5200
+Iteration,37,ex,12016.445,risk,1225.995,lam 0.520
+Iteration,38,ex,12016.445,risk,1225.995,lam0.520
+Iteration,39,ex,11787.829,risk,1175.408,lam0.520
+Iteration,40,ex,12543.704,risk,1386.969,lam0.520
+Iteration,41,ex,12543.704,risk,1386.969,lam0.520
+Iteration,42,ex,12576.192,risk,1389.373,7     lam 0.5200
+Iteration,43,ex,12576.192,risk,1389.374,lam 0.520
+Iteration,44,ex,12576.192,risk,1389.374,lam0.520
+Iteration,45,ex,12576.192,risk,1389.374,lam0.520
+Iteration,46,ex,11516.351,risk,1124.579,3     lam 0.5200
+Iteration,47,ex,11516.351,risk,1124.579,lam 0.520
+Iteration,48,ex,11516.351,risk,1124.579,lam0.520
+Iteration,49,ex,13430.534,risk,1525.846,lam 0.520
+Iteration,1,ex,10590.563,risk,1095.675,lam0.540
+Iteration,2,ex,11501.177,risk,1236.137,lam0.540
+Iteration,3,ex,13145.081,risk,1368.28,lam0.540
+Iteration,4,ex,17954.984,risk,2061.596,lam0.540
+Iteration,5,ex,13107.074,risk,1402.052,lam0.540
+Iteration,6,ex,12771.706,risk,1341.59,lam0.540
+Iteration,7,ex,12244.386,risk,1240.734,lam0.540
+Iteration,8,ex,12202.706,risk,1238.496,lam0.540
+Iteration,9,ex,10519.163,risk,1096.043,lam0.540
+Iteration,10,ex,10572.729,risk,1031.174,lam0.540
+Iteration,11,ex,14278.924,risk,1654.28,lam0.540
+Iteration,12,ex,11826.853,risk,1349.123,lam0.540
+Iteration,13,ex,12462.254,risk,1480.254,lam0.540
+Iteration,14,ex,12425.166,risk,1502.09,lam0.540
+Iteration,15,ex,12094.287,risk,1309.411,lam0.540
+Iteration,16,ex,14215.771,risk,1666.79,lam0.540
+Iteration,17,ex,14227.198,risk,1971.209,lam0.540
+Iteration,18,ex,15521.944,risk,1688.271,lam0.540
+Iteration,19,ex,14885.105,risk,1770.121,lam0.540
+Iteration,20,ex,12618.803,risk,1739.868,lam 0.540
+Iteration,21,ex,12503.638,risk,1302.867,lam0.540
+Iteration,22,ex,11775.27,risk,1113.2,0     lam 0.5400
+Iteration,23,ex,11775.27,risk,1113.2,lam 0.540
+Iteration,24,ex,13035.734,risk,1376.169,lam0.540
+Iteration,25,ex,12499.304,risk,1279.439,lam0.540
+Iteration,26,ex,13046.653,risk,1371.54,6     lam 0.5400
+Iteration,27,ex,12590.404,risk,1518.872,lam 0.540
+Iteration,28,ex,11471.528,risk,1120.368,lam0.540
+Iteration,29,ex,12210.177,risk,1048.799,lam0.540
+Iteration,30,ex,12288.44,risk,1058.25,lam0.540
+Iteration,31,ex,13189.702,risk,1280.421,lam0.540
+Iteration,32,ex,11742.755,risk,1088.676,9     lam 0.5400
+Iteration,33,ex,11742.755,risk,1088.677,lam 0.540
+Iteration,34,ex,11742.755,risk,1088.677,lam0.540
+Iteration,35,ex,13051.984,risk,1178.15,lam0.540
+Iteration,36,ex,12478.616,risk,1174.911,5     lam 0.5400
+Iteration,37,ex,12478.616,risk,1174.911,lam 0.540
+Iteration,38,ex,12478.616,risk,1174.911,lam0.540
+Iteration,39,ex,12241.207,risk,1126.433,lam0.540
+Iteration,40,ex,13026.155,risk,1329.179,lam0.540
+Iteration,41,ex,13026.155,risk,1329.179,lam0.540
+Iteration,42,ex,13059.892,risk,1331.483,1     lam 0.5400
+Iteration,43,ex,13059.892,risk,1331.483,lam 0.540
+Iteration,44,ex,13059.892,risk,1331.483,lam0.540
+Iteration,45,ex,13059.892,risk,1331.483,lam0.540
+Iteration,46,ex,11959.288,risk,1077.721,8     lam 0.5400
+Iteration,47,ex,11959.288,risk,1077.722,lam 0.540
+Iteration,48,ex,11959.288,risk,1077.722,lam0.540
+Iteration,49,ex,13947.093,risk,1462.269,lam 0.540
+Iteration,1,ex,10982.806,risk,1048.037,lam0.560
+Iteration,2,ex,11927.146,risk,1182.392,lam0.560
+Iteration,3,ex,13631.936,risk,1308.79,lam0.560
+Iteration,4,ex,18619.984,risk,1971.961,lam0.560
+Iteration,5,ex,13592.521,risk,1341.094,lam0.560
+Iteration,6,ex,13244.732,risk,1283.26,lam0.560
+Iteration,7,ex,12697.882,risk,1186.789,lam0.560
+Iteration,8,ex,12654.658,risk,1184.648,lam0.560
+Iteration,9,ex,10908.761,risk,1048.389,lam0.560
+Iteration,10,ex,10964.312,risk,986.341,lam0.560
+Iteration,11,ex,14807.773,risk,1582.355,lam0.560
+Iteration,12,ex,12264.884,risk,1290.465,lam0.560
+Iteration,13,ex,12923.819,risk,1415.895,lam0.560
+Iteration,14,ex,12885.358,risk,1436.782,lam0.560
+Iteration,15,ex,12542.224,risk,1252.48,lam0.560
+Iteration,16,ex,14742.281,risk,1594.321,lam0.560
+Iteration,17,ex,14754.131,risk,1885.505,lam0.560
+Iteration,18,ex,16096.831,risk,1614.868,lam0.560
+Iteration,19,ex,15436.405,risk,1693.159,lam0.560
+Iteration,20,ex,13086.166,risk,1664.222,lam 0.560
+Iteration,21,ex,12966.736,risk,1246.221,lam0.560
+Iteration,22,ex,12211.391,risk,1064.8,0     lam 0.5600
+Iteration,23,ex,12211.391,risk,1064.8,lam 0.560
+Iteration,24,ex,13518.539,risk,1316.336,lam0.560
+Iteration,25,ex,12962.241,risk,1223.812,lam0.560
+Iteration,26,ex,13529.862,risk,1311.908,4     lam 0.5600
+Iteration,27,ex,13056.715,risk,1452.834,lam 0.560
+Iteration,28,ex,11896.4,risk,1071.657,lam0.560
+Iteration,29,ex,12662.406,risk,1003.199,lam0.560
+Iteration,30,ex,12743.567,risk,1012.239,lam0.560
+Iteration,31,ex,13678.209,risk,1224.751,lam0.560
+Iteration,32,ex,12177.672,risk,1041.343,1     lam 0.5600
+Iteration,33,ex,12177.672,risk,1041.343,lam 0.560
+Iteration,34,ex,12177.672,risk,1041.343,lam0.560
+Iteration,35,ex,13535.39,risk,1126.926,lam0.560
+Iteration,36,ex,12940.787,risk,1123.828,4     lam 0.5600
+Iteration,37,ex,12940.787,risk,1123.828,lam 0.560
+Iteration,38,ex,12940.787,risk,1123.828,lam0.560
+Iteration,39,ex,12694.585,risk,1077.457,lam0.560
+Iteration,40,ex,13508.605,risk,1271.389,lam0.560
+Iteration,41,ex,13508.605,risk,1271.389,lam0.560
+Iteration,42,ex,13543.592,risk,1273.592,6     lam 0.5600
+Iteration,43,ex,13543.592,risk,1273.593,lam 0.560
+Iteration,44,ex,13543.592,risk,1273.593,lam0.560
+Iteration,45,ex,13543.592,risk,1273.593,lam0.560
+Iteration,46,ex,12402.224,risk,1030.864,3     lam 0.5600
+Iteration,47,ex,12402.224,risk,1030.864,lam 0.560
+Iteration,48,ex,12402.224,risk,1030.864,lam0.560
+Iteration,49,ex,14463.652,risk,1398.692,lam 0.560
+Iteration,1,ex,11375.05,risk,1000.399,lam0.580
+Iteration,2,ex,12353.116,risk,1128.646,lam0.580
+Iteration,3,ex,14118.791,risk,1249.299,lam0.580
+Iteration,4,ex,19284.983,risk,1882.327,lam0.580
+Iteration,5,ex,14077.969,risk,1280.135,lam0.580
+Iteration,6,ex,13717.758,risk,1224.93,lam0.580
+Iteration,7,ex,13151.378,risk,1132.844,lam0.580
+Iteration,8,ex,13106.61,risk,1130.8,lam0.580
+Iteration,9,ex,11298.36,risk,1000.735,lam0.580
+Iteration,10,ex,11355.895,risk,941.507,lam0.580
+Iteration,11,ex,15336.622,risk,1510.43,lam0.580
+Iteration,12,ex,12702.916,risk,1231.808,lam0.580
+Iteration,13,ex,13385.384,risk,1351.536,lam0.580
+Iteration,14,ex,13345.549,risk,1371.473,lam0.580
+Iteration,15,ex,12990.16,risk,1195.549,lam0.580
+Iteration,16,ex,15268.791,risk,1521.852,lam0.580
+Iteration,17,ex,15281.064,risk,1799.8,lam0.580
+Iteration,18,ex,16671.718,risk,1541.465,lam0.580
+Iteration,19,ex,15987.706,risk,1616.197,lam0.580
+Iteration,20,ex,13553.529,risk,1588.575,lam 0.580
+Iteration,21,ex,13429.834,risk,1189.574,lam0.580
+Iteration,22,ex,12647.512,risk,1016.4,0     lam 0.5800
+Iteration,23,ex,12647.512,risk,1016.4,lam 0.580
+Iteration,24,ex,14001.344,risk,1256.502,lam0.580
+Iteration,25,ex,13425.179,risk,1168.184,lam0.580
+Iteration,26,ex,14013.071,risk,1252.276,2     lam 0.5800
+Iteration,27,ex,13523.027,risk,1386.796,lam 0.580
+Iteration,28,ex,12321.271,risk,1022.945,lam0.580
+Iteration,29,ex,13114.635,risk,957.599,lam0.580
+Iteration,30,ex,13198.695,risk,966.229,lam0.580
+Iteration,31,ex,14166.717,risk,1169.08,lam0.580
+Iteration,32,ex,12612.589,risk,994.0093,lam 0.5800
+Iteration,33,ex,12612.589,risk,994.009,lam 0.580
+Iteration,34,ex,12612.589,risk,994.009,lam0.580
+Iteration,35,ex,14018.797,risk,1075.703,lam0.580
+Iteration,36,ex,13402.957,risk,1072.745,3     lam 0.5800
+Iteration,37,ex,13402.957,risk,1072.745,lam 0.580
+Iteration,38,ex,13402.957,risk,1072.745,lam0.580
+Iteration,39,ex,13147.963,risk,1028.482,lam0.580
+Iteration,40,ex,13991.055,risk,1213.598,lam0.580
+Iteration,41,ex,13991.055,risk,1213.598,lam0.580
+Iteration,42,ex,14027.291,risk,1215.702,0     lam 0.5800
+Iteration,43,ex,14027.291,risk,1215.702,lam 0.580
+Iteration,44,ex,14027.291,risk,1215.702,lam0.580
+Iteration,45,ex,14027.291,risk,1215.702,lam0.580
+Iteration,46,ex,12845.161,risk,984.0069,lam 0.5800
+Iteration,47,ex,12845.161,risk,984.007,lam 0.580
+Iteration,48,ex,12845.161,risk,984.007,lam0.580
+Iteration,49,ex,14980.211,risk,1335.115,lam 0.580
+Iteration,1,ex,11767.293,risk,952.761,lam0.600
+Iteration,2,ex,12779.085,risk,1074.901,lam0.600
+Iteration,3,ex,14605.646,risk,1189.809,lam0.600
+Iteration,4,ex,19949.983,risk,1792.692,lam0.600
+Iteration,5,ex,14563.416,risk,1219.176,lam0.600
+Iteration,6,ex,14190.784,risk,1166.6,lam0.600
+Iteration,7,ex,13604.873,risk,1078.899,lam0.600
+Iteration,8,ex,13558.562,risk,1076.953,lam0.600
+Iteration,9,ex,11687.959,risk,953.081,lam0.600
+Iteration,10,ex,13694.511,risk,1055.311,lam0.600
+Iteration,11,ex,13441.539,risk,980.006,lam0.600
+Iteration,12,ex,12674.831,risk,1031.952,lam0.600
+Iteration,13,ex,13577.255,risk,998.267,lam0.600
+Iteration,14,ex,13759.544,risk,1018.223,lam0.600
+Iteration,15,ex,19263.064,risk,1810.635,lam0.600
+Iteration,16,ex,19113.313,risk,1621.8,lam0.600
+Iteration,17,ex,18564.12,risk,1492.289,lam0.600
+Iteration,18,ex,14598.915,risk,1182.984,lam0.600
+Iteration,19,ex,17071.162,risk,1597.665,lam0.600
+Iteration,20,ex,13602.83,risk,1117.453,lam0.600
+Iteration,21,ex,17025.022,risk,1660.332,lam0.600
+Iteration,22,ex,14816.361,risk,1525.642,lam0.600
+Iteration,23,ex,13034.686,risk,1264.91,lam 0.600
+Iteration,24,ex,14671.505,risk,1268.024,lam0.600
+Iteration,25,ex,12774.736,risk,924.943,lam0.600
+Iteration,26,ex,13653.822,risk,920.218,lam0.600
+Iteration,27,ex,13616.007,risk,1000.691,0     lam 0.6000
+Iteration,28,ex,14393.557,risk,1125.636,lam0.600
+Iteration,29,ex,14948.212,risk,1324.265,lam0.600
+Iteration,30,ex,16674.106,risk,1318.931,lam 0.600
+Iteration,31,ex,12930.65,risk,858.31,lam0.600
+Iteration,32,ex,13729.009,risk,1036.93,lam0.600
+Iteration,33,ex,13892.931,risk,1132.928,lam0.600
+Iteration,34,ex,14860.715,risk,1338.714,2     lam 0.6000
+Iteration,35,ex,12984.194,risk,1192.655,lam 0.600
+Iteration,36,ex,14454.524,risk,1156.004,lam0.600
+Iteration,37,ex,14625.195,risk,1219.821,3     lam 0.6000
+Iteration,38,ex,14625.195,risk,1219.821,lam 0.600
+Iteration,39,ex,14496.281,risk,1192.644,lam0.600
+Iteration,40,ex,15776.452,risk,1321.987,lam0.600
+Iteration,41,ex,14509.509,risk,1053.87,8     lam 0.6000
+Iteration,42,ex,14509.509,risk,1053.871,lam0.600
+Iteration,43,ex,15053.72,risk,1449.391,lam 0.600
+Iteration,44,ex,14700.715,risk,1233.841,5     lam 0.6000
+Iteration,45,ex,17404.598,risk,1439.639,lam0.600
+Iteration,46,ex,17404.598,risk,1439.639,lam 0.600
+Iteration,47,ex,17404.598,risk,1439.639,lam0.600
+Iteration,48,ex,17404.598,risk,1439.639,5     lam 0.6000
+Iteration,49,ex,17404.598,risk,1439.639,lam 0.600
+Iteration,1,ex,12159.536,risk,905.123,lam0.620
+Iteration,2,ex,13205.055,risk,1021.156,lam0.620
+Iteration,3,ex,15092.501,risk,1130.318,lam0.620
+Iteration,4,ex,20614.982,risk,1703.058,lam0.620
+Iteration,5,ex,15048.863,risk,1158.217,lam0.620
+Iteration,6,ex,14663.81,risk,1108.27,lam0.620
+Iteration,7,ex,14058.369,risk,1024.954,lam0.620
+Iteration,8,ex,14010.514,risk,1023.105,lam0.620
+Iteration,9,ex,12077.557,risk,905.427,lam0.620
+Iteration,10,ex,14150.995,risk,1002.545,lam0.620
+Iteration,11,ex,13889.59,risk,931.006,lam0.620
+Iteration,12,ex,13097.325,risk,980.354,lam0.620
+Iteration,13,ex,14029.83,risk,948.353,lam0.620
+Iteration,14,ex,14218.195,risk,967.312,lam0.620
+Iteration,15,ex,19905.166,risk,1720.103,lam0.620
+Iteration,16,ex,19750.424,risk,1540.71,lam0.620
+Iteration,17,ex,19182.924,risk,1417.674,lam0.620
+Iteration,18,ex,15085.545,risk,1123.835,lam0.620
+Iteration,19,ex,17640.201,risk,1517.782,lam0.620
+Iteration,20,ex,14056.258,risk,1061.58,lam0.620
+Iteration,21,ex,17592.523,risk,1577.316,lam0.620
+Iteration,22,ex,15310.24,risk,1449.36,lam0.620
+Iteration,23,ex,13469.175,risk,1201.665,lam 0.620
+Iteration,24,ex,15160.555,risk,1204.622,lam0.620
+Iteration,25,ex,13200.561,risk,878.696,lam0.620
+Iteration,26,ex,14108.95,risk,874.207,lam0.620
+Iteration,27,ex,14069.874,risk,950.6564,lam 0.6200
+Iteration,28,ex,14873.342,risk,1069.354,lam0.620
+Iteration,29,ex,15446.485,risk,1258.051,lam0.620
+Iteration,30,ex,17229.909,risk,1252.984,lam 0.620
+Iteration,31,ex,13361.672,risk,815.395,lam0.620
+Iteration,32,ex,14186.642,risk,985.084,lam0.620
+Iteration,33,ex,14356.029,risk,1076.281,lam0.620
+Iteration,34,ex,15356.072,risk,1271.778,5     lam 0.6200
+Iteration,35,ex,13417,risk,1133.023,lam 0.620
+Iteration,36,ex,14936.341,risk,1098.204,lam0.620
+Iteration,37,ex,15112.702,risk,1158.83,3     lam 0.6200
+Iteration,38,ex,15112.702,risk,1158.83,lam 0.620
+Iteration,39,ex,14979.49,risk,1133.012,lam0.620
+Iteration,40,ex,16302.333,risk,1255.888,lam0.620
+Iteration,41,ex,14993.159,risk,1001.177,3     lam 0.6200
+Iteration,42,ex,14993.159,risk,1001.177,lam0.620
+Iteration,43,ex,15555.51,risk,1376.922,lam 0.620
+Iteration,44,ex,15190.738,risk,1172.149,4     lam 0.6200
+Iteration,45,ex,17984.752,risk,1367.658,lam0.620
+Iteration,46,ex,17984.752,risk,1367.658,lam 0.620
+Iteration,47,ex,17984.752,risk,1367.658,lam0.620
+Iteration,48,ex,17984.752,risk,1367.657,5     lam 0.6200
+Iteration,49,ex,17984.752,risk,1367.658,lam 0.620
+Iteration,1,ex,12551.779,risk,857.485,lam0.640
+Iteration,2,ex,13631.024,risk,967.411,lam0.640
+Iteration,3,ex,15579.356,risk,1070.828,lam0.640
+Iteration,4,ex,21279.981,risk,1613.423,lam0.640
+Iteration,5,ex,15534.31,risk,1097.258,lam0.640
+Iteration,6,ex,15136.836,risk,1049.94,lam0.640
+Iteration,7,ex,14511.865,risk,971.009,lam0.640
+Iteration,8,ex,14462.466,risk,969.258,lam0.640
+Iteration,9,ex,12467.156,risk,857.773,lam0.640
+Iteration,10,ex,14607.479,risk,949.78,lam0.640
+Iteration,11,ex,14337.641,risk,882.005,lam0.640
+Iteration,12,ex,13519.82,risk,928.757,lam0.640
+Iteration,13,ex,14482.405,risk,898.44,lam0.640
+Iteration,14,ex,14676.847,risk,916.401,lam0.640
+Iteration,15,ex,20547.268,risk,1629.571,lam0.640
+Iteration,16,ex,20387.534,risk,1459.62,lam0.640
+Iteration,17,ex,19801.728,risk,1343.06,lam0.640
+Iteration,18,ex,15572.176,risk,1064.686,lam0.640
+Iteration,19,ex,18209.239,risk,1437.899,lam0.640
+Iteration,20,ex,14509.686,risk,1005.707,lam0.640
+Iteration,21,ex,18160.024,risk,1494.299,lam0.640
+Iteration,22,ex,15804.118,risk,1373.078,lam0.640
+Iteration,23,ex,13903.665,risk,1138.419,lam 0.640
+Iteration,24,ex,15649.605,risk,1141.221,lam0.640
+Iteration,25,ex,13626.385,risk,832.449,lam0.640
+Iteration,26,ex,14564.077,risk,828.196,lam0.640
+Iteration,27,ex,14523.741,risk,900.6219,lam 0.6400
+Iteration,28,ex,15353.127,risk,1013.072,lam0.640
+Iteration,29,ex,15944.759,risk,1191.838,lam0.640
+Iteration,30,ex,17785.713,risk,1187.038,lam 0.640
+Iteration,31,ex,13792.693,risk,772.479,lam0.640
+Iteration,32,ex,14644.276,risk,933.237,lam0.640
+Iteration,33,ex,14819.127,risk,1019.635,lam0.640
+Iteration,34,ex,15851.43,risk,1204.842,8     lam 0.6400
+Iteration,35,ex,13849.806,risk,1073.39,lam 0.640
+Iteration,36,ex,15418.159,risk,1040.404,lam0.640
+Iteration,37,ex,15600.208,risk,1097.839,2     lam 0.6400
+Iteration,38,ex,15600.208,risk,1097.839,lam 0.640
+Iteration,39,ex,15462.7,risk,1073.38,lam0.640
+Iteration,40,ex,16828.215,risk,1189.788,lam0.640
+Iteration,41,ex,15476.809,risk,948.4837,lam 0.6400
+Iteration,42,ex,15476.809,risk,948.484,lam0.640
+Iteration,43,ex,16057.301,risk,1304.452,lam 0.640
+Iteration,44,ex,15680.762,risk,1110.457,4     lam 0.6400
+Iteration,45,ex,18564.905,risk,1295.676,lam0.640
+Iteration,46,ex,18564.905,risk,1295.676,lam 0.640
+Iteration,47,ex,18564.905,risk,1295.676,lam0.640
+Iteration,48,ex,18564.905,risk,1295.675,5     lam 0.6400
+Iteration,49,ex,18564.905,risk,1295.676,lam 0.640
+Iteration,1,ex,12944.022,risk,809.847,lam0.660
+Iteration,2,ex,14056.994,risk,913.666,lam0.660
+Iteration,3,ex,16066.21,risk,1011.337,lam0.660
+Iteration,4,ex,21944.981,risk,1523.788,lam0.660
+Iteration,5,ex,16019.757,risk,1036.3,lam0.660
+Iteration,6,ex,15609.863,risk,991.61,lam0.660
+Iteration,7,ex,14965.361,risk,917.064,lam0.660
+Iteration,8,ex,14914.418,risk,915.41,lam0.660
+Iteration,9,ex,12856.755,risk,810.119,lam0.660
+Iteration,10,ex,15063.962,risk,897.014,lam0.660
+Iteration,11,ex,14785.692,risk,833.005,lam0.660
+Iteration,12,ex,13942.314,risk,877.159,lam0.660
+Iteration,13,ex,14934.98,risk,848.527,lam0.660
+Iteration,14,ex,15135.498,risk,865.49,lam0.660
+Iteration,15,ex,21189.37,risk,1539.039,lam0.660
+Iteration,16,ex,21024.645,risk,1378.53,lam0.660
+Iteration,17,ex,20420.532,risk,1268.445,lam0.660
+Iteration,18,ex,16058.806,risk,1005.536,lam0.660
+Iteration,19,ex,18778.278,risk,1358.015,lam0.660
+Iteration,20,ex,14963.113,risk,949.835,lam0.660
+Iteration,21,ex,18727.524,risk,1411.283,lam0.660
+Iteration,22,ex,16297.997,risk,1296.795,lam0.660
+Iteration,23,ex,14338.154,risk,1075.174,lam 0.660
+Iteration,24,ex,16138.655,risk,1077.82,lam0.660
+Iteration,25,ex,14052.21,risk,786.202,lam0.660
+Iteration,26,ex,15019.204,risk,782.185,lam0.660
+Iteration,27,ex,14977.608,risk,850.5873,lam 0.6600
+Iteration,28,ex,15832.913,risk,956.791,lam0.660
+Iteration,29,ex,16443.033,risk,1125.625,lam0.660
+Iteration,30,ex,18341.516,risk,1121.091,lam 0.660
+Iteration,31,ex,14223.715,risk,729.564,lam0.660
+Iteration,32,ex,15101.909,risk,881.391,lam0.660
+Iteration,33,ex,15282.224,risk,962.989,lam0.660
+Iteration,34,ex,16346.787,risk,1137.907,0     lam 0.6600
+Iteration,35,ex,14282.613,risk,1013.757,lam 0.660
+Iteration,36,ex,15899.976,risk,982.603,lam0.660
+Iteration,37,ex,16087.715,risk,1036.848,1     lam 0.6600
+Iteration,38,ex,16087.715,risk,1036.848,lam 0.660
+Iteration,39,ex,15945.909,risk,1013.747,lam0.660
+Iteration,40,ex,17354.097,risk,1123.689,lam0.660
+Iteration,41,ex,15960.459,risk,895.7902,lam 0.6600
+Iteration,42,ex,15960.459,risk,895.79,lam0.660
+Iteration,43,ex,16559.092,risk,1231.983,lam 0.660
+Iteration,44,ex,16170.786,risk,1048.765,3     lam 0.6600
+Iteration,45,ex,19145.058,risk,1223.694,lam0.660
+Iteration,46,ex,19145.058,risk,1223.694,lam 0.660
+Iteration,47,ex,19145.058,risk,1223.694,lam0.660
+Iteration,48,ex,19145.058,risk,1223.693,6     lam 0.6600
+Iteration,49,ex,19145.058,risk,1223.694,lam 0.660
+Iteration,1,ex,13336.265,risk,762.209,lam0.680
+Iteration,2,ex,14482.963,risk,859.921,lam0.680
+Iteration,3,ex,16553.065,risk,951.847,lam0.680
+Iteration,4,ex,22609.98,risk,1434.154,lam0.680
+Iteration,5,ex,16505.205,risk,975.341,lam0.680
+Iteration,6,ex,16082.889,risk,933.28,lam0.680
+Iteration,7,ex,15418.856,risk,863.119,lam0.680
+Iteration,8,ex,15366.37,risk,861.562,lam0.680
+Iteration,9,ex,13246.353,risk,762.465,lam0.680
+Iteration,10,ex,15520.446,risk,844.249,lam0.680
+Iteration,11,ex,15233.744,risk,784.005,lam0.680
+Iteration,12,ex,14364.808,risk,825.561,lam0.680
+Iteration,13,ex,15387.556,risk,798.613,lam0.680
+Iteration,14,ex,15594.15,risk,814.579,lam0.680
+Iteration,15,ex,21831.472,risk,1448.508,lam0.680
+Iteration,16,ex,21661.755,risk,1297.44,lam0.680
+Iteration,17,ex,21039.336,risk,1193.831,lam0.680
+Iteration,18,ex,16545.437,risk,946.387,lam0.680
+Iteration,19,ex,19347.317,risk,1278.132,lam0.680
+Iteration,20,ex,15416.541,risk,893.962,lam0.680
+Iteration,21,ex,19295.025,risk,1328.266,lam0.680
+Iteration,22,ex,16791.876,risk,1220.513,lam0.680
+Iteration,23,ex,14772.644,risk,1011.928,lam 0.680
+Iteration,24,ex,16627.705,risk,1014.419,lam0.680
+Iteration,25,ex,14478.034,risk,739.954,lam0.680
+Iteration,26,ex,15474.332,risk,736.174,lam0.680
+Iteration,27,ex,15431.475,risk,800.5528,lam 0.6800
+Iteration,28,ex,16312.698,risk,900.509,lam0.680
+Iteration,29,ex,16941.307,risk,1059.412,lam0.680
+Iteration,30,ex,18897.32,risk,1055.145,lam 0.680
+Iteration,31,ex,14654.737,risk,686.648,lam0.680
+Iteration,32,ex,15559.543,risk,829.544,lam0.680
+Iteration,33,ex,15745.322,risk,906.342,lam0.680
+Iteration,34,ex,16842.144,risk,1070.971,3     lam 0.6800
+Iteration,35,ex,14715.419,risk,954.124,lam 0.680
+Iteration,36,ex,16381.794,risk,924.803,lam0.680
+Iteration,37,ex,16575.221,risk,975.8571,lam 0.6800
+Iteration,38,ex,16575.221,risk,975.857,lam 0.680
+Iteration,39,ex,16429.118,risk,954.115,lam0.680
+Iteration,40,ex,17879.978,risk,1057.59,lam0.680
+Iteration,41,ex,16444.11,risk,843.0966,lam 0.6800
+Iteration,42,ex,16444.11,risk,843.097,lam0.680
+Iteration,43,ex,17060.882,risk,1159.513,lam 0.680
+Iteration,44,ex,16660.81,risk,987.0732,lam 0.6800
+Iteration,45,ex,19725.211,risk,1151.712,lam0.680
+Iteration,46,ex,19725.211,risk,1151.712,lam 0.680
+Iteration,47,ex,19725.211,risk,1151.712,lam0.680
+Iteration,48,ex,19725.211,risk,1151.711,6     lam 0.6800
+Iteration,49,ex,19725.211,risk,1151.712,lam 0.680
+Iteration,1,ex,13728.508,risk,714.57,lam0.700
+Iteration,2,ex,14908.933,risk,806.176,lam0.700
+Iteration,3,ex,17039.92,risk,892.357,lam0.700
+Iteration,4,ex,23274.98,risk,1344.519,lam0.700
+Iteration,5,ex,16990.652,risk,914.382,lam0.700
+Iteration,6,ex,16555.915,risk,874.95,lam0.700
+Iteration,7,ex,15872.352,risk,809.174,lam0.700
+Iteration,8,ex,15818.322,risk,807.715,lam0.700
+Iteration,9,ex,13635.952,risk,714.811,lam0.700
+Iteration,10,ex,15976.93,risk,791.483,lam0.700
+Iteration,11,ex,15681.795,risk,735.005,lam0.700
+Iteration,12,ex,14787.303,risk,773.964,lam0.700
+Iteration,13,ex,15840.131,risk,748.7,lam0.700
+Iteration,14,ex,16052.801,risk,763.668,lam0.700
+Iteration,15,ex,22473.574,risk,1357.976,lam0.700
+Iteration,16,ex,22298.866,risk,1216.35,lam0.700
+Iteration,17,ex,21658.14,risk,1119.216,lam0.700
+Iteration,18,ex,17032.067,risk,887.238,lam0.700
+Iteration,19,ex,19916.355,risk,1198.249,lam0.700
+Iteration,20,ex,15869.969,risk,838.089,lam0.700
+Iteration,21,ex,19862.526,risk,1245.249,lam0.700
+Iteration,22,ex,17285.754,risk,1144.231,lam0.700
+Iteration,23,ex,15207.133,risk,948.683,lam 0.700
+Iteration,24,ex,17116.756,risk,951.018,lam0.700
+Iteration,25,ex,14903.859,risk,693.7073,lam 0.7000
+Iteration,26,ex,15311.294,risk,937.16,lam0.700
+Iteration,27,ex,16792.483,risk,844.227,lam0.700
+Iteration,28,ex,17439.58,risk,993.198,lam0.700
+Iteration,29,ex,19453.123,risk,989.198,lam0.700
+Iteration,30,ex,18594.361,risk,1074.909,lam0.700
+Iteration,31,ex,15101.721,risk,698.218,lam0.700
+Iteration,32,ex,18331.118,risk,1013.337,lam0.700
+Iteration,33,ex,16163.3,risk,718.737,lam 0.700
+Iteration,34,ex,15714.037,risk,800.8394,lam 0.7000
+Iteration,35,ex,15714.037,risk,800.839,lam0.700
+Iteration,36,ex,15178.089,risk,678.587,lam 0.700
+Iteration,37,ex,15085.758,risk,643.733,lam0.700
+Iteration,38,ex,14724.796,risk,631.535,lam0.700
+Iteration,39,ex,16208.42,risk,849.696,lam0.700
+Iteration,40,ex,17337.501,risk,1004.035,6     lam 0.7000
+Iteration,41,ex,15148.226,risk,894.492,lam 0.700
+Iteration,42,ex,16863.611,risk,867.003,lam0.700
+Iteration,43,ex,17117.026,risk,829.1218,lam 0.7000
+Iteration,44,ex,17117.026,risk,829.122,lam 0.700
+Iteration,45,ex,17117.026,risk,829.122,lam0.700
+Iteration,46,ex,18405.86,risk,991.49,lam0.700
+Iteration,47,ex,16927.76,risk,790.4031,lam 0.7000
+Iteration,48,ex,16927.76,risk,790.403,lam0.700
+Iteration,49,ex,17562.673,risk,1087.044,lam 0.700
+Iteration,1,ex,14120.751,risk,666.932,lam0.720
+Iteration,2,ex,15334.902,risk,752.431,lam0.720
+Iteration,3,ex,17526.775,risk,832.866,lam0.720
+Iteration,4,ex,23939.979,risk,1254.884,lam0.720
+Iteration,5,ex,17476.099,risk,853.423,lam0.720
+Iteration,6,ex,17028.941,risk,816.62,lam0.720
+Iteration,7,ex,16325.848,risk,755.229,lam0.720
+Iteration,8,ex,16270.274,risk,753.867,lam0.720
+Iteration,9,ex,14025.55,risk,667.157,lam0.720
+Iteration,10,ex,16433.413,risk,738.718,lam0.720
+Iteration,11,ex,16129.846,risk,686.004,lam0.720
+Iteration,12,ex,15209.797,risk,722.366,lam0.720
+Iteration,13,ex,16292.706,risk,698.787,lam0.720
+Iteration,14,ex,16511.453,risk,712.756,lam0.720
+Iteration,15,ex,23115.676,risk,1267.444,lam0.720
+Iteration,16,ex,22935.976,risk,1135.26,lam0.720
+Iteration,17,ex,22276.944,risk,1044.602,lam0.720
+Iteration,18,ex,17518.698,risk,828.089,lam0.720
+Iteration,19,ex,20485.394,risk,1118.366,lam0.720
+Iteration,20,ex,16323.396,risk,782.217,lam0.720
+Iteration,21,ex,20430.027,risk,1162.233,lam0.720
+Iteration,22,ex,17779.633,risk,1067.949,lam0.720
+Iteration,23,ex,15641.623,risk,885.437,lam 0.720
+Iteration,24,ex,17605.806,risk,887.617,lam0.720
+Iteration,25,ex,15329.683,risk,647.4601,lam 0.7200
+Iteration,26,ex,15748.759,risk,874.683,lam0.720
+Iteration,27,ex,17272.268,risk,787.945,lam0.720
+Iteration,28,ex,17937.854,risk,926.985,lam0.720
+Iteration,29,ex,20008.927,risk,923.252,lam0.720
+Iteration,30,ex,19125.628,risk,1003.248,lam0.720
+Iteration,31,ex,15533.199,risk,651.67,lam0.720
+Iteration,32,ex,18854.864,risk,945.781,lam0.720
+Iteration,33,ex,16625.109,risk,670.821,lam 0.720
+Iteration,34,ex,15516.78,risk,600.817,lam0.720
+Iteration,35,ex,15145.504,risk,589.432,lam0.720
+Iteration,36,ex,16671.518,risk,793.05,lam0.720
+Iteration,37,ex,17832.858,risk,937.0999,lam 0.7200
+Iteration,38,ex,15581.032,risk,834.859,lam 0.720
+Iteration,39,ex,17345.428,risk,809.203,lam0.720
+Iteration,40,ex,17606.084,risk,773.847,lam 0.7200
+Iteration,41,ex,17606.084,risk,773.847,lam 0.720
+Iteration,42,ex,17606.084,risk,773.847,lam0.720
+Iteration,43,ex,18931.742,risk,925.391,lam0.720
+Iteration,44,ex,17411.41,risk,737.7096,lam 0.7200
+Iteration,45,ex,17411.41,risk,737.71,lam0.720
+Iteration,46,ex,18064.463,risk,1014.574,lam 0.720
+Iteration,47,ex,17640.857,risk,863.6891,lam 0.7200
+Iteration,48,ex,17429.582,risk,962.466,lam0.720
+Iteration,49,ex,17429.582,risk,962.466,lam 0.720
+Iteration,1,ex,14512.994,risk,619.294,lam0.740
+Iteration,2,ex,15760.872,risk,698.686,lam0.740
+Iteration,3,ex,18013.63,risk,773.376,lam0.740
+Iteration,4,ex,24604.978,risk,1165.25,lam0.740
+Iteration,5,ex,17961.546,risk,792.464,lam0.740
+Iteration,6,ex,17501.967,risk,758.29,lam0.740
+Iteration,7,ex,16779.344,risk,701.284,lam0.740
+Iteration,8,ex,16722.226,risk,700.019,lam0.740
+Iteration,9,ex,14415.149,risk,619.503,lam0.740
+Iteration,10,ex,16889.897,risk,685.952,lam0.740
+Iteration,11,ex,16577.898,risk,637.004,lam0.740
+Iteration,12,ex,15632.292,risk,670.769,lam0.740
+Iteration,13,ex,16745.281,risk,648.873,lam0.740
+Iteration,14,ex,16970.104,risk,661.845,lam0.740
+Iteration,15,ex,23757.778,risk,1176.913,lam0.740
+Iteration,16,ex,23573.087,risk,1054.17,lam0.740
+Iteration,17,ex,22895.748,risk,969.988,lam0.740
+Iteration,18,ex,18005.328,risk,768.94,lam0.740
+Iteration,19,ex,21054.433,risk,1038.482,lam0.740
+Iteration,20,ex,16776.824,risk,726.344,lam0.740
+Iteration,21,ex,20997.527,risk,1079.216,lam0.740
+Iteration,22,ex,18273.512,risk,991.667,lam0.740
+Iteration,23,ex,16076.112,risk,822.192,lam 0.740
+Iteration,24,ex,18094.856,risk,824.215,lam0.740
+Iteration,25,ex,15755.508,risk,601.213,lam 0.7400
+Iteration,26,ex,16186.225,risk,812.206,lam0.740
+Iteration,27,ex,17752.054,risk,731.663,lam0.740
+Iteration,28,ex,18436.128,risk,860.772,lam0.740
+Iteration,29,ex,20564.73,risk,857.305,lam0.740
+Iteration,30,ex,19656.896,risk,931.588,lam0.740
+Iteration,31,ex,15964.676,risk,605.122,lam0.740
+Iteration,32,ex,19378.611,risk,878.226,lam0.740
+Iteration,33,ex,17086.917,risk,622.905,lam 0.740
+Iteration,34,ex,15947.802,risk,557.902,lam0.740
+Iteration,35,ex,15566.212,risk,547.33,lam0.740
+Iteration,36,ex,17134.615,risk,736.403,lam0.740
+Iteration,37,ex,18328.216,risk,870.1642,lam 0.7400
+Iteration,38,ex,16013.839,risk,775.226,lam 0.740
+Iteration,39,ex,17827.246,risk,751.403,lam0.740
+Iteration,40,ex,18095.142,risk,718.5722,lam 0.7400
+Iteration,41,ex,18095.142,risk,718.572,lam 0.740
+Iteration,42,ex,18095.142,risk,718.572,lam0.740
+Iteration,43,ex,19457.624,risk,859.292,lam0.740
+Iteration,44,ex,17895.061,risk,685.016,lam 0.7400
+Iteration,45,ex,17895.061,risk,685.016,lam0.740
+Iteration,46,ex,18566.254,risk,942.104,lam 0.740
+Iteration,47,ex,18130.881,risk,801.997,lam 0.7400
+Iteration,48,ex,17913.737,risk,893.718,lam0.740
+Iteration,49,ex,17913.737,risk,893.718,lam 0.740
+Iteration,1,ex,14905.237,risk,571.656,lam0.760
+Iteration,2,ex,16186.841,risk,644.941,lam0.760
+Iteration,3,ex,18500.485,risk,713.885,lam0.760
+Iteration,4,ex,25269.978,risk,1075.615,lam0.760
+Iteration,5,ex,18446.993,risk,731.506,lam0.760
+Iteration,6,ex,17974.993,risk,699.96,lam0.760
+Iteration,7,ex,17232.84,risk,647.339,lam0.760
+Iteration,8,ex,17174.178,risk,646.172,lam0.760
+Iteration,9,ex,14804.748,risk,571.849,lam0.760
+Iteration,10,ex,17346.381,risk,633.187,lam0.760
+Iteration,11,ex,17025.949,risk,588.004,lam0.760
+Iteration,12,ex,16054.786,risk,619.171,lam0.760
+Iteration,13,ex,17197.856,risk,598.96,lam0.760
+Iteration,14,ex,17428.756,risk,610.934,lam0.760
+Iteration,15,ex,24399.881,risk,1086.381,lam0.760
+Iteration,16,ex,24210.197,risk,973.08,lam0.760
+Iteration,17,ex,23514.552,risk,895.373,lam0.760
+Iteration,18,ex,18491.959,risk,709.79,lam0.760
+Iteration,19,ex,21623.472,risk,958.599,lam0.760
+Iteration,20,ex,17230.252,risk,670.472,lam0.760
+Iteration,21,ex,21565.028,risk,996.199,lam0.760
+Iteration,22,ex,18767.391,risk,915.385,lam0.760
+Iteration,23,ex,16510.602,risk,758.946,lam 0.760
+Iteration,24,ex,18583.906,risk,760.814,lam0.760
+Iteration,25,ex,16181.333,risk,554.9658,lam 0.7600
+Iteration,26,ex,16623.691,risk,749.728,lam0.760
+Iteration,27,ex,18231.839,risk,675.382,lam0.760
+Iteration,28,ex,18934.402,risk,794.559,lam0.760
+Iteration,29,ex,21120.534,risk,791.359,lam0.760
+Iteration,30,ex,20188.163,risk,859.927,lam0.760
+Iteration,31,ex,16396.154,risk,558.574,lam0.760
+Iteration,32,ex,19902.357,risk,810.67,lam0.760
+Iteration,33,ex,17548.726,risk,574.99,lam 0.760
+Iteration,34,ex,16378.823,risk,514.986,lam0.760
+Iteration,35,ex,15986.921,risk,505.228,lam0.760
+Iteration,36,ex,17597.713,risk,679.757,lam0.760
+Iteration,37,ex,18823.573,risk,803.2285,lam 0.7600
+Iteration,38,ex,16446.645,risk,715.593,lam 0.760
+Iteration,39,ex,18309.063,risk,693.602,lam0.760
+Iteration,40,ex,18584.2,risk,663.2974,lam 0.7600
+Iteration,41,ex,18584.2,risk,663.297,lam 0.760
+Iteration,42,ex,18584.2,risk,663.297,lam0.760
+Iteration,43,ex,19983.505,risk,793.192,lam0.760
+Iteration,44,ex,18378.711,risk,632.3225,lam 0.7600
+Iteration,45,ex,18378.711,risk,632.322,lam0.760
+Iteration,46,ex,19068.045,risk,869.635,lam 0.760
+Iteration,47,ex,18620.905,risk,740.3049,lam 0.7600
+Iteration,48,ex,18397.892,risk,824.971,lam0.760
+Iteration,49,ex,18397.892,risk,824.971,lam 0.760
+Iteration,1,ex,15297.48,risk,524.018,lam0.780
+Iteration,2,ex,16612.811,risk,591.196,lam0.780
+Iteration,3,ex,18987.34,risk,654.395,lam0.780
+Iteration,4,ex,25934.977,risk,985.981,lam0.780
+Iteration,5,ex,18932.441,risk,670.547,lam0.780
+Iteration,6,ex,18448.019,risk,641.63,lam0.780
+Iteration,7,ex,17686.335,risk,593.395,lam0.780
+Iteration,8,ex,17626.13,risk,592.324,lam0.780
+Iteration,9,ex,15194.346,risk,524.194,lam0.780
+Iteration,10,ex,17802.864,risk,580.421,lam0.780
+Iteration,11,ex,17474,risk,539.003,lam0.780
+Iteration,12,ex,16477.28,risk,567.573,lam0.780
+Iteration,13,ex,17650.431,risk,549.047,lam0.780
+Iteration,14,ex,17887.407,risk,560.023,lam0.780
+Iteration,15,ex,25041.983,risk,995.849,lam0.780
+Iteration,16,ex,24847.307,risk,891.99,lam0.780
+Iteration,17,ex,24133.356,risk,820.759,lam0.780
+Iteration,18,ex,18978.589,risk,650.641,lam0.780
+Iteration,19,ex,22192.51,risk,878.716,lam0.780
+Iteration,20,ex,17683.68,risk,614.599,lam0.780
+Iteration,21,ex,22132.529,risk,913.183,lam0.780
+Iteration,22,ex,19261.269,risk,839.103,lam0.780
+Iteration,23,ex,16945.091,risk,695.701,lam 0.780
+Iteration,24,ex,19072.956,risk,697.413,lam0.780
+Iteration,25,ex,17763.457,risk,604.8079,lam 0.7800
+Iteration,26,ex,17882.571,risk,612.734,lam 0.780
+Iteration,27,ex,19318.93,risk,736.293,lam0.780
+Iteration,28,ex,17408.927,risk,535.7104,lam 0.7800
+Iteration,29,ex,16879.452,risk,655.961,lam 0.780
+Iteration,30,ex,17812.965,risk,521.354,lam0.780
+Iteration,31,ex,18060.811,risk,623.1103,lam 0.7800
+Iteration,32,ex,22420.586,risk,807.434,lam 0.780
+Iteration,33,ex,19051.791,risk,612.375,lam0.780
+Iteration,34,ex,16809.845,risk,472.0707,lam 0.7800
+Iteration,35,ex,16809.845,risk,472.071,lam 0.780
+Iteration,36,ex,16809.845,risk,472.071,lam0.780
+Iteration,37,ex,19916.021,risk,668.5055,lam 0.7800
+Iteration,38,ex,19916.021,risk,668.506,lam 0.780
+Iteration,39,ex,19916.021,risk,668.506,lam0.780
+Iteration,40,ex,18829.394,risk,658.1678,lam 0.7800
+Iteration,41,ex,18829.394,risk,658.168,lam 0.780
+Iteration,42,ex,18829.394,risk,658.168,lam0.780
+Iteration,43,ex,18829.394,risk,658.1678,lam 0.7800
+Iteration,44,ex,18829.394,risk,658.168,lam 0.780
+Iteration,45,ex,18829.394,risk,658.168,lam0.780
+Iteration,46,ex,18829.394,risk,658.1678,lam 0.7800
+Iteration,47,ex,18829.394,risk,658.168,lam 0.780
+Iteration,48,ex,18829.394,risk,658.168,lam0.780
+Iteration,49,ex,18829.394,risk,658.168,lam0.780
+Iteration,1,ex,15689.724,risk,476.38,lam0.800
+Iteration,2,ex,17038.78,risk,537.451,lam0.800
+Iteration,3,ex,19474.195,risk,594.904,lam0.800
+Iteration,4,ex,26599.977,risk,896.346,lam0.800
+Iteration,5,ex,19417.888,risk,609.588,lam0.800
+Iteration,6,ex,18921.046,risk,583.3,lam0.800
+Iteration,7,ex,18139.831,risk,539.45,lam0.800
+Iteration,8,ex,18078.082,risk,538.476,lam0.800
+Iteration,9,ex,15583.945,risk,476.54,lam0.800
+Iteration,10,ex,18259.348,risk,527.655,lam0.800
+Iteration,11,ex,17922.051,risk,490.003,lam0.800
+Iteration,12,ex,16899.775,risk,515.976,lam0.800
+Iteration,13,ex,18103.007,risk,499.133,lam0.800
+Iteration,14,ex,18346.058,risk,509.112,lam0.800
+Iteration,15,ex,25684.085,risk,905.317,lam0.800
+Iteration,16,ex,25484.418,risk,810.9,lam0.800
+Iteration,17,ex,24752.16,risk,746.144,lam0.800
+Iteration,18,ex,19465.22,risk,591.492,lam0.800
+Iteration,19,ex,22761.549,risk,798.833,lam0.800
+Iteration,20,ex,18137.107,risk,558.726,lam0.800
+Iteration,21,ex,22700.03,risk,830.166,lam0.800
+Iteration,22,ex,19755.148,risk,762.821,lam0.800
+Iteration,23,ex,17379.581,risk,632.455,lam 0.800
+Iteration,24,ex,19562.006,risk,634.012,lam0.800
+Iteration,25,ex,18218.93,risk,549.8254,lam 0.8000
+Iteration,26,ex,18341.099,risk,557.031,lam 0.800
+Iteration,27,ex,19814.287,risk,669.357,lam0.800
+Iteration,28,ex,17855.31,risk,487.0095,lam 0.8000
+Iteration,29,ex,17312.258,risk,596.328,lam 0.800
+Iteration,30,ex,18269.708,risk,473.958,lam0.800
+Iteration,31,ex,18523.908,risk,566.4639,lam 0.8000
+Iteration,32,ex,22995.473,risk,734.031,lam 0.800
+Iteration,33,ex,19540.299,risk,556.705,lam0.800
+Iteration,34,ex,17240.867,risk,429.1551,lam 0.8000
+Iteration,35,ex,17240.867,risk,429.155,lam 0.800
+Iteration,36,ex,17240.867,risk,429.155,lam0.800
+Iteration,37,ex,20426.688,risk,607.7323,lam 0.8000
+Iteration,38,ex,20426.688,risk,607.732,lam 0.800
+Iteration,39,ex,20426.688,risk,607.732,lam0.800
+Iteration,40,ex,19312.199,risk,598.3343,lam 0.8000
+Iteration,41,ex,19312.199,risk,598.334,lam 0.800
+Iteration,42,ex,19312.199,risk,598.334,lam0.800
+Iteration,43,ex,19312.199,risk,598.3343,lam 0.8000
+Iteration,44,ex,19312.199,risk,598.334,lam 0.800
+Iteration,45,ex,19312.199,risk,598.334,lam0.800
+Iteration,46,ex,19312.199,risk,598.3343,lam 0.8000
+Iteration,47,ex,19312.199,risk,598.334,lam 0.800
+Iteration,48,ex,19312.199,risk,598.334,lam0.800
+Iteration,49,ex,19312.199,risk,598.334,lam0.800
+Iteration,1,ex,16081.967,risk,428.742,lam0.820
+Iteration,2,ex,17464.75,risk,483.706,lam0.820
+Iteration,3,ex,19961.049,risk,535.414,lam0.820
+Iteration,4,ex,27264.976,risk,806.711,lam0.820
+Iteration,5,ex,19903.335,risk,548.629,lam0.820
+Iteration,6,ex,19394.072,risk,524.97,lam0.820
+Iteration,7,ex,18593.327,risk,485.505,lam0.820
+Iteration,8,ex,18530.034,risk,484.629,lam0.820
+Iteration,9,ex,15973.543,risk,428.886,lam0.820
+Iteration,10,ex,18715.832,risk,474.89,lam0.820
+Iteration,11,ex,18370.103,risk,441.003,lam0.820
+Iteration,12,ex,17322.269,risk,464.378,lam0.820
+Iteration,13,ex,18555.582,risk,449.22,lam0.820
+Iteration,14,ex,18804.71,risk,458.201,lam0.820
+Iteration,15,ex,26326.187,risk,814.786,lam0.820
+Iteration,16,ex,26121.528,risk,729.81,lam0.820
+Iteration,17,ex,25370.964,risk,671.53,lam0.820
+Iteration,18,ex,19951.85,risk,532.343,lam0.820
+Iteration,19,ex,23330.588,risk,718.949,lam0.820
+Iteration,20,ex,18590.535,risk,502.854,lam0.820
+Iteration,21,ex,23267.53,risk,747.15,lam0.820
+Iteration,22,ex,20249.027,risk,686.539,lam0.820
+Iteration,23,ex,17814.07,risk,569.21,lam 0.820
+Iteration,24,ex,20051.057,risk,570.611,lam0.820
+Iteration,25,ex,18674.404,risk,494.8428,lam 0.8200
+Iteration,26,ex,18799.626,risk,501.328,lam 0.820
+Iteration,27,ex,20309.644,risk,602.421,lam0.820
+Iteration,28,ex,18301.693,risk,438.3085,lam 0.8200
+Iteration,29,ex,17745.065,risk,536.695,lam 0.820
+Iteration,30,ex,18726.451,risk,426.562,lam0.820
+Iteration,31,ex,18987.006,risk,509.8175,lam 0.8200
+Iteration,32,ex,23570.359,risk,660.628,lam 0.820
+Iteration,33,ex,20028.806,risk,501.034,lam0.820
+Iteration,34,ex,17671.888,risk,386.2396,lam 0.8200
+Iteration,35,ex,17671.888,risk,386.24,lam 0.820
+Iteration,36,ex,17671.888,risk,386.24,lam0.820
+Iteration,37,ex,20937.355,risk,546.9591,lam 0.8200
+Iteration,38,ex,20937.355,risk,546.959,lam 0.820
+Iteration,39,ex,20937.355,risk,546.959,lam0.820
+Iteration,40,ex,19795.004,risk,538.5009,lam 0.8200
+Iteration,41,ex,19795.004,risk,538.501,lam 0.820
+Iteration,42,ex,19795.004,risk,538.501,lam0.820
+Iteration,43,ex,19795.004,risk,538.5009,lam 0.8200
+Iteration,44,ex,19795.004,risk,538.501,lam 0.820
+Iteration,45,ex,19795.004,risk,538.501,lam0.820
+Iteration,46,ex,19795.004,risk,538.5009,lam 0.8200
+Iteration,47,ex,19795.004,risk,538.501,lam 0.820
+Iteration,48,ex,19795.004,risk,538.501,lam0.820
+Iteration,49,ex,19795.004,risk,538.501,lam0.820
+Iteration,1,ex,16474.21,risk,381.104,lam0.840
+Iteration,2,ex,17890.719,risk,429.961,lam0.840
+Iteration,3,ex,20447.904,risk,475.924,lam0.840
+Iteration,4,ex,27929.976,risk,717.077,lam0.840
+Iteration,5,ex,20388.782,risk,487.67,lam0.840
+Iteration,6,ex,19867.098,risk,466.64,lam0.840
+Iteration,7,ex,19046.823,risk,431.56,lam0.840
+Iteration,8,ex,18981.986,risk,430.781,lam0.840
+Iteration,9,ex,16363.142,risk,381.232,lam0.840
+Iteration,10,ex,19172.316,risk,422.124,lam0.840
+Iteration,11,ex,18818.154,risk,392.002,lam0.840
+Iteration,12,ex,17744.763,risk,412.781,lam0.840
+Iteration,13,ex,19008.157,risk,399.307,lam0.840
+Iteration,14,ex,19263.361,risk,407.289,lam0.840
+Iteration,15,ex,26968.289,risk,724.254,lam0.840
+Iteration,16,ex,26758.639,risk,648.72,lam0.840
+Iteration,17,ex,25989.768,risk,596.915,lam0.840
+Iteration,18,ex,20438.481,risk,473.194,lam0.840
+Iteration,19,ex,23899.627,risk,639.066,lam0.840
+Iteration,20,ex,19043.963,risk,446.981,lam0.840
+Iteration,21,ex,23835.031,risk,664.133,lam0.840
+Iteration,22,ex,20742.905,risk,610.257,lam0.840
+Iteration,23,ex,18248.56,risk,505.964,lam 0.840
+Iteration,24,ex,20540.107,risk,507.209,lam0.840
+Iteration,25,ex,19129.877,risk,439.8603,lam 0.8400
+Iteration,26,ex,19258.154,risk,445.625,lam 0.840
+Iteration,27,ex,20805.001,risk,535.486,lam0.840
+Iteration,28,ex,18748.076,risk,389.6076,lam 0.8400
+Iteration,29,ex,18177.871,risk,477.062,lam 0.840
+Iteration,30,ex,19183.193,risk,379.166,lam0.840
+Iteration,31,ex,19450.104,risk,453.1712,lam 0.8400
+Iteration,32,ex,24145.246,risk,587.225,lam 0.840
+Iteration,33,ex,20517.314,risk,445.364,lam0.840
+Iteration,34,ex,18102.91,risk,343.3241,lam 0.8400
+Iteration,35,ex,18102.91,risk,343.324,lam 0.840
+Iteration,36,ex,18102.91,risk,343.324,lam0.840
+Iteration,37,ex,21448.022,risk,486.1859,lam 0.8400
+Iteration,38,ex,21448.022,risk,486.186,lam 0.840
+Iteration,39,ex,21448.022,risk,486.186,lam0.840
+Iteration,40,ex,20277.809,risk,478.6675,lam 0.8400
+Iteration,41,ex,20277.809,risk,478.667,lam 0.840
+Iteration,42,ex,20277.809,risk,478.667,lam0.840
+Iteration,43,ex,20277.809,risk,478.6675,lam 0.8400
+Iteration,44,ex,20277.809,risk,478.667,lam 0.840
+Iteration,45,ex,20277.809,risk,478.667,lam0.840
+Iteration,46,ex,20277.809,risk,478.6675,lam 0.8400
+Iteration,47,ex,20277.809,risk,478.667,lam 0.840
+Iteration,48,ex,20277.809,risk,478.667,lam0.840
+Iteration,49,ex,20277.809,risk,478.667,lam0.840
+Iteration,1,ex,16866.453,risk,333.466,lam0.860
+Iteration,2,ex,18316.689,risk,376.215,lam0.860
+Iteration,3,ex,20934.759,risk,416.433,lam0.860
+Iteration,4,ex,28594.975,risk,627.442,lam0.860
+Iteration,5,ex,20874.229,risk,426.712,lam0.860
+Iteration,6,ex,20340.124,risk,408.31,lam0.860
+Iteration,7,ex,19500.318,risk,377.615,lam0.860
+Iteration,8,ex,19433.938,risk,376.933,lam0.860
+Iteration,9,ex,16752.741,risk,333.578,lam0.860
+Iteration,10,ex,19628.799,risk,369.359,lam0.860
+Iteration,11,ex,19266.205,risk,343.002,lam0.860
+Iteration,12,ex,18167.258,risk,361.183,lam0.860
+Iteration,13,ex,19460.732,risk,349.393,lam0.860
+Iteration,14,ex,19722.013,risk,356.378,lam0.860
+Iteration,15,ex,27610.391,risk,633.722,lam0.860
+Iteration,16,ex,27395.749,risk,567.63,lam0.860
+Iteration,17,ex,26608.572,risk,522.301,lam0.860
+Iteration,18,ex,20925.111,risk,414.044,lam0.860
+Iteration,19,ex,24468.665,risk,559.183,lam0.860
+Iteration,20,ex,19497.39,risk,391.108,lam0.860
+Iteration,21,ex,24402.532,risk,581.116,lam0.860
+Iteration,22,ex,21236.784,risk,533.975,lam0.860
+Iteration,23,ex,18683.049,risk,442.719,lam 0.860
+Iteration,24,ex,21029.157,risk,443.808,lam0.860
+Iteration,25,ex,19585.35,risk,384.8778,lam 0.8600
+Iteration,26,ex,19716.681,risk,389.922,lam 0.860
+Iteration,27,ex,21300.359,risk,468.55,lam0.860
+Iteration,28,ex,19194.458,risk,340.9066,lam 0.8600
+Iteration,29,ex,18610.677,risk,417.429,lam 0.860
+Iteration,30,ex,19639.936,risk,331.771,lam0.860
+Iteration,31,ex,19913.202,risk,396.5248,lam 0.8600
+Iteration,32,ex,24720.133,risk,513.822,lam 0.860
+Iteration,33,ex,21005.821,risk,389.693,lam0.860
+Iteration,34,ex,18533.932,risk,300.4086,lam 0.8600
+Iteration,35,ex,18533.932,risk,300.409,lam 0.860
+Iteration,36,ex,18533.932,risk,300.409,lam0.860
+Iteration,37,ex,21958.689,risk,425.4126,lam 0.8600
+Iteration,38,ex,21958.689,risk,425.413,lam 0.860
+Iteration,39,ex,21958.689,risk,425.413,lam0.860
+Iteration,40,ex,20760.614,risk,418.834,lam 0.8600
+Iteration,41,ex,20760.614,risk,418.834,lam 0.860
+Iteration,42,ex,20760.614,risk,418.834,lam0.860
+Iteration,43,ex,20760.614,risk,418.834,lam 0.8600
+Iteration,44,ex,20760.614,risk,418.834,lam 0.860
+Iteration,45,ex,20760.614,risk,418.834,lam0.860
+Iteration,46,ex,20760.614,risk,418.834,lam 0.8600
+Iteration,47,ex,20760.614,risk,418.834,lam 0.860
+Iteration,48,ex,20760.614,risk,418.834,lam0.860
+Iteration,49,ex,20760.614,risk,418.834,lam0.860
+Iteration,1,ex,17258.696,risk,285.828,lam0.880
+Iteration,2,ex,18742.658,risk,322.47,lam0.880
+Iteration,3,ex,21421.614,risk,356.943,lam0.880
+Iteration,4,ex,29259.974,risk,537.808,lam0.880
+Iteration,5,ex,21359.677,risk,365.753,lam0.880
+Iteration,6,ex,20813.15,risk,349.98,lam0.880
+Iteration,7,ex,19953.814,risk,323.67,lam0.880
+Iteration,8,ex,19885.89,risk,323.086,lam0.880
+Iteration,9,ex,17142.339,risk,285.924,lam0.880
+Iteration,10,ex,20085.283,risk,316.593,lam0.880
+Iteration,11,ex,19714.257,risk,294.002,lam0.880
+Iteration,12,ex,18589.752,risk,309.586,lam0.880
+Iteration,13,ex,19913.307,risk,299.48,lam0.880
+Iteration,14,ex,20180.664,risk,305.467,lam0.880
+Iteration,15,ex,28252.493,risk,543.19,lam0.880
+Iteration,16,ex,28032.86,risk,486.54,lam0.880
+Iteration,17,ex,27227.376,risk,447.687,lam0.880
+Iteration,18,ex,21411.742,risk,354.895,lam0.880
+Iteration,19,ex,25037.704,risk,479.3,lam0.880
+Iteration,20,ex,19950.818,risk,335.236,lam0.880
+Iteration,21,ex,24970.033,risk,498.1,lam0.880
+Iteration,22,ex,21730.663,risk,457.693,lam0.880
+Iteration,23,ex,19117.539,risk,379.473,lam 0.880
+Iteration,24,ex,21518.207,risk,380.407,lam0.880
+Iteration,25,ex,20040.823,risk,329.8952,lam 0.8800
+Iteration,26,ex,20175.209,risk,334.219,lam 0.880
+Iteration,27,ex,21795.716,risk,401.614,lam0.880
+Iteration,28,ex,19640.841,risk,292.2057,lam 0.8800
+Iteration,29,ex,19043.484,risk,357.797,lam 0.880
+Iteration,30,ex,20096.679,risk,284.375,lam0.880
+Iteration,31,ex,20376.299,risk,339.8784,lam 0.8800
+Iteration,32,ex,25295.02,risk,440.418,lam 0.880
+Iteration,33,ex,21494.329,risk,334.023,lam0.880
+Iteration,34,ex,18964.953,risk,257.4931,lam 0.8800
+Iteration,35,ex,18964.953,risk,257.493,lam 0.880
+Iteration,36,ex,18964.953,risk,257.493,lam0.880
+Iteration,37,ex,22469.357,risk,364.6394,lam 0.8800
+Iteration,38,ex,22469.357,risk,364.639,lam 0.880
+Iteration,39,ex,22469.357,risk,364.639,lam0.880
+Iteration,40,ex,21243.419,risk,359.0006,lam 0.8800
+Iteration,41,ex,21243.419,risk,359.001,lam 0.880
+Iteration,42,ex,21243.419,risk,359.001,lam0.880
+Iteration,43,ex,21243.419,risk,359.0006,lam 0.8800
+Iteration,44,ex,21243.419,risk,359.001,lam 0.880
+Iteration,45,ex,21243.419,risk,359.001,lam0.880
+Iteration,46,ex,21243.419,risk,359.0006,lam 0.8800
+Iteration,47,ex,21243.419,risk,359.001,lam 0.880
+Iteration,48,ex,21243.419,risk,359.001,lam0.880
+Iteration,49,ex,21243.419,risk,359.001,lam0.880
+Iteration,1,ex,17650.939,risk,238.19,lam0.900
+Iteration,2,ex,19168.628,risk,268.725,lam0.900
+Iteration,3,ex,21908.469,risk,297.452,lam0.900
+Iteration,4,ex,29924.974,risk,448.173,lam0.900
+Iteration,5,ex,21845.124,risk,304.794,lam0.900
+Iteration,6,ex,21286.176,risk,291.65,lam0.900
+Iteration,7,ex,20407.31,risk,269.725,lam0.900
+Iteration,8,ex,20337.843,risk,269.238,lam0.900
+Iteration,9,ex,17531.938,risk,238.27,lam0.900
+Iteration,10,ex,20541.767,risk,263.828,lam0.900
+Iteration,11,ex,20162.308,risk,245.002,lam0.900
+Iteration,12,ex,19012.246,risk,257.988,lam0.900
+Iteration,13,ex,20365.882,risk,249.567,lam0.900
+Iteration,14,ex,20639.316,risk,254.556,lam0.900
+Iteration,15,ex,28894.595,risk,452.659,lam0.900
+Iteration,16,ex,28669.97,risk,405.45,lam0.900
+Iteration,17,ex,27846.18,risk,373.072,lam0.900
+Iteration,18,ex,21898.372,risk,295.746,lam0.900
+Iteration,19,ex,25606.743,risk,399.416,lam0.900
+Iteration,20,ex,20404.246,risk,279.363,lam0.900
+Iteration,21,ex,25537.533,risk,415.083,lam0.900
+Iteration,22,ex,22224.541,risk,381.41,lam0.900
+Iteration,23,ex,19552.028,risk,316.228,lam 0.900
+Iteration,24,ex,22007.257,risk,317.006,lam0.900
+Iteration,25,ex,20496.297,risk,274.9127,lam 0.9000
+Iteration,26,ex,20633.736,risk,278.516,lam 0.900
+Iteration,27,ex,22291.073,risk,334.679,lam0.900
+Iteration,28,ex,20087.224,risk,243.5047,lam 0.9000
+Iteration,29,ex,19476.29,risk,298.164,lam 0.900
+Iteration,30,ex,20553.422,risk,236.979,lam0.900
+Iteration,31,ex,20839.397,risk,283.232,lam 0.9000
+Iteration,32,ex,25869.907,risk,367.015,lam 0.900
+Iteration,33,ex,21982.836,risk,278.352,lam0.900
+Iteration,34,ex,19395.975,risk,214.5776,lam 0.9000
+Iteration,35,ex,19395.975,risk,214.578,lam 0.900
+Iteration,36,ex,19395.975,risk,214.578,lam0.900
+Iteration,37,ex,22980.024,risk,303.8662,lam 0.9000
+Iteration,38,ex,22980.024,risk,303.866,lam 0.900
+Iteration,39,ex,22980.024,risk,303.866,lam0.900
+Iteration,40,ex,21726.223,risk,299.1672,lam 0.9000
+Iteration,41,ex,21726.223,risk,299.167,lam 0.900
+Iteration,42,ex,21726.223,risk,299.167,lam0.900
+Iteration,43,ex,21726.223,risk,299.1672,lam 0.9000
+Iteration,44,ex,21726.223,risk,299.167,lam 0.900
+Iteration,45,ex,21726.223,risk,299.167,lam0.900
+Iteration,46,ex,21726.223,risk,299.1672,lam 0.9000
+Iteration,47,ex,21726.223,risk,299.167,lam 0.900
+Iteration,48,ex,21726.223,risk,299.167,lam0.900
+Iteration,49,ex,21726.223,risk,299.167,lam0.900
+Iteration,1,ex,18043.182,risk,190.552,lam0.920
+Iteration,2,ex,19594.597,risk,214.98,lam0.920
+Iteration,3,ex,22395.324,risk,237.962,lam0.920
+Iteration,4,ex,30589.973,risk,358.538,lam0.920
+Iteration,5,ex,22330.571,risk,243.835,lam0.920
+Iteration,6,ex,21759.202,risk,233.32,lam0.920
+Iteration,7,ex,20860.806,risk,215.78,lam0.920
+Iteration,8,ex,20789.795,risk,215.391,lam0.920
+Iteration,9,ex,17921.537,risk,190.616,lam0.920
+Iteration,10,ex,20998.25,risk,211.062,lam0.920
+Iteration,11,ex,20610.359,risk,196.001,lam0.920
+Iteration,12,ex,19434.741,risk,206.39,lam0.920
+Iteration,13,ex,20818.458,risk,199.653,lam0.920
+Iteration,14,ex,21097.967,risk,203.645,lam0.920
+Iteration,15,ex,29536.698,risk,362.127,lam0.920
+Iteration,16,ex,29307.081,risk,324.36,lam0.920
+Iteration,17,ex,28464.984,risk,298.458,lam0.920
+Iteration,18,ex,22385.003,risk,236.597,lam0.920
+Iteration,19,ex,26175.781,risk,319.533,lam0.920
+Iteration,20,ex,20857.673,risk,223.491,lam0.920
+Iteration,21,ex,26105.034,risk,332.066,lam0.920
+Iteration,22,ex,22718.42,risk,305.128,lam0.920
+Iteration,23,ex,19986.518,risk,252.982,lam 0.920
+Iteration,24,ex,22496.307,risk,253.605,lam0.920
+Iteration,25,ex,20951.77,risk,219.9302,lam 0.9200
+Iteration,26,ex,21092.264,risk,222.813,lam 0.920
+Iteration,27,ex,22786.43,risk,267.743,lam0.920
+Iteration,28,ex,20533.607,risk,194.8038,lam 0.9200
+Iteration,29,ex,19909.097,risk,238.531,lam 0.920
+Iteration,30,ex,21010.164,risk,189.583,lam0.920
+Iteration,31,ex,21302.495,risk,226.5856,lam 0.9200
+Iteration,32,ex,26444.794,risk,293.612,lam 0.920
+Iteration,33,ex,22471.343,risk,222.682,lam0.920
+Iteration,34,ex,19826.997,risk,171.6621,lam 0.9200
+Iteration,35,ex,19826.997,risk,171.662,lam 0.920
+Iteration,36,ex,19826.997,risk,171.662,lam0.920
+Iteration,37,ex,23490.691,risk,243.0929,lam 0.9200
+Iteration,38,ex,23490.691,risk,243.093,lam 0.920
+Iteration,39,ex,23490.691,risk,243.093,lam0.920
+Iteration,40,ex,22209.028,risk,239.3337,lam 0.9200
+Iteration,41,ex,22209.028,risk,239.334,lam 0.920
+Iteration,42,ex,22209.028,risk,239.334,lam0.920
+Iteration,43,ex,22209.028,risk,239.3337,lam 0.9200
+Iteration,44,ex,22209.028,risk,239.334,lam 0.920
+Iteration,45,ex,22209.028,risk,239.334,lam0.920
+Iteration,46,ex,22209.028,risk,239.3337,lam 0.9200
+Iteration,47,ex,22209.028,risk,239.334,lam 0.920
+Iteration,48,ex,22209.028,risk,239.334,lam0.920
+Iteration,49,ex,22209.028,risk,239.334,lam0.920
+Iteration,1,ex,18435.425,risk,142.914,lam0.940
+Iteration,2,ex,20020.567,risk,161.235,lam0.940
+Iteration,3,ex,22882.179,risk,178.471,lam0.940
+Iteration,4,ex,31254.973,risk,268.904,lam0.940
+Iteration,5,ex,22816.018,risk,182.876,lam0.940
+Iteration,6,ex,22232.228,risk,174.99,lam0.940
+Iteration,7,ex,21314.302,risk,161.835,lam0.940
+Iteration,8,ex,21241.747,risk,161.543,lam0.940
+Iteration,9,ex,18311.135,risk,142.962,lam0.940
+Iteration,10,ex,21454.734,risk,158.297,lam0.940
+Iteration,11,ex,21058.41,risk,147.001,lam0.940
+Iteration,12,ex,19857.235,risk,154.793,lam0.940
+Iteration,13,ex,21271.033,risk,149.74,lam0.940
+Iteration,14,ex,21556.619,risk,152.734,lam0.940
+Iteration,15,ex,30178.8,risk,271.595,lam0.940
+Iteration,16,ex,29944.191,risk,243.27,lam0.940
+Iteration,17,ex,29083.788,risk,223.843,lam0.940
+Iteration,18,ex,22871.633,risk,177.448,lam0.940
+Iteration,19,ex,26744.82,risk,239.65,lam0.940
+Iteration,20,ex,21311.101,risk,167.618,lam0.940
+Iteration,21,ex,26672.535,risk,249.05,lam0.940
+Iteration,22,ex,23212.299,risk,228.846,lam0.940
+Iteration,23,ex,20421.007,risk,189.737,lam 0.940
+Iteration,24,ex,22985.358,risk,190.204,lam0.940
+Iteration,25,ex,21407.243,risk,164.9476,lam 0.9400
+Iteration,26,ex,21550.791,risk,167.109,lam 0.940
+Iteration,27,ex,23281.787,risk,200.807,lam0.940
+Iteration,28,ex,20979.989,risk,146.1028,lam 0.9400
+Iteration,29,ex,20341.903,risk,178.898,lam 0.940
+Iteration,30,ex,21466.907,risk,142.187,lam0.940
+Iteration,31,ex,21765.592,risk,169.9392,lam 0.9400
+Iteration,32,ex,27019.68,risk,220.209,lam 0.940
+Iteration,33,ex,22959.851,risk,167.011,lam0.940
+Iteration,34,ex,20258.018,risk,128.7465,lam 0.9400
+Iteration,35,ex,20258.018,risk,128.747,lam 0.940
+Iteration,36,ex,20258.018,risk,128.747,lam0.940
+Iteration,37,ex,24001.358,risk,182.3197,lam 0.9400
+Iteration,38,ex,24001.358,risk,182.32,lam 0.940
+Iteration,39,ex,24001.358,risk,182.32,lam0.940
+Iteration,40,ex,22691.833,risk,179.5003,lam 0.9400
+Iteration,41,ex,22691.833,risk,179.5,lam 0.940
+Iteration,42,ex,22691.833,risk,179.5,lam0.940
+Iteration,43,ex,22691.833,risk,179.5003,lam 0.9400
+Iteration,44,ex,22691.833,risk,179.5,lam 0.940
+Iteration,45,ex,22691.833,risk,179.5,lam0.940
+Iteration,46,ex,22691.833,risk,179.5003,lam 0.9400
+Iteration,47,ex,22691.833,risk,179.5,lam 0.940
+Iteration,48,ex,22691.833,risk,179.5,lam0.940
+Iteration,49,ex,22691.833,risk,179.5,lam0.940
+Iteration,1,ex,18827.668,risk,95.276,lam0.960
+Iteration,2,ex,20446.536,risk,107.49,lam0.960
+Iteration,3,ex,23369.033,risk,118.981,lam0.960
+Iteration,4,ex,31919.972,risk,179.269,lam0.960
+Iteration,5,ex,23301.465,risk,121.918,lam0.960
+Iteration,6,ex,22705.255,risk,116.66,lam0.960
+Iteration,7,ex,21767.797,risk,107.89,lam0.960
+Iteration,8,ex,21693.699,risk,107.695,lam0.960
+Iteration,9,ex,18700.734,risk,95.308,lam0.960
+Iteration,10,ex,21911.218,risk,105.531,lam0.960
+Iteration,11,ex,21506.462,risk,98.001,lam0.960
+Iteration,12,ex,20279.73,risk,103.195,lam0.960
+Iteration,13,ex,21723.608,risk,99.827,lam0.960
+Iteration,14,ex,22015.27,risk,101.822,lam0.960
+Iteration,15,ex,30820.902,risk,181.063,lam0.960
+Iteration,16,ex,30581.301,risk,162.18,lam0.960
+Iteration,17,ex,29702.592,risk,149.229,lam0.960
+Iteration,18,ex,23358.264,risk,118.298,lam0.960
+Iteration,19,ex,27313.859,risk,159.767,lam0.960
+Iteration,20,ex,21764.529,risk,111.745,lam0.960
+Iteration,21,ex,27240.036,risk,166.033,lam0.960
+Iteration,22,ex,23706.178,risk,152.564,lam0.960
+Iteration,23,ex,20855.497,risk,126.491,lam 0.960
+Iteration,24,ex,23474.408,risk,126.802,lam0.960
+Iteration,25,ex,21862.716,risk,109.9651,lam 0.9600
+Iteration,26,ex,22009.319,risk,111.406,lam 0.960
+Iteration,27,ex,23777.145,risk,133.871,lam0.960
+Iteration,28,ex,21426.372,risk,97.4019,lam 0.9600
+Iteration,29,ex,20774.71,risk,119.266,lam 0.960
+Iteration,30,ex,21923.65,risk,94.792,lam0.960
+Iteration,31,ex,22228.69,risk,113.2928,lam 0.9600
+Iteration,32,ex,27594.567,risk,146.806,lam 0.960
+Iteration,33,ex,23448.358,risk,111.341,lam0.960
+Iteration,34,ex,20689.04,risk,85.831,lam 0.9600
+Iteration,35,ex,20689.04,risk,85.831,lam 0.960
+Iteration,36,ex,20689.04,risk,85.831,lam0.960
+Iteration,37,ex,24512.025,risk,121.5465,lam 0.9600
+Iteration,38,ex,24512.025,risk,121.546,lam 0.960
+Iteration,39,ex,24512.025,risk,121.546,lam0.960
+Iteration,40,ex,23174.638,risk,119.6669,lam 0.9600
+Iteration,41,ex,23174.638,risk,119.667,lam 0.960
+Iteration,42,ex,23174.638,risk,119.667,lam0.960
+Iteration,43,ex,23174.638,risk,119.6669,lam 0.9600
+Iteration,44,ex,23174.638,risk,119.667,lam 0.960
+Iteration,45,ex,23174.638,risk,119.667,lam0.960
+Iteration,46,ex,23174.638,risk,119.6669,lam 0.9600
+Iteration,47,ex,23174.638,risk,119.667,lam 0.960
+Iteration,48,ex,23174.638,risk,119.667,lam0.960
+Iteration,49,ex,23174.638,risk,119.667,lam0.960
+Iteration,1,ex,19219.911,risk,47.638,lam0.980
+Iteration,2,ex,20872.506,risk,53.745,lam0.980
+Iteration,3,ex,23855.888,risk,59.49,lam0.980
+Iteration,4,ex,32584.971,risk,89.635,lam0.980
+Iteration,5,ex,23786.913,risk,60.959,lam0.980
+Iteration,6,ex,23178.281,risk,58.33,lam0.980
+Iteration,7,ex,22221.293,risk,53.945,lam0.980
+Iteration,8,ex,22145.651,risk,53.848,lam0.980
+Iteration,9,ex,19090.332,risk,47.654,lam0.980
+Iteration,10,ex,22367.702,risk,52.766,lam0.980
+Iteration,11,ex,21954.513,risk,49,lam0.980
+Iteration,12,ex,20702.224,risk,51.598,lam0.980
+Iteration,13,ex,22176.183,risk,49.913,lam0.980
+Iteration,14,ex,22473.922,risk,50.911,lam0.980
+Iteration,15,ex,31463.004,risk,90.532,lam0.980
+Iteration,16,ex,31218.412,risk,81.09,lam0.980
+Iteration,17,ex,30321.396,risk,74.614,lam0.980
+Iteration,18,ex,23844.894,risk,59.149,lam0.980
+Iteration,19,ex,27882.898,risk,79.883,lam0.980
+Iteration,20,ex,22217.956,risk,55.873,lam0.980
+Iteration,21,ex,27807.536,risk,83.017,lam0.980
+Iteration,22,ex,24200.056,risk,76.282,lam0.980
+Iteration,23,ex,21289.987,risk,63.246,lam 0.980
+Iteration,24,ex,23963.458,risk,63.401,lam0.980
+Iteration,25,ex,22318.19,risk,54.9825,lam 0.9800
+Iteration,26,ex,22467.846,risk,55.703,lam 0.980
+Iteration,27,ex,24272.502,risk,66.936,lam0.980
+Iteration,28,ex,21872.755,risk,48.7009,lam 0.9800
+Iteration,29,ex,21207.516,risk,59.633,lam 0.980
+Iteration,30,ex,22380.392,risk,47.396,lam0.980
+Iteration,31,ex,22691.788,risk,56.6464,lam 0.9800
+Iteration,32,ex,28169.454,risk,73.403,lam 0.980
+Iteration,33,ex,23936.866,risk,55.67,lam0.980
+Iteration,34,ex,21120.061,risk,42.9155,lam 0.9800
+Iteration,35,ex,21120.061,risk,42.916,lam 0.980
+Iteration,36,ex,21120.061,risk,42.916,lam0.980
+Iteration,37,ex,25022.693,risk,60.7732,lam 0.9800
+Iteration,38,ex,25022.693,risk,60.773,lam 0.980
+Iteration,39,ex,25022.693,risk,60.773,lam0.980
+Iteration,40,ex,23657.443,risk,59.8334,lam 0.9800
+Iteration,41,ex,23657.443,risk,59.833,lam 0.980
+Iteration,42,ex,23657.443,risk,59.833,lam0.980
+Iteration,43,ex,23657.443,risk,59.8334,lam 0.9800
+Iteration,44,ex,23657.443,risk,59.833,lam 0.980
+Iteration,45,ex,23657.443,risk,59.833,lam0.980
+Iteration,46,ex,23657.443,risk,59.8334,lam 0.9800
+Iteration,47,ex,23657.443,risk,59.833,lam 0.980
+Iteration,48,ex,23657.443,risk,59.833,lam0.980
+Iteration,49,ex,23657.443,risk,59.833,lam0.980
