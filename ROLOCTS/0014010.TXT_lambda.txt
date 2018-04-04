@@ -1,1 +1,0 @@
-Iteration	expexted_value	risk	lambda

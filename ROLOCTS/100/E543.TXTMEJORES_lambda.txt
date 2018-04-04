@@ -1,0 +1,505 @@
+mejor solucion 
+best_iter: 0  etime:    0.38 ttime:    2.68
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.000
+ 
+mejor solucion 
+best_iter: 0  etime:    0.21 ttime:    2.56
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.010
+ 
+mejor solucion 
+best_iter: 0  etime:    0.22 ttime:    2.81
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.020
+ 
+mejor solucion 
+best_iter: 0  etime:    0.21 ttime:    2.43
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.030
+ 
+mejor solucion 
+best_iter: 0  etime:    0.15 ttime:    2.56
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.040
+ 
+mejor solucion 
+best_iter: 0  etime:    0.17 ttime:    2.20
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.050
+ 
+mejor solucion 
+best_iter: 0  etime:    0.28 ttime:    2.49
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.060
+ 
+mejor solucion 
+best_iter: 0  etime:    0.42 ttime:    2.48
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.070
+ 
+mejor solucion 
+best_iter: 0  etime:    0.51 ttime:    2.34
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.080
+ 
+mejor solucion 
+best_iter: 0  etime:    0.45 ttime:    2.27
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.090
+ 
+mejor solucion 
+best_iter: 0  etime:    0.41 ttime:    1.70
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.100
+ 
+mejor solucion 
+best_iter: 0  etime:    0.41 ttime:    1.75
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.110
+ 
+mejor solucion 
+best_iter: 0  etime:    0.41 ttime:    2.40
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.120
+ 
+mejor solucion 
+best_iter: 0  etime:    0.26 ttime:    2.10
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.130
+ 
+mejor solucion 
+best_iter: 0  etime:    0.27 ttime:    2.21
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.140
+ 
+mejor solucion 
+best_iter: 0  etime:    0.27 ttime:    2.30
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.150
+ 
+mejor solucion 
+best_iter: 0  etime:    0.27 ttime:    2.31
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.160
+ 
+mejor solucion 
+best_iter: 0  etime:    0.30 ttime:    2.38
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.170
+ 
+mejor solucion 
+best_iter: 0  etime:    0.26 ttime:    2.52
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.180
+ 
+mejor solucion 
+best_iter: 0  etime:    0.28 ttime:    2.65
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.190
+ 
+mejor solucion 
+best_iter: 0  etime:    1.31 ttime:    2.52
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.200
+ 
+mejor solucion 
+best_iter: 0  etime:    1.79 ttime:    2.64
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.210
+ 
+mejor solucion 
+best_iter: 0  etime:    0.95 ttime:    2.55
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.220
+ 
+mejor solucion 
+best_iter: 0  etime:    1.05 ttime:    2.25
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.230
+ 
+mejor solucion 
+best_iter: 0  etime:    0.95 ttime:    2.11
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.240
+ 
+mejor solucion 
+best_iter: 0  etime:    0.64 ttime:    1.57
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.250
+ 
+mejor solucion 
+best_iter: 0  etime:    0.68 ttime:    1.97
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.260
+ 
+mejor solucion 
+best_iter: 0  etime:    0.96 ttime:    2.26
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.270
+ 
+mejor solucion 
+best_iter: 0  etime:    0.99 ttime:    2.23
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.280
+ 
+mejor solucion 
+best_iter: 0  etime:    0.93 ttime:    2.13
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.290
+ 
+mejor solucion 
+best_iter: 0  etime:    1.00 ttime:    2.04
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.300
+ 
+mejor solucion 
+best_iter: 0  etime:    0.78 ttime:    2.04
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 37408.462 fixing lambda to 0.310
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.76
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.320
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.73
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.330
+ 
+mejor solucion 
+best_iter: 0  etime:    0.09 ttime:    1.69
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.340
+ 
+mejor solucion 
+best_iter: 0  etime:    0.09 ttime:    1.72
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.350
+ 
+mejor solucion 
+best_iter: 0  etime:    0.08 ttime:    1.56
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.360
+ 
+mejor solucion 
+best_iter: 0  etime:    0.13 ttime:    1.77
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.370
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    1.92
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.380
+ 
+mejor solucion 
+best_iter: 0  etime:    0.07 ttime:    1.79
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.390
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    2.04
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.400
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.04
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.410
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    2.10
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.420
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.04
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.430
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    2.06
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.440
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.05
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.450
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.10
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.460
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.84
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.470
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.19
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.480
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    2.09
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.490
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    2.03
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.500
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.07
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.510
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    2.22
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.520
+ 
+mejor solucion 
+best_iter: 0  etime:    0.15 ttime:    2.06
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.530
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    2.11
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.540
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.08
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.550
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.97
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.560
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    1.85
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.570
+ 
+mejor solucion 
+best_iter: 0  etime:    0.09 ttime:    1.90
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.580
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.73
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.590
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.77
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.600
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.99
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.610
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.82
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.620
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.85
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.630
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.82
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.640
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.87
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.650
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.88
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.660
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    2.07
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.670
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.84
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.680
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.87
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.690
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.90
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.700
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.83
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.710
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.84
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.720
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    2.02
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.730
+ 
+mejor solucion 
+best_iter: 0  etime:    0.08 ttime:    1.78
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.740
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.61
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.750
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.54
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.760
+ 
+mejor solucion 
+best_iter: 0  etime:    0.06 ttime:    1.70
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.770
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.76
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.780
+ 
+mejor solucion 
+best_iter: 0  etime:    0.08 ttime:    1.64
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.790
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.72
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.800
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.78
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.810
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.84
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.820
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.81
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.830
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.86
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.840
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.94
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.850
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.86
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.860
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.78
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.870
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.88
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.880
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.85
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.890
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    1.92
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.900
+ 
+mejor solucion 
+best_iter: 0  etime:    0.07 ttime:    1.90
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.910
+ 
+mejor solucion 
+best_iter: 0  etime:    0.13 ttime:    1.85
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.920
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.69
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.930
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.80
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.940
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    1.83
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.950
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.81
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.960
+ 
+mejor solucion 
+best_iter: 0  etime:    0.10 ttime:    1.84
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.970
+ 
+mejor solucion 
+best_iter: 0  etime:    0.08 ttime:    1.77
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.980
+ 
+mejor solucion 
+best_iter: 0  etime:    0.11 ttime:    1.81
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 0.990
+ 
+mejor solucion 
+best_iter: 0  etime:    0.12 ttime:    1.82
+best_value: 9000000.000000
+with expected value 0.000 and deviation(risk) 38570.269 fixing lambda to 1.000
+ 

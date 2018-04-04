@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\update_alan_17_03_2018\ROLOCTS_con_dominancia_18_03_2018.C">
+    <ClCompile Include="chafa.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

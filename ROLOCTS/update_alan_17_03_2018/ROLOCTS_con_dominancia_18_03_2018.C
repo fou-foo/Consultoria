@@ -129,7 +129,7 @@ void   nrerror     (char *error_text);
 
 #define BIGFOO = 999999
 #define INFBOUND 100
-#define MAX_iter  100											    // se reubica numero maximo de iteraciones para mover lambda con el 
+#define MAX_iter  50											    // se reubica numero maximo de iteraciones para mover lambda con el 
 
 void write_file(char *filename,int n,int nsols,int **comb_matrix);
 
@@ -154,14 +154,18 @@ int main(int argc,char **argv)
 	//lo necesario para buscar los no dominados
 	double ParetoFront[(MAX_iter - 1)*(MAX_iter + 1)][4] = { 0 };		//matriz para leer y guardar los puntos candidatos a definir la frontera de Pareto
 																		//input_data_pareto(file, ParetoFront, max_iter );
-	double PuntoDominante[2] = { 9000000, 9000000 };
+	double pareto[4] = { 9000000, 9000000, 9000000, 9000000 };
+	double candidato1[4] = { 9000000 ,9000000, 9000000, 9000000 };
+	double candidato2[4] = { 9000000 ,9000000, 9000000, 9000000 };
+	double pareto2[4] = { 0, 9000000, 0 ,0 };
+	int index2 = 0;
 	char a;             /* used to scan the file and skip headers     */
 	FILE *fp;           /* file pointer                               */
 	
 						
 						
 	// int inc,del;
-	int status = 2;					//culaquier cosa diferente de cero 
+	int status = 2;					//cualquier cosa diferente de cero 
 	
 	inputdata pdata;     /* structure with the data of the problem */
 	soldata psol;        /* structure with the solution of problem */
@@ -195,7 +199,7 @@ int main(int argc,char **argv)
 	err_open = fopen_s(&f2, out, "a+");
 	if (f2 == NULL)
 		nrerror("Unable to open OUTPUT results file...");
-	fprintf(f2, "Iteration\texpexted_value\trisk\tlambda\n");
+	fprintf(f2, "Iteration\texpected_value\trisk\tlambda\n");
 	fclose(f2);
 	for (lambda = 0.0; lambda <= 1.+incremento; )
 	{
@@ -232,7 +236,7 @@ int main(int argc,char **argv)
 	while (!isdigit(a)) a = getc(fp);
 	ungetc(a, fp);
 	//se leen los puntos optimos desde archivo para determinar la frontera de pareto dada por los puntos dominantes
-	for (i = 0; i < (max_iter - 1)*(max_iter + 1); i++)
+	for (i = 0; i < (max_iter )*(max_iter ); i++)
 	{
 		for (j = 0; j < 4; j++)
 		{
@@ -242,30 +246,61 @@ int main(int argc,char **argv)
 	fclose(fp);
 	err_open = fopen_s(&fp, out_dominantes, "a+");
 	if (err_open != 0) nrerror("Unable to open dominantes file.");
-	fprintf(fp, "Iteration\texpexted_value\trisk\tlambda\n");
-
-	printf("pareto    %lf, %lf", PuntoDominante[0], PuntoDominante[1]);
-	for (i=0; i<(max_iter - 1)*(max_iter + 1); )
+	fprintf(fp, "Iteration\texpected_value\trisk\tlambda\n");
+	//buscamos el optimo de pareto
+	pareto[3] = ParetoFront[0][3];
+	pareto[2] = ParetoFront[0][2];
+	pareto[1] = ParetoFront[0][1];
+	pareto[0] = ParetoFront[0][0];
+	for (i = 0; i < (max_iter )*(max_iter ); i++)
 	{
-		index = -1;
-		PuntoDominante[0] = 9000000;
-		PuntoDominante[1] = 9000000;
-		for (j = 0; j < (max_iter-1); j++)
+		if (ParetoFront[i][2] <= pareto[2] && ParetoFront[i][1] <= pareto[1])//minimo en eje y 
 		{
-			if ((ParetoFront[i+j][1] <= PuntoDominante[0]) && (ParetoFront[i+j][2] <= PuntoDominante[1]))
+			pareto[3] = ParetoFront[i][3];
+			pareto[2] = ParetoFront[i][2];
+			pareto[1] = ParetoFront[i][1];
+			pareto[0] = ParetoFront[i][0];
+			index = i;
+
+		}
+	}
+	fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", pareto[0], pareto[1], pareto[2], pareto[3]);
+	candidato1[0] = pareto[0];
+	candidato1[1] = pareto[1];
+	candidato1[2] = pareto[2];
+	candidato1[3] = pareto[3];
+	
+	for (i = index+1; i < (max_iter )*(max_iter ); i++)
+	{
+		if (ParetoFront[i][2] < candidato1[2])//comparamos riesgo
+		{
+			candidato2[3] = ParetoFront[i][3];
+			candidato2[2] = ParetoFront[i][2];
+			candidato2[1] = ParetoFront[i][1];
+			candidato2[0] = ParetoFront[i][0];
+			if (candidato2[1] > candidato1[1])//comparamos expected value del candidato2
 			{
-				index = (i + j);
-				PuntoDominante[0] = ParetoFront[i+j][1];
-				PuntoDominante[1] = ParetoFront[i+j][2];
+				fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);
+				//printf("Candidato 1: %lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);
+				candidato1[0] = candidato2[0];//se actualiza el candidato 1 como el candidato2 y guardamos el candidato1
+				candidato1[1] = candidato2[1];
+				candidato1[2] = candidato2[2];
+				candidato1[3] = candidato2[3];
+				//candidato2[0] = candidato2[1] = candidato2[2] = candidato2[3] = 9000000; //reiniciamos valor de candidato2
+			}
+			else{
+			
+				candidato1[0] = candidato2[0];//se actualiza el candidato 1 como el candidato2 y NO guardamos el candidato1
+				candidato1[1] = candidato2[1];
+				candidato1[2] = candidato2[2];
+				candidato1[3] = candidato2[3];
+				//candidato2[0] = candidato2[1] = candidato2[2] = candidato2[3] = 9000000; //reiniciamos valor de candidato2
 			}
 		}
-		i += j;
-		fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", ParetoFront[index][0], ParetoFront[index][1], ParetoFront[index][2], ParetoFront[index][3]);
 	}
+	fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);
 	fclose(fp);
-
 	return(0);
-	
 /* End Main */
 }
 
@@ -467,7 +502,7 @@ int is_there(_int64 hcode,_int64 *coded_sol,int ind, int *ncoded)
 	 etime = (double)(psol->btime - psol->itime)/CLOCKS_PER_SEC;
 	 ttime = (double)(ftime - psol->itime)/CLOCKS_PER_SEC;
 	 printf("mejor solucion \n");
-	 printf("best_iter: %4d  etime: %7.2f ttime: %7.2f best_value: %10.6f\n", psol->best_iter,etime,ttime,psol->best_value);
+	 printf("best_iter: %d  etime: %7.2f ttime: %7.2f best_value: %.3lf\n", psol->best_iter,etime,ttime,psol->best_value);
 	 write_output_foo2(out_mejores, move, etime, ttime, lambda, psol, &exp_value, &bstdv);
 	 
 	 /* end search procedure */

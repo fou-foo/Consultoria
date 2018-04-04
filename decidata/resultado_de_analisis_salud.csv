@@ -1,0 +1,401 @@
+"Id","sexo","edad","escolaridad","antiguedad","distancia_trabajo","puesto","turno","sentado","parado","caminando","maneja","vehiculo","cargas","peso_cargas","pausas","herramientas","misma_postura","enf_car","diabetes","hipertension","cancer","prob_muscesc","alcohol","tabaco","act_fis","pa_sis","pa_dia","peso","altura","Indicador_salud","segmento"
+260,"F",43,"Media superior",2,"15-45","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","NO",110,94,80,152,100,6
+70,"F",37,"Media superior",4,"15-45","B","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","SI","NO","NO","SI","SI",110,93,69,156,99.9383447494054,3
+79,"M",36,"Basica",6,"0-15","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","SI","NO","SI","NO","NO",110,98,88,172,99.8699204832813,2
+284,"M",31,"Media superior",3,"45+","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","SI","NO","SI",110,98,84,172,99.7988391150916,4
+249,"M",46,"Media superior",2,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","NO","SI","SI","SI","SI","SI","SI",110,95,95,187,99.784192136428,3
+235,"M",42,"Universitaria",8,"0-15","C","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","NO","SI","NO","SI","NO","SI","NO","NO","SI","SI",110,80,69,170,99.7101885041201,9
+258,"F",31,"Media superior",7,"45+","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","SI","SI","SI","SI",110,82,74,169,99.5960975597227,4
+353,"M",46,"Basica",4,"45+","D","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","NO","SI","SI","NO","SI",111,83,60,189,98.252878689015,3
+140,"M",38,"Basica",3,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","NO","NO","SI","NO","SI",111,86,92,171,98.2325838425559,7
+247,"M",28,"Basica",6,"15-45","A","VESPERTINO","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","NO","SI",111,85,91,182,98.061605332081,6
+322,"F",31,"Universitaria",3,"0-15","B","  FIN_SEMANA ","SI","NO","NO","NO","","SI","5 O MENOS","SI","NO","SI","NO","SI","NO","NO","NO","SI","NO","SI",113,92,55,155,95.615392789124,9
+308,"F",37,"Basica",5,"0-15","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","NO","SI","SI","NO",113,93,77,177,95.5115690794553,4
+115,"M",37,"Basica",5,"15-45","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","NO","SI","NO","SI",114,90,89,171,94.0552756573469,3
+97,"M",45,"Media superior",1,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","NO","SI","SI","NO",114,90,93,187,93.9824127516098,2
+47,"M",47,"Basica",3,"15-45","B","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","SI",114,82,61,188,93.9709709978505,7
+25,"M",31,"Media superior",6,"15-45","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","SI","SI","SI","SI",114,87,81,181,93.8890689926434,2
+188,"M",32,"Basica",8,"15-45","B","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","SI","NO","SI","SI","SI","SI",114,86,82,185,93.8756380587676,7
+316,"M",31,"Media superior",6,"15-45","D","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","NO","SI","SI",114,83,92,173,93.8455007732339,7
+52,"F",37,"Basica",7,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","NO","NO","NO","NO","SI","NO","SI",115,95,54,164,92.8694175745567,4
+301,"M",39,"Universitaria",3,"45+","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","SI","SI","NO","SI",115,94,82,167,92.7403005255394,4
+36,"F",38,"Universitaria",6,"15-45","B"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","SI","SI","SI","SI","SI",115,85,66,157,92.7148017281972,3
+34,"M",40,"Basica",8,"45+","B","FULL","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","SI","NO",115,93,63,185,92.7077605739995,2
+72,"F",39,"Media superior",5,"45+","B","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","NO","NO","SI","NO","SI","SI",115,87,78,165,92.6542375028596,4
+170,"M",44,"Media superior",1,"15-45","A","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","SI","NO","SI","NO","SI","NO","NO","SI",115,88,63,189,92.5854919048487,1
+125,"M",34,"Universitaria",2,"45+","C","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","SI","SI","SI","NO","SI",115,92,82,186,92.5129289678148,2
+348,"F",38,"Basica",8,"0-15","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","SI","SI","SI","SI","SI",116,99,53,153,91.6018458965183,4
+265,"M",44,"Media superior",2,"45+","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","NO","NO","NO","SI","NO","SI",116,100,67,184,91.4029362295797,3
+119,"M",47,"Media superior",8,"45+","B","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","NO","SI","SI","SI",116,83,92,168,91.2283467485781,7
+263,"M",30,"Media superior",5,"45+","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","NO","SI","NO",116,100,96,182,91.1915742193247,2
+211,"M",32,"Universitaria",8,"15-45","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","NO","SI",116,91,91,170,91.1906690073281,4
+397,"M",31,"Universitaria",8,"15-45","B","  FIN_SEMANA ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","SI","NO","SI","NO","NO","NO",116,89,92,171,91.1261306964096,1
+396,"F",37,"Media superior",2,"15-45","C","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","SI","SI","NO","NO","SI","SI","NO","NO",117,94,73,169,89.8740411878228,6
+251,"F",31,"Media superior",4,"0-15","A","VESPERTINO","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","SI","NO","SI","NO","SI","SI",117,88,76,158,89.7759528764803,4
+30,"F",32,"Media superior",2,"0-15","C","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","NO","SI","NO","NO","SI","SI","SI",117,86,52,167,89.7477153022836,5
+259,"M",31,"Universitaria",6,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","SI","NO","NO","SI","SI","SI",117,90,76,185,89.6569931050525,3
+32,"M",40,"Universitaria",6,"15-45","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","NO","SI","SI",118,93,85,170,88.4653765431006,7
+160,"F",40,"Basica",6,"45+","B","VESPERTINO","SI","SI","SI","SI","B","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","NO","NO","SI","NO","NO",118,90,75,176,88.3932681787135,6
+80,"M",37,"Basica",5,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",118,90,97,176,88.2926943195925,2
+129,"M",47,"Media superior",2,"15-45","D","  FIN_SEMANA ","SI","SI","SI","SI","A","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","SI",118,83,70,185,88.2814712236544,8
+8,"F",46,"Basica",6,"15-45","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","SI",119,95,58,172,87.2077393284599,5
+159,"M",32,"Basica",8,"0-15","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","NO","NO","SI","NO","SI",119,81,64,167,86.8353183270739,4
+310,"F",46,"Universitaria",7,"15-45","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","NO","SI",120,92,58,164,85.7887479275904,4
+48,"M",35,"Media superior",8,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","NO","NO","NO","SI","SI","SI",120,93,65,170,85.6279198208914,7
+39,"M",38,"Basica",2,"15-45","D","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","SI","SI","NO","SI","SI","SI",120,100,69,190,85.5968567307823,3
+240,"M",46,"Basica",2,"15-45","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","NO","SI","NO","NO","NO","NO","SI",120,90,63,188,85.5434687744343,1
+64,"M",46,"Media superior",3,"45+","A","VESPERTINO","SI","SI","SI","SI","A","SI","5 O MENOS","SI","SI","SI","NO","NO","SI","NO","SI","SI","NO","NO",120,86,96,169,85.5067187627359,8
+223,"M",33,"Universitaria",8,"0-15","A","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","NO","NO","SI","NO","NO","SI","SI","SI",120,92,65,184,85.4920092295865,1
+254,"M",45,"Basica",6,"45+","D","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","NO",120,90,96,188,85.4671332363419,1
+255,"M",41,"Basica",2,"15-45","A","  FIN_SEMANA ","SI","SI","SI","SI","B","SI","5 A 8","SI","SI","SI","NO","SI","NO","NO","NO","SI","NO","SI",120,86,97,171,85.435224317974,8
+59,"M",45,"Universitaria",7,"45+","D","FULL   ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","SI","SI","NO","SI","SI","SI",120,81,98,188,85.3150866340429,1
+180,"M",46,"Media superior",6,"0-15","A","FULL","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","NO","NO","SI","SI","SI","SI",121,90,70,183,84.1643677735315,4
+136,"F",29,"Universitaria",5,"15-45","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","NO","SI",121,91,62,164,84.1265560244408,4
+200,"M",36,"Universitaria",4,"45+","C","FULL","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","NO","NO","SI","NO","SI","NO","NO",121,86,70,166,84.0749191017372,3
+45,"F",35,"Media superior",1,"15-45","A","  FIN_SEMANA ","SI","SI","SI","SI","A","SI","5 A 8","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","SI",121,82,73,172,83.9190759965657,8
+304,"M",41,"Media superior",5,"15-45","A"," NOCTURNO  ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","SI","NO","NO","NO","SI","SI","SI","SI",122,97,80,168,82.864828517879,1
+320,"M",31,"Basica",6,"15-45","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","NO","NO","SI",122,96,88,176,82.67376530903,2
+217,"F",46,"Media superior",7,"45+","B","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","SI","SI","SI","SI",123,92,69,152,81.559589257975,6
+156,"F",37,"Basica",1,"15-45","A","VESPERTINO","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","SI","SI","SI","SI","SI","NO",123,100,76,154,81.5163952191662,3
+49,"M",39,"Media superior",8,"15-45","C","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","SI","NO","SI",123,93,72,170,81.3903291011936,4
+28,"M",33,"Media superior",2,"45+","B","FULL","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",123,96,99,174,81.2142895780931,2
+124,"M",36,"Basica",7,"15-45","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","NO","NO","SI","SI","NO","SI","NO",123,88,73,178,81.1987506064015,1
+187,"M",46,"Basica",1,"15-45","B","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","NO","SI","SI",123,82,88,170,81.1750783720141,7
+214,"M",36,"Basica",8,"15-45","B"," NOCTURNO  ","SI","NO","NO","NO","","SI","5 A 8","SI","NO","SI","NO","NO","SI","SI","SI","SI","NO","NO",123,82,79,187,81.0323070992751,2
+227,"M",40,"Basica",6,"0-15","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","NO","NO","NO","SI","SI","SI",124,99,94,188,79.8894732859513,7
+345,"F",43,"Universitaria",2,"15-45","C"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","NO","NO","NO",124,89,59,176,79.8875871305146,5
+352,"M",32,"Universitaria",4,"15-45","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","SI",124,93,94,167,79.8100258932156,2
+267,"M",39,"Media superior",3,"15-45","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","SI",124,89,91,177,79.7568051640611,2
+232,"F",32,"Basica",1,"15-45","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","NO","SI","SI","SI",124,81,52,172,79.6593732386391,5
+342,"M",30,"Basica",2,"15-45","A","VESPERTINO","SI","SI","SI","SI","A","SI","5 A 8","SI","SI","SI","SI","NO","NO","NO","SI","SI","SI","NO",124,85,90,178,79.5600488220986,8
+104,"F",43,"Media superior",7,"15-45","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","NO","SI","SI","SI","SI","SI",125,94,72,157,78.6830339422664,3
+208,"M",41,"Basica",6,"0-15","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","NO","SI","NO","SI",125,99,85,184,78.5258227934527,4
+399,"M",37,"Basica",8,"15-45","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","NO","SI","NO","NO","SI","NO",125,100,87,188,78.4784683852843,5
+152,"F",37,"Media superior",5,"45+","C","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","SI","NO","NO","SI","SI","SI",125,85,52,164,78.4382655646485,6
+307,"M",41,"Basica",1,"0-15","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","SI","NO","SI","SI","SI","SI",125,93,99,186,78.3246252091722,7
+82,"M",44,"Universitaria",5,"15-45","C","FULL","SI","SI","SI","SI","A","SI","5 O MENOS","SI","SI","SI","NO","NO","NO","NO","NO","SI","SI","NO",125,82,95,170,78.3188501461908,8
+62,"M",42,"Basica",8,"45+","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","NO","SI",125,81,72,186,78.262518243657,2
+83,"M",28,"Media superior",4,"15-45","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","SI","NO","NO","NO","NO",125,88,94,188,78.1145021720759,2
+145,"F",33,"Media superior",8,"45+","D","FULL   ","SI","SI","SI","SI","B","SI","5 O MENOS","SI","SI","SI","SI","NO","SI","SI","NO","SI","SI","NO",126,100,77,155,77.240474651277,6
+328,"F",39,"Basica",6,"15-45","B","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","NO","NO","SI","NO","SI","SI","SI",126,86,65,168,77.0092721223054,9
+4,"F",28,"Media superior",4,"15-45","B","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","NO","SI","SI","SI","SI",126,89,64,162,76.9621275849627,3
+101,"M",37,"Basica",7,"0-15","A","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","NO","NO","SI","SI","NO","SI",126,87,84,170,76.9461505085783,9
+46,"F",40,"Basica",6,"0-15","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","SI",126,81,80,164,76.9188824339463,4
+203,"F",44,"Universitaria",3,"0-15","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","SI","SI",127,96,61,176,75.7453803914383,4
+134,"F",40,"Universitaria",8,"45+","D","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","NO","SI","SI","SI",127,91,58,169,75.7085499450451,4
+395,"F",35,"Media superior",3,"45+","D","FULL   ","SI","SI","SI","SI","A","SI","8 O MAS","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","SI",127,91,51,170,75.6142531915543,8
+292,"F",40,"Media superior",2,"45+","C","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","NO","NO","NO","SI","SI","SI",128,93,71,159,74.2945502106625,6
+327,"M",36,"Media superior",8,"0-15","A","FULL   ","SI","NO","NO","NO","","SI","5 A 8","SI","NO","SI","NO","SI","SI","NO","NO","SI","NO","SI",128,93,82,185,74.1064540893705,9
+233,"M",38,"Basica",7,"15-45","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","SI","SI","NO","SI",128,86,94,177,74.0250316428834,7
+130,"M",42,"Universitaria",3,"0-15","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","NO","SI","SI","NO",128,81,100,189,73.849612181731,2
+218,"F",36,"Basica",4,"15-45","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","NO","SI","SI","SI",129,95,76,151,72.9287526962283,3
+193,"F",34,"Basica",1,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","SI","SI","NO","SI",129,99,54,171,72.8682063675548,4
+315,"M",33,"Universitaria",5,"15-45","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","NO","SI",129,98,70,174,72.8192318259276,4
+359,"F",32,"Basica",6,"0-15","C","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",129,83,80,151,72.6761803033393,5
+364,"M",42,"Media superior",2,"15-45","D","  FIN_SEMANA ","SI","SI","SI","SI","A","SI","5 O MENOS","SI","SI","SI","SI","NO","SI","NO","SI","SI","SI","NO",129,83,67,176,72.6245108457451,8
+280,"M",38,"Universitaria",3,"45+","B","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","SI","SI","SI","NO","SI","SI","SI","SI",129,88,85,177,72.6147557695018,1
+275,"M",44,"Basica",8,"15-45","B","FULL   ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","SI","NO","NO","SI","SI","SI",130,95,96,176,71.4091622543053,1
+41,"M",42,"Universitaria",6,"15-45","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","SI","NO","NO",130,100,94,190,71.3709882168475,2
+38,"M",38,"Universitaria",8,"15-45","B","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","NO","NO","NO","SI","SI","SI","NO",130,91,100,169,71.3062115204072,2
+173,"F",40,"Universitaria",1,"45+","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",130,87,77,162,71.3048761659734,5
+192,"M",36,"Basica",4,"45+","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","SI",130,82,80,168,71.1512632351463,2
+241,"F",44,"Media superior",6,"45+","A","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","SI","NO","NO","SI","NO","NO",131,95,68,162,70.1258529502714,1
+37,"F",40,"Universitaria",5,"15-45","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","NO","NO","NO","SI","SI","SI",131,91,62,162,70.0324119503139,5
+195,"M",29,"Basica",7,"45+","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","NO","NO","SI",131,98,96,174,69.8692502104351,2
+331,"M",43,"Basica",1,"45+","B"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","NO","SI","SI","SI",131,93,89,185,69.8370172045486,2
+16,"M",35,"Basica",4,"45+","C","FULL","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","NO","NO",131,88,77,183,69.7271387115408,2
+344,"M",39,"Basica",1,"15-45","A"," NOCTURNO  ","SI","SI","SI","SI","B","SI","5 A 8","SI","SI","SI","SI","SI","NO","NO","NO","SI","SI","SI",132,96,77,169,68.5566950828837,8
+329,"F",41,"Basica",3,"15-45","B","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","SI","SI","SI","SI","SI",132,87,75,156,68.5322313190214,6
+213,"M",38,"Media superior",6,"15-45","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","SI","SI",132,80,73,178,68.2649612602394,2
+323,"M",33,"Basica",2,"15-45","D"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","NO","SI","SI",132,89,84,185,68.2561711357943,2
+294,"F",28,"Universitaria",3,"45+","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","NO","NO","NO","NO","SI","NO",132,81,70,168,68.2126174898778,3
+264,"F",38,"Media superior",7,"0-15","A"," NOCTURNO  ","SI","SI","SI","SI","B","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","NO",133,100,64,154,67.3733820300009,8
+305,"M",43,"Universitaria",8,"0-15","D","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","NO","SI","SI",133,97,68,168,67.2864403205186,7
+368,"M",40,"Media superior",3,"45+","D","FULL   ","SI","SI","SI","SI","A","SI","5 A 8","SI","SI","SI","NO","SI","NO","NO","NO","SI","NO","NO",133,98,68,167,67.2232260751668,8
+317,"F",35,"Media superior",6,"45+","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","NO","NO","NO","SI","SI","SI","SI",133,84,68,154,67.0446203488025,3
+225,"F",28,"Universitaria",2,"45+","C","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","SI",133,99,69,175,67.0429312041815,6
+1,"M",31,"Universitaria",3,"15-45","A","VESPERTINO","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","SI","NO","SI","SI","SI",133,91,92,177,66.8781264127712,1
+335,"F",44,"Basica",3,"45+","A","FULL   ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","SI",134,94,75,155,65.8408017673007,6
+43,"F",45,"Media superior",2,"15-45","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",134,92,67,162,65.7921660848405,4
+53,"M",40,"Universitaria",7,"0-15","B","FULL   ","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",134,95,70,166,65.7913259507822,9
+273,"M",34,"Universitaria",8,"15-45","A","FULL","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","NO","NO","SI","SI","NO","SI",134,94,66,167,65.7233651660076,9
+7,"F",41,"Basica",7,"15-45","D","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","SI","NO","NO","SI","NO","SI",134,85,63,171,65.6204002723632,1
+57,"M",37,"Universitaria",8,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","NO","SI","SI","SI",134,88,65,183,65.552832701382,3
+11,"F",46,"Media superior",5,"0-15","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","SI","SI","NO","SI",135,97,67,166,64.4669458750744,4
+186,"M",44,"Universitaria",4,"45+","C","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","SI","NO","SI","SI","SI",135,96,99,169,64.3061440267595,1
+17,"F",38,"Basica",8,"45+","D","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","SI",135,83,71,150,64.2469957848575,5
+154,"M",32,"Basica",7,"45+","B","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",135,96,68,184,64.1816703150606,7
+116,"M",31,"Basica",8,"15-45","A","VESPERTINO","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","SI","SI","SI","SI","SI",135,94,89,173,64.1659768877342,3
+306,"M",42,"Media superior",6,"15-45","C"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",135,84,73,178,64.1149040940298,4
+172,"F",32,"Universitaria",2,"15-45","A","FULL   ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","NO","NO","NO","SI","SI","SI","NO",135,80,69,168,63.959129691365,6
+290,"F",37,"Universitaria",6,"45+","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","SI","NO","SI","SI","NO","SI",136,100,54,176,62.9697483099655,3
+110,"F",46,"Universitaria",5,"15-45","D","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","SI",136,88,75,152,62.9565335125173,4
+278,"M",34,"Media superior",2,"45+","C","FULL","SI","SI","SI","SI","B","SI","8 O MAS","SI","SI","SI","NO","SI","NO","NO","SI","NO","NO","SI",136,99,65,173,62.8654625782239,8
+277,"M",39,"Basica",5,"45+","B"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","SI","SI",136,87,61,175,62.7439768140244,2
+381,"F",42,"Universitaria",3,"15-45","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","SI","SI","NO","SI",136,86,79,176,62.6951745552215,4
+120,"M",38,"Media superior",4,"0-15","D","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","SI",136,86,82,175,62.6489166809809,4
+256,"M",34,"Basica",7,"45+","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","NO","NO","NO","SI","SI","SI","SI",136,85,100,180,62.5349626492013,7
+311,"M",31,"Universitaria",1,"0-15","B","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","SI","NO","SI","NO","SI","SI",136,85,93,187,62.4181781523984,7
+89,"F",41,"Basica",4,"45+","B","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","SI","SI",137,95,67,167,61.5056818976767,2
+143,"F",37,"Basica",2,"45+","B","  FIN_SEMANA ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","NO",137,96,70,164,61.4671851036078,6
+234,"M",36,"Universitaria",3,"0-15","B","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","NO","SI","SI","SI","SI","SI",138,98,95,183,59.8874802689041,6
+165,"F",32,"Universitaria",7,"15-45","B","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","NO","SI","SI","SI",138,86,58,178,59.811509777515,3
+153,"M",41,"Basica",8,"45+","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","NO","NO","SI",138,80,69,185,59.7407161863803,2
+10,"M",47,"Basica",7,"45+","B"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","NO","SI","SI",139,97,76,184,58.6557894572719,2
+287,"M",41,"Media superior",8,"45+","D","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","SI","NO","SI","SI",139,93,89,177,58.5336772242122,2
+109,"M",46,"Basica",2,"15-45","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","NO","SI",139,86,68,174,58.507834983885,7
+139,"M",34,"Media superior",8,"15-45","A","FULL   ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","NO","SI","SI","SI","SI",139,95,72,190,58.4519066239486,1
+163,"F",33,"Basica",1,"15-45","A","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","NO","SI",139,82,66,169,58.314497274314,6
+314,"F",42,"Media superior",2,"0-15","B","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","SI","SI","SI","SI","NO","SI","SI","SI",140,98,55,177,57.2458047235786,6
+162,"F",34,"Universitaria",8,"15-45","C","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","SI","SI","NO","NO","NO","NO","SI","SI",140,90,53,162,57.1742308329561,1
+71,"M",37,"Media superior",3,"45+","B","  FIN_SEMANA ","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","NO","NO","SI","NO","SI","SI",140,82,87,172,56.8686202058461,9
+96,"M",31,"Media superior",1,"45+","B","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","SI","NO","SI","SI",141,94,60,174,55.6221210535803,1
+321,"M",41,"Media superior",6,"45+","A"," NOCTURNO  ","SI","NO","NO","NO","","SI","5 O MENOS","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",141,87,68,188,55.5558009324276,9
+107,"F",46,"Basica",2,"45+","D","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","SI","NO","NO","SI","SI","NO",141,82,71,177,55.5537787294461,5
+239,"F",29,"Basica",3,"45+","D","FULL   ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","NO","NO","NO","SI","SI","SI",141,84,75,169,55.4387249286517,6
+298,"M",37,"Media superior",1,"45+","B","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","SI",141,81,97,177,55.3519120516612,1
+68,"F",39,"Basica",2,"15-45","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","NO","NO","NO","SI","SI",142,100,51,165,54.5008001395488,3
+22,"F",38,"Universitaria",6,"45+","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","NO","SI","SI",142,95,80,154,54.418166089775,2
+358,"M",38,"Basica",1,"45+","C"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","NO","SI","NO",142,99,66,166,54.4042426343193,2
+360,"M",44,"Media superior",8,"0-15","B","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",142,92,64,170,54.3979980544301,9
+274,"M",41,"Basica",7,"45+","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","SI","NO","NO","SI","SI","SI",142,98,80,179,54.3587795912969,3
+230,"M",30,"Universitaria",6,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","SI","SI","NO","SI",142,96,65,166,54.3059869967127,2
+12,"M",38,"Basica",2,"15-45","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","NO","SI","SI","NO",143,97,86,183,52.794818089134,2
+58,"M",28,"Universitaria",7,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","SI",143,92,68,177,52.7181581884157,2
+351,"M",41,"Basica",6,"45+","A","VESPERTINO","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","NO","NO","SI","SI","SI","SI",143,90,81,189,52.7100020661566,1
+293,"M",40,"Universitaria",7,"15-45","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","NO","NO","SI","SI","NO","SI",143,87,98,183,52.6631731192445,7
+14,"M",35,"Basica",7,"0-15","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","NO",144,93,99,170,51.3627458903504,7
+340,"F",28,"Basica",4,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","NO","NO","SI",144,89,70,157,51.3494302009245,5
+178,"M",31,"Basica",7,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","NO","SI","SI","SI",144,94,65,181,51.3491559948958,2
+219,"M",45,"Media superior",6,"45+","A","VESPERTINO","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","NO","NO","NO","NO","SI","SI",144,91,96,186,51.3317958253566,1
+224,"M",32,"Basica",5,"0-15","A","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","SI","SI","SI","SI","SI",144,84,73,182,51.1439590902072,6
+362,"F",29,"Media superior",3,"15-45","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","NO","SI","SI","NO","SI",144,80,53,176,51.1185720944859,4
+33,"M",38,"Basica",1,"0-15","B","VESPERTINO","SI","SI","SI","SI","B","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","SI",144,82,96,184,51.0704097510805,8
+103,"F",47,"Universitaria",4,"15-45","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","SI","NO","SI","SI","SI","SI",145,97,65,160,50.2810173996859,3
+246,"M",42,"Basica",3,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","NO","SI","NO","NO","SI","SI","SI",145,90,70,169,50.0144007145231,7
+50,"F",43,"Universitaria",6,"0-15","D","FULL   ","SI","SI","SI","SI","B","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","SI","NO","SI","SI","SI",145,88,64,174,50.0000462868332,8
+175,"M",34,"Media superior",8,"15-45","C","  FIN_SEMANA ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","SI","SI","SI","SI","SI","NO","SI","NO",145,91,61,180,49.9313604318326,1
+309,"F",29,"Universitaria",7,"45+","B"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","NO","SI","NO","SI",145,87,51,177,49.849255318133,5
+337,"M",47,"Basica",5,"15-45","A"," NOCTURNO  ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","SI","SI","SI","NO","SI","SI","NO","SI",145,85,98,183,49.8390515607718,1
+356,"M",36,"Basica",5,"15-45","A","FULL   ","SI","SI","SI","SI","B","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","SI","NO","SI","NO","SI",145,81,74,173,49.7755157457742,8
+135,"M",41,"Media superior",2,"45+","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","NO","NO",145,84,96,178,49.7612625039006,4
+176,"F",33,"Universitaria",8,"45+","B","FULL   ","SI","NO","NO","NO","","SI","5 A 8","SI","NO","SI","SI","SI","SI","NO","NO","SI","SI","SI",146,98,69,150,48.7876392933831,9
+270,"F",38,"Media superior",4,"45+","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","NO","SI","SI","SI","SI","SI",146,92,58,164,48.6472683064909,6
+94,"F",37,"Universitaria",6,"15-45","B","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","NO","NO","SI","SI","SI",146,93,76,171,48.5901515159227,3
+155,"M",33,"Universitaria",1,"45+","C"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","SI","NO","SI","SI","SI",146,97,95,167,48.5402839444343,3
+388,"F",33,"Universitaria",6,"45+","B"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","SI","NO",146,86,73,154,48.5292720851435,4
+88,"M",29,"Media superior",5,"45+","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","NO",146,92,96,168,48.4276856100357,2
+168,"F",32,"Media superior",1,"45+","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","NO","SI","NO",146,85,70,164,48.3975402037729,5
+282,"M",44,"Universitaria",8,"45+","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","NO","SI",147,90,87,179,47.1239972723964,2
+357,"M",43,"Universitaria",4,"45+","A","VESPERTINO","SI","NO","NO","NO","","SI","5 O MENOS","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","SI",147,85,80,169,47.0704699242935,9
+332,"F",32,"Basica",6,"45+","D","FULL   ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","NO","NO","NO","NO","NO","SI","NO","SI",147,86,56,173,47.0152180123756,6
+2,"M",36,"Universitaria",8,"45+","B","FULL   ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","SI","NO","NO","SI","NO","NO",147,86,83,179,46.9660139145505,1
+108,"M",33,"Media superior",2,"0-15","C","FULL   ","SI","SI","SI","SI","A","SI","8 O MAS","SI","SI","SI","NO","SI","SI","SI","NO","SI","NO","SI",147,89,97,169,46.9646025027317,8
+365,"M",35,"Universitaria",2,"15-45","D","  FIN_SEMANA ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","SI","SI","NO","SI","NO","NO","SI","SI",147,88,71,183,46.9500639906333,1
+111,"F",39,"Media superior",5,"15-45","D","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","NO","SI",148,96,63,151,45.9713002975483,4
+221,"M",46,"Basica",6,"15-45","B","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","NO","NO","NO","SI","SI","NO",148,99,85,169,45.9366228141778,3
+131,"M",47,"Universitaria",4,"45+","A","FULL   ","SI","NO","NO","NO","","SI","5 A 8","SI","NO","SI","NO","NO","NO","NO","SI","SI","NO","SI",148,99,98,171,45.8727791384719,9
+121,"M",46,"Basica",3,"15-45","A","  FIN_SEMANA ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","SI","NO","NO","NO","SI","SI",148,98,65,189,45.8117385618284,1
+349,"F",35,"Universitaria",3,"15-45","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","SI","SI",148,85,72,150,45.6970947539163,4
+35,"M",30,"Media superior",4,"15-45","C"," NOCTURNO  ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","SI","NO","SI","SI","SI","SI",148,98,92,173,45.669993889595,1
+81,"F",37,"Universitaria",6,"45+","D"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","NO","NO","NO","SI","SI","NO",148,89,74,175,45.6472902737032,3
+341,"F",37,"Media superior",1,"0-15","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","SI","NO","SI","SI",148,82,70,156,45.6200464736032,3
+190,"M",37,"Media superior",6,"45+","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 A 8","SI","NO","SI","SI","NO","SI","NO","SI","SI","SI","SI",148,87,61,178,45.6187544446945,1
+42,"M",43,"Media superior",1,"15-45","A","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","SI","NO","NO","SI","NO","SI",148,83,72,177,45.5625536549741,1
+147,"M",44,"Media superior",6,"15-45","D","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","NO","NO","NO","SI","SI","SI",148,83,94,180,45.544640652984,5
+289,"F",31,"Basica",8,"0-15","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","NO","NO","SI","SI","SI","SI",149,91,79,154,44.3328828163252,3
+177,"M",46,"Basica",3,"0-15","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","NO","NO","NO",149,97,89,185,44.3313548894312,2
+161,"F",30,"Media superior",5,"15-45","A","  FIN_SEMANA ","SI","SI","SI","SI","B","SI","5 A 8","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","SI",149,81,72,168,44.0451371778036,8
+334,"F",37,"Basica",2,"15-45","A","VESPERTINO","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","NO","SI","NO","NO","SI","NO",150,97,77,177,42.8774011091082,1
+283,"M",36,"Universitaria",4,"0-15","D","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","SI",150,91,70,182,42.769672790037,7
+65,"M",36,"Media superior",5,"45+","C","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","NO","NO","NO","SI","SI","SI",151,97,77,173,41.4939913973306,6
+383,"F",30,"Universitaria",5,"15-45","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","NO","SI","SI","SI",151,90,72,151,41.469529858837,5
+375,"M",30,"Universitaria",8,"15-45","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","NO","SI","SI",151,97,100,166,41.4377066608261,2
+205,"M",45,"Media superior",3,"15-45","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","NO","SI","SI","SI",151,83,86,170,41.3436371110979,2
+291,"F",39,"Universitaria",5,"0-15","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","SI","SI","NO","SI",152,88,60,158,40.098402036326,4
+6,"M",43,"Basica",3,"45+","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","SI",152,91,69,183,39.990404574842,2
+44,"M",33,"Universitaria",4,"15-45","A","FULL   ","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","SI",152,98,66,188,39.9802908609368,9
+84,"F",30,"Basica",3,"45+","C","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","NO","SI","NO","SI",152,89,70,156,39.979147138402,5
+158,"M",31,"Basica",8,"45+","B"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","NO","SI",152,93,94,173,39.9296237277735,2
+355,"M",39,"Basica",6,"15-45","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","SI","NO",152,81,63,178,39.8453789242576,2
+296,"M",44,"Media superior",7,"45+","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","NO","SI",152,82,83,188,39.8089086874806,2
+75,"F",38,"Basica",8,"0-15","B","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","NO","NO","NO","NO","SI","NO",153,81,58,169,38.5006207334098,5
+194,"F",38,"Media superior",2,"15-45","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","SI",153,82,60,170,38.4570377228499,4
+285,"F",36,"Universitaria",4,"15-45","B"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","SI","NO","SI","SI","NO",154,97,74,152,37.3647318177319,4
+393,"M",41,"Basica",2,"15-45","A","VESPERTINO","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","SI","SI","SI","NO","SI","SI","NO",154,98,67,172,37.3032604030953,1
+196,"F",44,"Universitaria",4,"45+","D","VESPERTINO","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","SI","SI","SI","SI",154,91,59,171,37.2605752264403,6
+330,"M",38,"Universitaria",3,"15-45","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","SI","SI","SI","SI","SI","NO",154,94,65,175,37.2032617409753,3
+184,"M",46,"Basica",1,"15-45","B","FULL","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","NO",154,91,85,175,37.170263966134,1
+26,"F",37,"Media superior",1,"0-15","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","SI","SI","SI","NO","NO",154,82,54,160,37.0871340978094,4
+378,"F",42,"Universitaria",4,"45+","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",154,82,74,168,37.0653446666184,4
+164,"M",46,"Media superior",4,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","NO","SI",154,81,95,177,36.984533498778,2
+27,"F",41,"Media superior",2,"15-45","C","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","NO","SI",155,89,72,172,35.7213142437548,4
+318,"F",35,"Basica",2,"15-45","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","NO","SI",155,83,76,150,35.6809839513167,4
+77,"M",40,"Basica",7,"0-15","A","VESPERTINO","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","SI","SI","SI","NO","NO","SI","SI","NO",155,90,61,190,35.6699545875131,1
+231,"F",37,"Universitaria",5,"45+","D","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","SI","SI","NO","SI",156,96,65,173,34.405574932235,4
+250,"M",37,"Basica",6,"15-45","C","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","SI","SI","SI","SI","SI",156,99,95,179,34.3534573827768,3
+244,"F",45,"Universitaria",4,"45+","B","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","SI","NO","NO","NO","SI","SI","NO","NO",156,85,51,177,34.3056273525167,6
+199,"M",35,"Basica",6,"15-45","A","  FIN_SEMANA ","SI","NO","NO","NO","","SI","5 A 8","SI","NO","SI","NO","NO","NO","NO","NO","SI","NO","SI",156,84,94,173,34.1117098485673,9
+338,"M",37,"Basica",7,"0-15","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","SI","NO","SI","SI","SI",157,89,92,171,32.8217393274148,7
+229,"M",34,"Basica",3,"45+","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","NO","NO","NO","SI","NO","SI",157,94,95,182,32.7617707279481,3
+182,"M",37,"Media superior",4,"15-45","D","  FIN_SEMANA ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","SI","NO","SI","SI","NO","SI","SI","SI",157,84,78,171,32.7458034441349,1
+209,"M",44,"Media superior",2,"45+","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","NO","NO","NO","NO","SI","SI","SI",157,84,92,179,32.7186557536822,7
+390,"F",36,"Media superior",3,"15-45","C","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","NO","SI","SI",157,80,63,168,32.7166138515494,4
+112,"M",28,"Media superior",6,"15-45","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","NO","SI","SI","SI",157,84,73,166,32.712644041123,3
+24,"M",39,"Basica",5,"0-15","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","NO","NO","SI","SI","SI","SI",157,80,96,185,32.572704307141,7
+372,"M",43,"Media superior",4,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","NO","NO","SI",158,97,73,167,31.6511629822964,2
+202,"F",39,"Media superior",5,"45+","D","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","NO",158,94,79,152,31.6361620134936,1
+150,"F",44,"Basica",5,"45+","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","NO","NO","NO","SI","SI","SI",158,90,66,160,31.6169017124999,5
+346,"M",46,"Basica",2,"45+","A","FULL   ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","SI","NO","SI","NO","SI","SI","NO","SI",158,96,90,167,31.601392662224,1
+271,"F",30,"Media superior",7,"45+","A","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","NO","SI","NO","NO","SI","SI","NO","SI","SI","NO",158,96,50,165,31.5804821821906,6
+253,"F",29,"Basica",6,"45+","D","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","NO","NO","NO","NO","SI","SI",158,91,50,173,31.4251884493292,1
+86,"M",30,"Media superior",4,"15-45","B","VESPERTINO","SI","SI","SI","SI","B","SI","8 O MAS","SI","SI","SI","NO","SI","NO","NO","SI","SI","SI","SI",158,80,88,173,31.1303738447893,8
+99,"F",38,"Basica",6,"0-15","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","SI","SI",159,100,77,151,30.3357058703066,4
+347,"F",35,"Universitaria",1,"15-45","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","NO","NO","SI","SI","SI",159,93,72,152,30.1456654956994,5
+185,"M",33,"Universitaria",2,"45+","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",159,98,64,175,30.0850213455002,4
+126,"F",39,"Media superior",4,"15-45","C","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","SI","SI","SI","SI",159,85,58,161,30.0587724430267,4
+325,"M",29,"Universitaria",6,"45+","B","VESPERTINO","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","NO","SI","SI","SI","NO","NO",159,94,93,172,29.9459769012657,3
+138,"M",42,"Universitaria",4,"45+","A","FULL   ","SI","SI","SI","SI","A","SI","8 O MAS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","SI",159,83,68,181,29.8931749577971,8
+252,"M",38,"Basica",8,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",159,83,73,184,29.8536943463644,2
+20,"M",29,"Universitaria",2,"15-45","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","NO","SI","SI","SI",159,83,68,171,29.804306664506,4
+380,"F",38,"Media superior",3,"15-45","C","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","SI","SI",160,98,52,177,28.7513652484389,4
+171,"M",40,"Media superior",3,"45+","A","VESPERTINO","SI","SI","NO","NO","","SI","5 O MENOS","SI","NO","SI","NO","NO","NO","NO","NO","SI","NO","SI",160,96,72,168,28.7407089949327,1
+137,"M",46,"Basica",3,"15-45","B","FULL   ","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","SI","NO","NO","NO","NO","SI",160,94,100,173,28.6728353085063,1
+361,"F",44,"Media superior",1,"45+","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",160,81,57,160,28.601688430373,4
+387,"F",41,"Media superior",5,"45+","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","NO","NO","SI",160,82,79,174,28.470736611649,5
+288,"M",42,"Media superior",3,"15-45","B","VESPERTINO","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","SI","NO","NO","SI","SI","SI","SI",160,88,89,185,28.4681598143199,1
+299,"M",38,"Universitaria",5,"0-15","A","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",160,86,86,181,28.4456292217497,4
+201,"M",33,"Universitaria",2,"45+","D","FULL   ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","NO","SI","SI","NO","SI","NO","SI","NO",160,80,89,175,28.2712344377708,1
+374,"F",42,"Basica",4,"45+","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","NO","NO","NO","SI","NO","SI",161,99,78,173,27.3549009714206,5
+92,"F",28,"Media superior",6,"45+","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","NO","NO","NO","SI","SI","SI",161,93,51,173,27.1788414870712,5
+197,"M",39,"Media superior",3,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","SI","SI","SI","NO",161,83,64,168,27.0958232105164,4
+326,"M",44,"Universitaria",5,"0-15","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",161,84,95,177,27.0557269537574,4
+3,"M",47,"Universitaria",3,"15-45","D","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","SI","SI","SI","SI",161,83,81,189,27.0164790709036,2
+339,"M",32,"Basica",4,"15-45","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",161,81,99,176,26.8553737647267,7
+286,"F",41,"Basica",4,"45+","A","FULL","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","NO","SI","SI","SI","SI","SI",162,100,55,167,26.031829209759,6
+100,"M",47,"Basica",7,"15-45","B","VESPERTINO","SI","SI","SI","SI","B","SI","8 O MAS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","SI",162,96,80,166,26.0024010683437,8
+29,"F",43,"Universitaria",7,"0-15","B","FULL","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","NO","NO","NO",162,100,80,172,25.9870000078567,5
+18,"F",38,"Media superior",1,"15-45","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","NO","SI","SI","NO",162,89,67,155,25.8317630334086,4
+78,"M",44,"Basica",2,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","NO",162,88,60,174,25.7820133339386,4
+272,"M",34,"Basica",8,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","SI","NO","SI","SI","SI","SI",162,89,61,177,25.721887071752,3
+245,"M",38,"Media superior",1,"15-45","C","FULL   ","SI","SI","SI","SI","A","SI","5 A 8","SI","SI","SI","NO","NO","SI","NO","NO","SI","SI","SI",162,91,88,180,25.6450049512667,8
+228,"M",34,"Universitaria",3,"45+","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","SI","SI","SI","SI",162,86,62,175,25.630010270253,6
+371,"M",30,"Universitaria",4,"15-45","B"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","SI","SI",162,87,82,170,25.5965605472445,2
+183,"M",42,"Universitaria",1,"15-45","D","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","SI","NO","NO","SI","NO","NO",162,80,88,168,25.5872905308542,3
+261,"M",40,"Basica",2,"45+","A"," NOCTURNO  ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","NO","NO","NO","NO","NO","SI",162,80,93,175,25.5076866599023,1
+69,"M",33,"Universitaria",7,"45+","D","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","SI","NO","NO","SI",162,81,88,179,25.4730161192137,2
+206,"M",35,"Basica",1,"0-15","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","NO",162,84,90,187,25.441109267102,7
+238,"F",34,"Basica",2,"45+","B","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","SI","NO","NO","NO","SI",163,94,53,152,24.5129783739229,4
+56,"F",40,"Universitaria",5,"15-45","A","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","NO","SI","NO","NO","NO","NO","NO","SI","SI","SI",163,87,56,150,24.4961169174778,9
+149,"M",35,"Basica",7,"15-45","A"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","SI","SI","SI","NO",163,96,93,178,24.3284178785392,2
+128,"M",35,"Media superior",4,"0-15","A","FULL","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","SI",163,100,99,186,24.3028674560402,1
+23,"F",32,"Media superior",7,"45+","C","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","SI","SI","SI","NO","NO",163,81,54,177,24.1446260480545,3
+266,"M",30,"Basica",2,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","SI","SI",163,94,87,187,24.1439911461811,2
+98,"M",41,"Media superior",2,"0-15","B"," NOCTURNO  ","SI","SI","SI","SI","B","SI","5 A 8","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","NO",163,80,82,177,24.1087834808749,8
+354,"M",36,"Universitaria",6,"15-45","D","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","SI","SI","SI","SI",163,80,69,186,24.0692325361842,2
+350,"M",42,"Basica",5,"45+","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","SI",164,82,67,173,22.8209822370554,1
+66,"F",32,"Basica",6,"45+","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","NO","NO","NO","SI","NO",164,80,78,156,22.7633065420782,5
+379,"F",47,"Universitaria",6,"45+","B","FULL   ","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","SI","SI","NO","SI","NO","SI","NO","SI",165,99,78,150,21.8805121677393,9
+157,"F",36,"Basica",7,"0-15","B","FULL   ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","NO",165,94,75,163,21.599864519042,6
+226,"F",41,"Media superior",6,"0-15","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","SI","NO","SI","SI","NO","NO",165,94,76,171,21.5974186057732,5
+279,"F",43,"Basica",8,"15-45","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","SI","NO","SI","SI",165,85,77,175,21.461074465244,3
+31,"M",37,"Media superior",8,"45+","B"," NOCTURNO  ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","SI","SI","SI","NO","SI","NO","SI","NO",165,88,82,173,21.4273850105221,1
+148,"M",28,"Media superior",5,"0-15","B","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","NO","SI",165,93,66,189,21.3348873809319,7
+9,"F",31,"Universitaria",8,"45+","C","FULL   ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","SI","SI","SI","NO","NO","SI","SI","SI",166,80,76,161,19.8929191882856,6
+189,"F",44,"Media superior",5,"45+","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","SI","SI","SI","NO","SI",167,93,53,176,18.7832278885209,4
+398,"M",47,"Basica",3,"15-45","C","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","NO","NO","NO","SI","NO","SI",167,92,69,173,18.773257891737,7
+151,"F",40,"Media superior",1,"45+","D","FULL   ","SI","NO","NO","NO","","SI","5 O MENOS","SI","NO","SI","SI","SI","NO","NO","SI","SI","NO","NO",167,97,76,174,18.7220550735805,4
+181,"M",34,"Media superior",5,"45+","A","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","NO","NO","SI","NO","NO","SI",167,89,86,169,18.5551164092943,9
+198,"M",35,"Basica",6,"45+","D","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","SI","NO","SI","SI","NO",167,90,73,189,18.5003073177652,3
+370,"M",42,"Universitaria",2,"45+","B","FULL ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","NO",168,99,86,171,17.3563524648406,4
+297,"M",41,"Basica",7,"15-45","A","FULL   ","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","NO","SI","NO","NO","SI","SI",168,98,74,184,17.3259097661714,9
+389,"M",47,"Media superior",1,"45+","D","FULL   ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","SI","SI","NO","NO","NO","NO","SI","SI",168,88,74,178,17.2015976915371,1
+63,"M",33,"Basica",5,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","SI","SI","NO","SI","SI","SI",168,96,90,176,17.19199923881,7
+295,"M",34,"Universitaria",8,"15-45","A","FULL   ","SI","SI","SI","SI","A","SI","8 O MAS","SI","SI","SI","SI","SI","NO","NO","NO","NO","SI","NO",168,100,99,188,17.1894358242786,8
+242,"F",34,"Media superior",2,"45+","B","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",168,87,61,174,17.106875581402,4
+236,"M",32,"Basica",6,"15-45","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","SI","NO","NO","NO","SI","SI",168,87,70,177,17.0805552811162,1
+262,"M",31,"Media superior",8,"45+","D","FULL   ","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","NO","SI","NO","SI","SI",168,86,66,186,17.0107953570335,1
+216,"M",33,"Universitaria",6,"45+","A","FULL   ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","SI","NO","NO","NO","SI","SI","SI","SI",168,90,96,190,16.9770788549593,1
+166,"M",29,"Media superior",2,"45+","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","SI","SI","NO","NO",168,90,72,190,16.9707008882527,4
+174,"M",39,"Universitaria",8,"45+","C","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","SI","NO","NO","SI","SI",168,80,97,184,16.9325290061567,2
+366,"M",44,"Media superior",3,"15-45","A","VESPERTINO","SI","SI","SI","SI","A","SI","5 O MENOS","SI","SI","SI","SI","SI","NO","SI","SI","SI","NO","NO",169,94,98,167,15.8761638431721,8
+15,"F",28,"Media superior",8,"0-15","B","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","NO","SI","SI","SI",169,90,77,150,15.834868761832,5
+90,"F",30,"Basica",6,"45+","D","VESPERTINO","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","NO","SI","NO","NO","SI","SI","SI",169,93,79,171,15.7439150470425,6
+237,"M",44,"Media superior",1,"15-45","A","  FIN_SEMANA ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","SI","SI","SI","NO","NO","SI","SI","SI",169,84,87,172,15.6838275157624,1
+376,"M",28,"Basica",3,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","NO","SI","NO",169,91,74,181,15.6092463716895,2
+179,"M",32,"Media superior",4,"45+","B","  FIN_SEMANA ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","NO","NO","SI","SI","SI","SI","SI",169,86,96,170,15.5914518165089,9
+122,"M",36,"Media superior",7,"0-15","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","NO","NO","NO","SI","SI","SI",170,95,74,184,14.3708514709864,7
+191,"M",36,"Basica",7,"45+","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","NO","SI","NO",170,84,71,171,14.267109519828,2
+60,"M",35,"Media superior",8,"15-45","D","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","NO","NO","NO","NO","SI","NO",171,94,67,167,13.0533272392079,5
+54,"F",32,"Basica",5,"15-45","D"," NOCTURNO  ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",171,100,61,177,13.0528791502216,4
+19,"M",42,"Basica",4,"15-45","A","VESPERTINO","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","SI","SI","NO","NO","SI","SI","SI","SI",171,93,81,166,13.0462883468847,1
+141,"M",46,"Basica",5,"0-15","A","VESPERTINO","SI","NO","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","SI",171,87,71,172,12.9881281436598,9
+61,"M",31,"Media superior",5,"0-15","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","SI",171,96,93,170,12.9251202420575,2
+382,"M",41,"Media superior",7,"15-45","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","NO","SI","SI",171,94,98,184,12.9219360966974,2
+319,"M",44,"Universitaria",8,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","NO","SI","SI","SI",171,82,63,181,12.8656175938043,2
+268,"M",30,"Media superior",1,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","SI","SI","SI",171,90,86,168,12.8067346010996,2
+363,"M",42,"Media superior",2,"15-45","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","SI","SI","SI","SI","SI",171,82,95,167,12.8022725884524,2
+76,"M",43,"Universitaria",6,"0-15","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","SI","NO",171,81,93,185,12.7140949946023,2
+114,"M",29,"Universitaria",5,"45+","D","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","SI","SI","SI",171,87,84,186,12.6658766117346,7
+257,"M",47,"Media superior",3,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","NO","SI","SI",172,99,63,175,11.7651601655895,2
+333,"F",44,"Universitaria",6,"45+","D","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","NO","NO","SI",172,81,69,154,11.5662364031909,4
+73,"M",47,"Media superior",5,"15-45","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","NO","SI","SI","SI","SI","SI",172,94,86,190,11.5427280731896,4
+212,"F",47,"Media superior",4,"15-45","D","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","SI",172,88,76,178,11.5347703176431,4
+391,"M",45,"Basica",1,"15-45","B","VESPERTINO","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","NO","SI","NO","NO","SI","SI","SI",172,83,85,190,11.294820074267,1
+169,"M",39,"Basica",8,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","SI","SI","NO","SI","SI","SI",173,85,63,189,9.96871280627536,3
+74,"F",29,"Universitaria",2,"0-15","A","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","SI","SI","NO","NO","NO","NO","SI","SI","SI","NO",173,82,72,160,9.9031350689321,6
+269,"M",38,"Basica",8,"15-45","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","SI","SI","SI",173,83,95,181,9.89062670714764,7
+146,"M",34,"Media superior",4,"15-45","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","NO","SI","SI","SI",173,83,98,185,9.7740752618287,7
+167,"M",47,"Universitaria",3,"45+","A","FULL   ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","NO","NO","SI","SI","NO","SI","SI","SI",174,92,87,170,8.75993879254489,1
+392,"M",39,"Basica",1,"45+","B","FULL   ","SI","SI","SI","SI","B","SI","5 A 8","SI","SI","SI","SI","SI","SI","NO","NO","SI","SI","NO",174,96,72,176,8.71897552633107,8
+210,"M",36,"Media superior",4,"45+","C","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","SI","SI","SI","SI",174,95,89,175,8.66129630114271,2
+85,"M",32,"Basica",3,"15-45","D","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","NO","SI","SI",174,93,99,166,8.60836278561334,2
+373,"F",34,"Media superior",3,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","NO","SI","SI","SI","NO",174,90,74,174,8.59142764445065,3
+312,"M",28,"Basica",8,"45+","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","SI","SI","SI",174,94,81,187,8.52904824739237,2
+222,"F",39,"Basica",6,"45+","A","FULL   ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","SI","SI","SI","NO","SI","SI","NO","SI",174,81,67,176,8.52172843572025,1
+142,"M",41,"Media superior",5,"15-45","D","FULL","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","SI","SI","SI","NO",174,80,85,173,8.49645526849754,2
+67,"F",41,"Basica",2,"0-15","B","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","SI","SI","SI","SI","SI",175,100,75,155,7.5323651176078,4
+385,"M",39,"Media superior",3,"15-45","B"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","SI","NO","SI","SI",175,99,67,176,7.39307244598134,2
+102,"M",35,"Universitaria",4,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","NO","NO","NO","NO","SI","SI","SI",175,98,66,168,7.38950918024126,3
+369,"M",38,"Universitaria",8,"45+","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","SI","SI","SI","SI","SI","SI",175,96,91,168,7.35670786028028,3
+243,"M",41,"Universitaria",4,"45+","B","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","NO","SI","SI","SI",175,94,89,179,7.25245656857686,4
+281,"F",36,"Media superior",1,"15-45","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","SI","SI","NO","SI",175,80,67,151,7.17386333641286,4
+313,"M",38,"Basica",1,"45+","A","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","NO","NO","SI",175,87,72,174,7.14852868045,2
+394,"M",28,"Media superior",4,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","SI","SI",175,91,86,168,7.13154206326518,7
+106,"F",39,"Universitaria",2,"0-15","B","VESPERTINO","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","NO",175,82,78,170,7.0895477056216,6
+13,"F",44,"Basica",4,"45+","D","VESPERTINO","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","SI","NO","SI","SI","NO","NO",176,81,68,152,5.8668059983809,6
+377,"M",37,"Media superior",7,"0-15","C","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","SI","SI","NO",176,90,80,173,5.80829535985987,5
+113,"F",36,"Basica",7,"15-45","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","NO","NO","SI","SI","SI","NO",176,80,78,165,5.68039352161469,5
+132,"F",29,"Universitaria",6,"15-45","A","FULL   ","SI","SI","SI","SI","A","SI","8 O MAS","SI","SI","SI","NO","NO","NO","NO","NO","SI","SI","NO",176,89,80,178,5.65305947579479,8
+40,"F",28,"Basica",3,"45+","A","VESPERTINO","NO","NO","NO","NO","","NO","","NO","NO","NO","SI","SI","NO","NO","SI","SI","NO","SI",176,82,61,171,5.59493030810365,5
+91,"M",33,"Basica",1,"0-15","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","SI","SI","SI","NO","NO","SI","SI","SI",176,86,76,185,5.57418880660136,7
+95,"M",46,"Basica",1,"0-15","D","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","NO","NO","SI","SI","SI","SI",177,94,62,168,4.58233859942259,4
+276,"F",33,"Basica",8,"15-45","D","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","SI","NO","SI","SI","NO","SI",177,89,65,150,4.52358486458568,4
+144,"M",46,"Universitaria",8,"15-45","A","FULL   ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","SI","SI","SI","NO","SI","SI","SI",177,89,65,172,4.52185915464805,1
+117,"F",33,"Universitaria",5,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","SI","NO","NO","SI","SI","SI",177,96,76,177,4.40754033480706,3
+300,"M",35,"Basica",7,"45+","C","FULL   ","SI","SI","SI","SI","A","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","NO","SI","SI","NO",177,90,79,178,4.32380024639186,8
+220,"M",36,"Universitaria",3,"15-45","C","FULL   ","SI","SI","SI","SI","A","SI","5 A 8","SI","SI","SI","NO","NO","NO","NO","NO","NO","NO","NO",177,92,97,176,4.30294007745021,8
+105,"M",35,"Universitaria",3,"15-45","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","NO","NO","NO","NO","SI","NO","NO","SI","SI","SI","SI",177,91,79,182,4.29369366379182,3
+133,"M",37,"Media superior",5,"15-45","B","  FIN_SEMANA ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","NO","NO","NO","NO",177,89,78,190,4.24859766335368,5
+93,"M",33,"Basica",7,"45+","B"," NOCTURNO  ","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","NO","SI","SI","NO","SI","SI","SI","NO",177,86,76,180,4.22386442568115,1
+51,"F",40,"Universitaria",6,"15-45","A"," NOCTURNO  ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","SI","NO","SI","SI","NO",178,100,70,173,3.18899753111161,4
+400,"F",43,"Media superior",2,"45+","C","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","SI","NO","SI","SI","NO",178,82,53,159,3.00538627626753,5
+336,"M",35,"Media superior",2,"15-45","B","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","NO","SI","NO","SI","SI","NO","SI",178,95,81,174,2.9714384810095,4
+21,"M",40,"Universitaria",7,"45+","A","VESPERTINO","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","SI","NO","SI",178,96,96,190,2.94170521831072,2
+5,"F",45,"Basica",7,"0-15","B","VESPERTINO","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","SI","NO","NO","SI","NO","NO",179,99,76,165,1.84488732131551,4
+123,"F",44,"Basica",5,"45+","A"," NOCTURNO  ","SI","SI","SI","NO","","SI","5 A 8","SI","SI","SI","SI","NO","SI","SI","NO","SI","SI","SI",179,93,78,164,1.70768450119991,6
+248,"F",28,"Universitaria",6,"15-45","A","  FIN_SEMANA ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","NO","NO","SI","SI","NO","SI",179,95,70,163,1.6056768453924,4
+302,"M",36,"Basica",6,"45+","A","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","SI","NO","SI","SI",179,100,88,184,1.58871847670926,2
+127,"F",45,"Media superior",6,"15-45","A","VESPERTINO","SI","SI","NO","NO","","SI","5 A 8","SI","SI","SI","SI","SI","SI","NO","SI","NO","NO","SI",179,82,66,167,1.55400998804178,1
+87,"M",38,"Universitaria",1,"45+","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","SI","NO","SI","NO","SI","SI","SI",179,92,96,167,1.52509589928155,7
+303,"F",36,"Media superior",4,"0-15","A","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","SI","NO","SI","SI","NO","NO","SI","NO","NO",179,91,70,178,1.51050012266781,5
+386,"F",30,"Media superior",1,"45+","D","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","SI","SI","SI","NO","SI","SI","NO","SI",179,89,61,161,1.50982355652483,4
+204,"M",44,"Basica",5,"15-45","C","FULL   ","SI","SI","NO","NO","","SI","8 O MAS","SI","NO","SI","NO","SI","SI","NO","SI","SI","NO","SI",179,83,82,185,1.39762641612569,1
+367,"M",36,"Basica",3,"0-15","D","FULL","SI","SI","NO","NO","","SI","5 O MENOS","SI","SI","SI","NO","SI","NO","NO","SI","NO","NO","NO",179,85,92,172,1.37574160082664,1
+207,"F",31,"Media superior",8,"45+","A","  FIN_SEMANA ","SI","SI","SI","SI","A","SI","5 A 8","SI","SI","SI","NO","NO","NO","NO","NO","SI","SI","SI",180,100,68,160,0.333155676456548,8
+118,"M",35,"Basica",4,"45+","A","  FIN_SEMANA ","SI","SI","SI","SI","A","SI","8 O MAS","SI","SI","SI","NO","SI","SI","NO","NO","SI","SI","NO",180,98,62,183,0.175789630820344,8
+343,"F",39,"Media superior",6,"0-15","B","FULL   ","SI","SI","SI","NO","","SI","8 O MAS","SI","SI","SI","NO","SI","NO","NO","NO","SI","NO","SI",180,88,60,170,0.164084898828058,1
+384,"M",47,"Universitaria",2,"45+","C","FULL   ","NO","NO","NO","NO","","NO","","SI","NO","NO","NO","NO","SI","NO","NO","NO","SI","SI",180,90,67,188,0.119773309751901,3
+215,"M",38,"Media superior",2,"45+","B","FULL   ","SI","NO","NO","NO","","NO","","SI","NO","SI","NO","NO","NO","NO","SI","SI","SI","SI",180,91,88,177,0.0455330128498575,2
+324,"M",40,"Universitaria",2,"15-45","B","VESPERTINO","SI","SI","SI","NO","","SI","5 O MENOS","SI","SI","SI","SI","NO","SI","NO","NO","NO","SI","NO",180,85,73,173,0.0314619316596693,1
+55,"F",28,"Universitaria",7,"45+","A","  FIN_SEMANA ","SI","NO","NO","NO","","SI","5 A 8","SI","NO","SI","SI","NO","NO","SI","NO","SI","SI","SI",180,81,57,159,0,9
