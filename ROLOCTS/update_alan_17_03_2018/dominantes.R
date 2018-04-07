@@ -1,7 +1,7 @@
 setwd(dir = 'C:\\Users\\fou-f\\Desktop\\Consultoria\\ROLOCTS\\100\\')
 #primero dejamos fijo el nombre del archivo a examinar
-archivo <- 'DET.TXT'
-#archivo <- 'E543.TXT'
+#archivo <- 'DET.TXT'
+archivo <- 'E543.TXT'
 #archivo <-'E87113.TXT'
 #archivo <-'EXAMPLE1.TXT'
 #archivo <- 'GEN.TXT'
@@ -15,6 +15,7 @@ p1<- ggplot(datos, aes(x=expected_value, y =risk, alpha=.0001 )) +
 p1 #graficamos los puntos de todas las soluciones encontradas
 ######################## lectura y graficacion de todos los puntos que son candidatos a formar la frontera de pareto
 archivo2 <- paste0(archivo, 'dominantes.txt')
+#archivo2 <- 'C:\\Users\\fou-f\\Downloads\\GEN.TXTdominantes.txt'
 datos.verificacion <- read.table(archivo2, header=TRUE, sep ='\t')
 p1+geom_point(data = datos.verificacion, aes(x=expected_value, y =risk,
                   colour=I('green') ))  

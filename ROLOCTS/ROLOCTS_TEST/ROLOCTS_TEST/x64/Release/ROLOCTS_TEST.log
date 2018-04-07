@@ -1,22 +1,22 @@
 ﻿  chafa.c
-chafa.c(482): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
-chafa.c(541): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
-chafa.c(541): warning C4024: 'select_move': different types for formal and actual parameter 18
-chafa.c(541): warning C4024: 'select_move': different types for formal and actual parameter 19
-chafa.c(542): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
-chafa.c(542): warning C4024: 'execute_move': different types for formal and actual parameter 10
-chafa.c(542): warning C4024: 'execute_move': different types for formal and actual parameter 11
-chafa.c(551): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
-chafa.c(551): warning C4024: 'write_output_foo2': different types for formal and actual parameter 7
-chafa.c(551): warning C4024: 'write_output_foo2': different types for formal and actual parameter 8
-chafa.c(1740): warning C4028: formal parameter 2 different from declaration
-chafa.c(1740): warning C4028: formal parameter 6 different from declaration
-chafa.c(1740): warning C4029: declared formal parameter list different from definition
-chafa.c(1953): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
-chafa.c(1953): warning C4024: 'search': different types for formal and actual parameter 11
-chafa.c(1953): warning C4024: 'search': different types for formal and actual parameter 12
+chafa.c(484): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+chafa.c(543): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+chafa.c(543): warning C4024: 'select_move': different types for formal and actual parameter 18
+chafa.c(543): warning C4024: 'select_move': different types for formal and actual parameter 19
+chafa.c(544): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+chafa.c(544): warning C4024: 'execute_move': different types for formal and actual parameter 10
+chafa.c(544): warning C4024: 'execute_move': different types for formal and actual parameter 11
+chafa.c(553): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+chafa.c(553): warning C4024: 'write_output_foo2': different types for formal and actual parameter 7
+chafa.c(553): warning C4024: 'write_output_foo2': different types for formal and actual parameter 8
+chafa.c(1742): warning C4028: formal parameter 2 different from declaration
+chafa.c(1742): warning C4028: formal parameter 6 different from declaration
+chafa.c(1742): warning C4029: declared formal parameter list different from definition
+chafa.c(1955): warning C4047: 'function': 'double *' differs in levels of indirection from 'double **'
+chafa.c(1955): warning C4024: 'search': different types for formal and actual parameter 11
+chafa.c(1955): warning C4024: 'search': different types for formal and actual parameter 12
   Generating code
-c:\users\fou-f\desktop\consultoria\rolocts\rolocts_test\rolocts_test\chafa.c(380): warning C4715: 'find_place': not all control paths return a value
+c:\users\fou-f\desktop\consultoria\rolocts\rolocts_test\rolocts_test\chafa.c(382): warning C4715: 'find_place': not all control paths return a value
   All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   ROLOCTS_TEST.vcxproj -> C:\Users\fou-f\Desktop\Consultoria\ROLOCTS\ROLOCTS_TEST\x64\Release\ROLOCTS_TEST.exe

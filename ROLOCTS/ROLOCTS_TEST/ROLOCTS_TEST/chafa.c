@@ -129,7 +129,7 @@ void   nrerror(char *error_text);
 
 #define BIGFOO = 999999
 #define INFBOUND 100
-#define MAX_iter  100											    // se reubica numero maximo de iteraciones para mover lambda con el 
+#define MAX_iter  50											    // se reubica numero maximo de iteraciones para mover lambda con el 
 
 void write_file(char *filename, int n, int nsols, int **comb_matrix);
 
@@ -161,6 +161,7 @@ int main(int argc, char **argv)
 	int index2 = 0;
 	char a;             /* used to scan the file and skip headers     */
 	FILE *fp;           /* file pointer                               */
+	FILE *fp_dominantes;
 
 
 
@@ -244,9 +245,10 @@ int main(int argc, char **argv)
 		}
 	}
 	fclose(fp);
-	err_open = fopen_s(&fp, out_dominantes, "a+"); //creamos archivo para escribir los puntos solucion que son factibles de crear la frontera de pareto
+	//fclose(fp);
+	err_open = fopen_s(&fp_dominantes, out_dominantes, "a+"); //creamos archivo para escribir los puntos solucion que son factibles de crear la frontera de pareto
 	if (err_open != 0) nrerror("Unable to open dominantes file.");
-	fprintf(fp, "Iteration\texpected_value\trisk\tlambda\n");
+	fprintf(fp_dominantes, "Iteration\texpected_value\trisk\tlambda\n");
 	//buscamos el optimo de pareto
 	pareto[3] = ParetoFront[0][3];
 	pareto[2] = ParetoFront[0][2];
@@ -264,7 +266,7 @@ int main(int argc, char **argv)
 
 		}
 	}
-	fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", pareto[0], pareto[1], pareto[2], pareto[3]);//escribimos en disco el minimo de pareto
+	fprintf(fp_dominantes, "%lf\t%lf\t%lf\t%lf\n", pareto[0], pareto[1], pareto[2], pareto[3]);//escribimos en disco el minimo de pareto
 	candidato1[0] = pareto[0];//el minimo de pareto es nuestro primer candidato
 	candidato1[1] = pareto[1];
 	candidato1[2] = pareto[2];
@@ -280,7 +282,7 @@ int main(int argc, char **argv)
 			candidato2[0] = ParetoFront[i][0];
 			if (candidato2[1] >= candidato1[1])//comparamos expected value del candidato2 
 			{
-				fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);//si cumple ambas condiciones es un candidato a estar en la frontera de pareto y lo escribimos en disco
+				fprintf(fp_dominantes, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);//si cumple ambas condiciones es un candidato a estar en la frontera de pareto y lo escribimos en disco
 				candidato1[0] = candidato2[0];//se actualiza el candidato 1 como el candidato2 y guardamos el candidato1
 				candidato1[1] = candidato2[1];
 				candidato1[2] = candidato2[2];
@@ -313,7 +315,7 @@ int main(int argc, char **argv)
 
 		}
 	}
-	fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", pareto[0], pareto[1], pareto[2], pareto[3]);//escribimos el minimo encontrado
+	fprintf(fp_dominantes, "%lf\t%lf\t%lf\t%lf\n", pareto[0], pareto[1], pareto[2], pareto[3]);//escribimos el minimo encontrado
 	candidato1[0] = pareto[0];//inicializamos el primer candidato
 	candidato1[1] = pareto[1];
 	candidato1[2] = pareto[2];
@@ -328,7 +330,7 @@ int main(int argc, char **argv)
 			candidato2[0] = ParetoFront[i][0];
 			if (candidato2[2] >= candidato1[2])//comparamos riesgo del candidato2 y si es candidato a estar en la frontera de pareto lo escribimos
 			{
-				fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);
+				fprintf(fp_dominantes, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);
 				candidato1[0] = candidato2[0];//se actualiza el candidato 1 como el candidato2 y guardamos el candidato1
 				candidato1[1] = candidato2[1];
 				candidato1[2] = candidato2[2];
@@ -343,8 +345,8 @@ int main(int argc, char **argv)
 			}
 		}
 	}
-	fprintf(fp, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);
-	fclose(fp);
+	fprintf(fp_dominantes, "%lf\t%lf\t%lf\t%lf\n", candidato1[0], candidato1[1], candidato1[2], candidato1[3]);
+	fclose(fp_dominantes);
 	return(0);
 	/* End Main */
 }
